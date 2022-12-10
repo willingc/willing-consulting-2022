@@ -52,6 +52,6 @@ and seeing something in me which I don't always see in myself I would not
 have the courage to build my dreams. Hugs.
 
 
-![image alt text](../../../images/ada-blinka.jpg)
+![image alt text](../../../assets/images/ada-blinka.jpg)
 
 *Photo credit: pt at Adafruit*
