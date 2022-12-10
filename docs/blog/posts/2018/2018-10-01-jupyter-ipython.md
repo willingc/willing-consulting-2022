@@ -1,6 +1,6 @@
 ---
 date: 2018-10-01
-authors: willingc
+author: willingc
 tags: [jupyter, learning, ipython]
 description: "Here are some resources that I have found helpful when learning Jupyter or IPython."
 ---

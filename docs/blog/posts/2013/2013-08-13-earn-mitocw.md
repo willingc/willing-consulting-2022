@@ -1,6 +1,6 @@
 ---
 date: 2013-08-13
-authors: willingc
+author: willingc
 tags:
   - education
   - free

@@ -1,6 +1,6 @@
 ---
 date: 2015-02-18
-authors: willingc
+author: willingc
 tags:
   - decorators
   - online python tutor

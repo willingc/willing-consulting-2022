@@ -1,6 +1,6 @@
 ---
 date: 2014-03-03
-authors: willingc
+author: willingc
 tags:
   - open source
   - openhatch

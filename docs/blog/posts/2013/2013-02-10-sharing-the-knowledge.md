@@ -1,6 +1,6 @@
 ---
 date: "2013-02-10"
-authors: willingc
+author: willingc
 tags:
   ["3D printing", "FIRST", "knowledge", "lulzbot", "open source", "teamwork"]
 ---

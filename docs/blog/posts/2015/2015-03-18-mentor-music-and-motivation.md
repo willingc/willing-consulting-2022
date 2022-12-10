@@ -1,6 +1,6 @@
 ---
 date: 2015-03-18
-authors: willingc
+author: willingc
 tags:
   - communication
   - community

@@ -1,6 +1,6 @@
 ---
 date: 2014-02-18
-authors: willingc
+author: willingc
 tags:
   - Audrey Roy
   - book

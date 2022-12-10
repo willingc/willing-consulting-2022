@@ -1,6 +1,6 @@
 ---
 date: 2015-06-03
-authors: willingc
+author: willingc
 tags:
   - education
   - psf

@@ -1,6 +1,6 @@
 ---
 date: 2013-09-24
-authors: willingc
+author: willingc
 tags:
   - future
   - linux plumbers conference

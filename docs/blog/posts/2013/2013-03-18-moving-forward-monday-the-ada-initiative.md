@@ -1,6 +1,6 @@
 ---
 date: 2013-03-18
-authors: willingc
+author: willingc
 tags:
   - Ada Initiative
   - future

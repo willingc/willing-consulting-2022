@@ -1,6 +1,6 @@
 ---
 date: 2013-12-22
-authors: willingc
+author: willingc
 tags:
   - 3D printing
   - community

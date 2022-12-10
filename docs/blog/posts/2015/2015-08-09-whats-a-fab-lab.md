@@ -1,6 +1,6 @@
 ---
 date: 2015-08-09
-authors: willingc
+author: willingc
 tags:
   [
     "Arduino",

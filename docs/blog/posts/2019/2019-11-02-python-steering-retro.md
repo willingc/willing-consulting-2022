@@ -1,7 +1,10 @@
 ---
 date: 2019-11-02
-authors: willingc
-tags: [python, steering-council, governance]
+author: willingc
+tags:
+  - python
+  - steering-council
+  - governance
 description: >
   A Closer Look – Encouraging people to run for the Python Steering Council and offer insight on being a Steering Council member.
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2018-08-08
-authors: willingc
+author: willingc
 tags: [circuitpython, jupyter, mu, nteract, jose, jupyterhub, binder, learning]
 featured_image: "../../../images/ada-blinka.jpg"
 description: "Sunrise signals a new day and new opportunities. I'm taking

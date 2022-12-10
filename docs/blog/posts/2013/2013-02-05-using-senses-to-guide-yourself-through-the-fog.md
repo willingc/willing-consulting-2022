@@ -1,8 +1,14 @@
 ---
 date: 2013-02-05
-authors: willingc
+author: willingc
 tags:
-  ["create", "future", "mom", "simplicity", "Alzheimer's", "senses", "software"]
+  - "create"
+  - "future"
+  - "mom"
+  - "simplicity"
+  - "Alzheimer's"
+  - "senses"
+  - "software"
 ---
 # Using Senses to Guide Yourself Through the Fog
 

@@ -1,6 +1,6 @@
 ---
 date: 2013-08-19
-authors: willingc
+author: willingc
 tags:
   - It's Up to Us
   - mental health

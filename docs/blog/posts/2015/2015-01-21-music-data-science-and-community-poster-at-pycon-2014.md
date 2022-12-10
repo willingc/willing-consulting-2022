@@ -1,6 +1,6 @@
 ---
 date: 2015-01-21
-authors: willingc
+author: willingc
 tags:
   - education
   - MIT

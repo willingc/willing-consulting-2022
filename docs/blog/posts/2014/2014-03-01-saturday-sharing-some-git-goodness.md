@@ -1,6 +1,6 @@
 ---
 date: 2014-03-01
-authors: willingc
+author: willingc
 tags:
   - git
   - GitHub

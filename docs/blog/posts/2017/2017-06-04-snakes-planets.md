@@ -1,6 +1,6 @@
 ---
 date: 2017-06-04
-authors: willingc
+author: willingc
 ---
 
 # Snakes and Planets

@@ -1,6 +1,6 @@
 ---
 date: 2013-08-24
-authors: willingc
+author: willingc
 tags:
   - Alasdair Allan
   - Arduino

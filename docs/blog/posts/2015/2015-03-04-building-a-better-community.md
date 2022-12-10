@@ -1,6 +1,6 @@
 ---
 date: 2015-03-04
-authors: willingc
+author: willingc
 tags: [fablabsd, fablab, outreach]
 ---
 

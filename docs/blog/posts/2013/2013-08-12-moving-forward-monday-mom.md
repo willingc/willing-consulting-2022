@@ -1,6 +1,6 @@
 ---
 date: 2013-08-12
-authors: willingc
+author: willingc
 tags:
   - Ada Initiative
   - mom

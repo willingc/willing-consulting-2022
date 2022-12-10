@@ -1,6 +1,6 @@
 ---
 date: 2015-03-02
-authors: willingc
+author: willingc
 tags:
   - economics
   - education

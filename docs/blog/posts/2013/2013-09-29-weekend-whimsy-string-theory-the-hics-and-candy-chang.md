@@ -1,6 +1,6 @@
 ---
 date: 2013-09-29
-authors: willingc
+author: willingc
 tags:
   - a capella science
   - bohemian gravity

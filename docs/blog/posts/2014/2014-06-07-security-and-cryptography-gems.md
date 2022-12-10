@@ -1,6 +1,6 @@
 ---
 date: 2014-06-27
-authors: willingc
+author: willingc
 tags:
   - Ada Initiative
   - adacamp

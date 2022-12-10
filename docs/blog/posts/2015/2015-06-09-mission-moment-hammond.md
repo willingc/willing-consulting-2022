@@ -1,6 +1,6 @@
 ---
 date: 2015-06-09
-authors: willingc
+author: willingc
 tags:
   - Brian Curtin
   - Distinguished Service Award

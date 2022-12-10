@@ -1,6 +1,6 @@
 ---
 date: 2014-02-07
-authors: willingc
+author: willingc
 tags:
   - education
   - mark lutz

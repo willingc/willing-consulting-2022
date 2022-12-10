@@ -1,6 +1,6 @@
 ---
 date: 2015-02-03
-authors: willingc
+author: willingc
 tags:
   - drseuss
   - greenhall

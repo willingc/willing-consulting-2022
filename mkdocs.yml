@@ -1,6 +1,6 @@
 site_name: Willing Consulting
 site_url: https://willingconsulting.com
-site_authors: Carol Willing
+site_author: Carol Willing
 site_description: >-
   Learn. Build. Share.
 #repo_name: willing-consulting-2022
@@ -26,10 +26,21 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  #favicon: assets/favicon_symbol.png
-  #logo: assets/images/pysplash.png
+  favicon: assets/favicon_symbol.png
+  logo: assets/images/pysplash.png
 plugins:
-  - blog
+  - blog:
+      blog_dir: blog
+      post_date_format: long
+      archive: true
+      archive_name: Archive
+      archive_date_format: yyyy
+      pagination: true
+      pagination_per_page: 5
+      authors: true
+      authors_file: .authors.yml
+      categories_allowed:
+        - Tech
   - search
 nav:
   - index.md

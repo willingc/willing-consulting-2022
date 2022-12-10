@@ -1,6 +1,6 @@
 ---
 date: 2013-10-22
-authors: willingc
+author: willingc
 tags:
   - advocacy
   - allies
@@ -32,8 +32,6 @@ Some of Laila's wisdom and insights:
  
 
 8 minutes and 18 seconds. Watching Laila's speech will inspire you to advocate for your community. A small investment of time can lead to exponential change.
-
-
 
 Personally, I am inspired to continue advocating for a diverse community in open source hardware and software development.
 
