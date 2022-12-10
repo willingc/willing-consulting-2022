@@ -27,7 +27,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon_symbol.png
-  logo: assets/images/pysplash.png
+  logo: assets/images/wallpaper_symbol.png
 plugins:
   - blog:
       blog_dir: blog
