@@ -1,6 +1,6 @@
 ---
 date: 2014-07-14
-author: willingc
+authors: [willingc]
 tags:
   - communication
   - computer science
@@ -21,7 +21,7 @@ tags:
 
 # SciPy 2014: A mother-daughter collaboration
 
-<a href="https://willingconsulting.com/wp-content/uploads/2014/07/dv13.jpg"><img class="aligncenter size-medium wp-image-414" src="https://willingconsulting.com/wp-content/uploads/2014/07/dv13-300x225.jpg" alt="dv13" width="300" height="225"></a>
+![](../../../assets/images/2014/07/dv13.jpg)
 
 I had the pleasure of sharing SciPy 2014 with my daughter. Well, the chance to share SciPy 2014 with a more grown up version of my daughter than the three year old girl exploring the Philippines.
 <!-- more -->
