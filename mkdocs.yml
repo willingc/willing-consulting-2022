@@ -52,6 +52,10 @@ extra:
 nav:
   - Home: index.md
   - About: about.md
+  - Services:
+    - services/development.md
+    - services/training.md
+    - services/workshops.md
   - Speaking: speaking.md
   - Contact: contact.md
   - Blog: 

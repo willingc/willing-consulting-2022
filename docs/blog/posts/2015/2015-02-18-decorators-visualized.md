@@ -44,7 +44,7 @@ move through the code step by step.
 
 [Interactive decorator example](http://pythontutor.com/iframe-embed.html#code=def+make_bold(fn)%3A%0A++++return+lambda+%3A+%22%3Cb%3E%22+%2B+fn()+%2B+%22%3C/b%3E%22%0A%0Adef+make_italic(fn)%3A%0A++++return+lambda+%3A+%22%3Ci%3E%22+%2B+fn()+%2B+%22%3C/i%3E%22%0A%0A%40make_bold%0A%40make_italic%0Adef+hello()%3A%0A++return+%22hello+world%22%0A++%0AhelloHTML+%3D+hello()&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&textReferences=false&py=3&rawInputLstJSON=%5B%5D&curInstr=0&codeDivWidth=350&codeDivHeight=400)
 
-![](../images/guo_decorator.png)
+![](../../../images/2015/guo_decorator.png)
 
 
 ### Phillip Guo's research publication

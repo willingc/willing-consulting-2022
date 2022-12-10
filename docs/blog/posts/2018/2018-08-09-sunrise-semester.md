@@ -2,7 +2,7 @@
 title: "Sunrise and a New Semester"
 date: 2018-08-08T16:39:48-07:00
 tags: [circuitpython, jupyter, mu, nteract, jose, jupyterhub, binder, learning]
-featured_image: "images/ada-blinka.jpg"
+featured_image: "../../../images/ada-blinka.jpg"
 description: "Sunrise signals a new day and new opportunities. I'm taking
 on a new challenge over the next six months. In some ways, I will be changing my focus from developing Jupyter tools to sharing how to use these Jupyter tools as well as others, like nteract, CircuitPython, mu, EduBlocks and p5.js, to foster learning."
 ---
@@ -23,7 +23,7 @@ learning and improving interactive, life-long education.
 
 I'm not leaving the Jupyter or Python world. I'm devoted to improving
 access for all to quality educational materials. I'll be using a number
-of tools, such as [Jupyter notebooks](https://jupyter.org), [Python](python.org), [JupyterHub](https://jupyterhub.readthedocs.io), [Binder](https://mybinder.org), [nteract](https://nteract.io),
+of tools, such as [Jupyter notebooks](https://jupyter.org), [Python](https://python.org), [JupyterHub](https://jupyterhub.readthedocs.io), [Binder](https://mybinder.org), [nteract](https://nteract.io),
 [p5.js](https://p5js.org), [CircuitPython](https://github.com/adafruit/circuitpython), [mu](https://codewith.mu/), and [EduBlocks](https://edublocks.org/), to create and deliver educational materials and
 services.
 
@@ -52,6 +52,6 @@ and seeing something in me which I don't always see in myself I would not
 have the courage to build my dreams. Hugs.
 
 
-![image alt text](/images/ada-blinka.jpg)
+![image alt text](../../../images/ada-blinka.jpg)
 
 *Photo credit: pt at Adafruit*
