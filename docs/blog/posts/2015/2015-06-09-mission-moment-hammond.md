@@ -1,20 +1,20 @@
 ---
-title: "Mission moment: Mark Hammond, PSF Distinguished Service Award Recipient"
 date: 2015-06-09
+authors: willingc
 tags:
-- Brian Curtin
-- Distinguished Service Award
-- Mark Hammond
-- mission
-- psf
-- python
-- community
-- education
-- software
-- wisdom
+  - Brian Curtin
+  - Distinguished Service Award
+  - Mark Hammond
+  - mission
+  - psf
+  - python
+  - community
+  - education
+  - software
+  - wisdom
 ---
 
-
+# Mission moment: Mark Hammond, PSF Distinguished Service Award Recipient
 
 Today, the Python Software Foundation, commonly known as PSF in the Python
 community, gave the PSF Distinguished Service Award to Mark Hammond. Brian

@@ -1,16 +1,17 @@
 ---
-title: "Decorators visualized"
 date: 2015-02-18
+authors: willingc
 tags:
-- decorators
-- online python tutor
-- phillip guo
-- python
-- simplicity
-- learn
-- open source
+  - decorators
+  - online python tutor
+  - phillip guo
+  - python
+  - simplicity
+  - learn
+  - open source
 ---
 
+# Decorators visualized
 
 Decorators make code more readable. When learning how decorators work, it's
 easy to get confused. When teaching decorators, students often ask "but how
@@ -42,14 +43,13 @@ collaboration helps teachers to easily communicate concepts to their students.
 To use the interactive demo, simply click on the 'next' and 'back' buttons to
 move through the code step by step.
 
-[Interactive decorator example](http://pythontutor.com/iframe-embed.html#code=def+make_bold(fn)%3A%0A++++return+lambda+%3A+%22%3Cb%3E%22+%2B+fn()+%2B+%22%3C/b%3E%22%0A%0Adef+make_italic(fn)%3A%0A++++return+lambda+%3A+%22%3Ci%3E%22+%2B+fn()+%2B+%22%3C/i%3E%22%0A%0A%40make_bold%0A%40make_italic%0Adef+hello()%3A%0A++return+%22hello+world%22%0A++%0AhelloHTML+%3D+hello()&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&textReferences=false&py=3&rawInputLstJSON=%5B%5D&curInstr=0&codeDivWidth=350&codeDivHeight=400)
+[Interactive decorator example](<http://pythontutor.com/iframe-embed.html#code=def+make_bold(fn)%3A%0A++++return+lambda+%3A+%22%3Cb%3E%22+%2B+fn()+%2B+%22%3C/b%3E%22%0A%0Adef+make_italic(fn)%3A%0A++++return+lambda+%3A+%22%3Ci%3E%22+%2B+fn()+%2B+%22%3C/i%3E%22%0A%0A%40make_bold%0A%40make_italic%0Adef+hello()%3A%0A++return+%22hello+world%22%0A++%0AhelloHTML+%3D+hello()&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&textReferences=false&py=3&rawInputLstJSON=%5B%5D&curInstr=0&codeDivWidth=350&codeDivHeight=400>)
 
 ![](../../../assets/images/2015/guo_decorator.png)
-
 
 ### Phillip Guo's research publication
 
 For the those that are curious, [Phillip Guo's research
 paper](http://pgbovine.net/publications/Online-Python-Tutor-web-based-program-visualization_SIGCSE-2013.pdf)
-*presents why and how Online Python Tutor improves learning. Thank you for
-this wonderful program!*
+_presents why and how Online Python Tutor improves learning. Thank you for
+this wonderful program!_

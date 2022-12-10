@@ -1,18 +1,19 @@
 ---
-title: "Weekend Wisdom: Distributed Network Data"
 date: 2013-08-24
+authors: willingc
 tags:
-- Alasdair Allan
-- Arduino
-- Distributed Network Data
-- Kipp Bradford
-- XBee
-- book review
-- build
-- learn
-- wisdom
+  - Alasdair Allan
+  - Arduino
+  - Distributed Network Data
+  - Kipp Bradford
+  - XBee
+  - book review
+  - build
+  - learn
+  - wisdom
 ---
 
+# Weekend Wisdom: Distributed Network Data
 
 ![succulent in pot](/images/2013/08/garden_succulent-225x300.jpg)
 

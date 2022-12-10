@@ -1,11 +1,13 @@
 ---
-title: "Sunrise and a New Semester"
-date: 2018-08-08T16:39:48-07:00
+date: 2018-08-08
+authors: willingc
 tags: [circuitpython, jupyter, mu, nteract, jose, jupyterhub, binder, learning]
 featured_image: "../../../images/ada-blinka.jpg"
 description: "Sunrise signals a new day and new opportunities. I'm taking
 on a new challenge over the next six months. In some ways, I will be changing my focus from developing Jupyter tools to sharing how to use these Jupyter tools as well as others, like nteract, CircuitPython, mu, EduBlocks and p5.js, to foster learning."
 ---
+
+# Sunrise and a New Semester
 
 For as long as I can remember, I have been passionate about using
 technology to help others learn and to offer access to inspiring educational
@@ -18,7 +20,7 @@ most to me.
 As I watch the sunrise, or more accurately the yellow tone in the sky
 increase, I'm looking forward to starting a new semester or chapter in
 my technology journey. Today, I'll be spending my second day moving
-into a creative workspace and begin to focus full-time on empowering 
+into a creative workspace and begin to focus full-time on empowering
 learning and improving interactive, life-long education.
 
 I'm not leaving the Jupyter or Python world. I'm devoted to improving
@@ -28,7 +30,7 @@ of tools, such as [Jupyter notebooks](https://jupyter.org), [Python](https://pyt
 services.
 
 I'm very excited to build some early side projects, such as
-*Crackers the Coding Friend* using CircuitPython and Adafruit's open 
+_Crackers the Coding Friend_ using CircuitPython and Adafruit's open
 hardware CircuitPlayground and Crickt. It's planned to be a
 whimsical robot friend, using open hardware and software, to help new
 developers with rubber duck debugging.
@@ -51,7 +53,6 @@ my dreams and to make an impact on others. Without your gentle encouragement
 and seeing something in me which I don't always see in myself I would not
 have the courage to build my dreams. Hugs.
 
-
 ![image alt text](../../../assets/images/ada-blinka.jpg)
 
-*Photo credit: pt at Adafruit*
+_Photo credit: pt at Adafruit_

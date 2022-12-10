@@ -1,12 +1,13 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
 date: 2019-09-19
+authors: willingc
 tags: [python, jupyter, notebook]
 featured_image: "/images/2019/notebook-38.png"
 description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
 summary: "Trying out a pre-release will help you become familiar with new features to determine if they would be good to use in your projects."
-draft: false
 ---
+
+# Trying the Python 3.8 beta with Jupyter Notebook
 
 Trying out a pre-release will help you become familiar with new features to determine if they would be good to use in your projects.
 
@@ -83,7 +84,7 @@ Enter:
 jupyter notebook
 ```
 
-The Jupyter notebook interface should launch. Select a new Python3 notebook. 
+The Jupyter notebook interface should launch. Select a new Python3 notebook.
 
 You can now begin exploring the new features in Python 3.8. This example shows
 [f-strings support for self-documenting expressions and debugging](https://docs.python.org/3.8/whatsnew/3.8.html#f-strings-support-for-self-documenting-expressions-and-debugging).

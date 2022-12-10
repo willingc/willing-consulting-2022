@@ -1,17 +1,18 @@
 ---
-title: "Thoughts for Tuesday: Two Django-licious Scoops"
 date: 2014-02-18
+authors: willingc
 tags:
-- Audrey Roy
-- book
-- Daniel Greenfeld
-- python
-- book review
-- community
-- education
-- learn
+  - Audrey Roy
+  - book
+  - Daniel Greenfeld
+  - python
+  - book review
+  - community
+  - education
+  - learn
 ---
 
+# Thoughts for Tuesday: Two Django-licious Scoops
 
 Audrey Roy and Daniel Greenfeld have recently released **Two Scoops of Django:
 Best Practices For Django 1.6** ([Two Scoops Press](http://twoscoopspress.com/)).

@@ -1,20 +1,21 @@
 ---
-title: "Thoughts for Tuesday: Tea Leaves"
 date: 2013-09-24
+authors: willingc
 tags:
-- future
-- linux plumbers conference
-- linuxcon
-- mom
-- tea
-- women
-- Alzheimer's
-- learn
-- senses
-- simplicity
-- wisdom
+  - future
+  - linux plumbers conference
+  - linuxcon
+  - mom
+  - tea
+  - women
+  - Alzheimer's
+  - learn
+  - senses
+  - simplicity
+  - wisdom
 ---
 
+# Thoughts for Tuesday: Tea Leaves
 
 ![](/images/2013/09/sand-crane-300x225.jpg)
 

@@ -1,10 +1,9 @@
 ---
-title: "Snakes and Planets"
-date: 2017-06-04T16:39:48-07:00
-tags: []
-featured_image: ""
-description: ""
+date: 2017-06-04
+authors: willingc
 ---
+
+# Snakes and Planets
 
 As I get ready to step back from being a Director of the Python Software
 Foundation, I'm taking a moment to reflect back on the past two years on the

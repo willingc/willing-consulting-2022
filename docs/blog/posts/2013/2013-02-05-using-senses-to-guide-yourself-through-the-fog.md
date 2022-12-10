@@ -1,16 +1,10 @@
 ---
-title: "Using Senses to Guide Yourself Through the Fog"
-date: "2013-02-05"
-tags: [
-    "create",
-    "future",
-    "mom",
-    "simplicity",
-    "Alzheimer's",
-    "senses",
-    "software"
-]
+date: 2013-02-05
+authors: willingc
+tags:
+  ["create", "future", "mom", "simplicity", "Alzheimer's", "senses", "software"]
 ---
+# Using Senses to Guide Yourself Through the Fog
 
 My mom has Alzheimer's. Sometimes I wonder what she sees and thinks about her
 world. She only has about four phrases that she uses now. It is heartbreaking
@@ -43,4 +37,4 @@ world around me. I also intend to share my  interests with the next generation
 of problem solvers and lovers of creativity.
 
 > It is not the clear-sighted that lead the world. Great achievements are
-  accomplished in a blessed, warm mental fog. -- Joseph Conrad
+> accomplished in a blessed, warm mental fog. -- Joseph Conrad

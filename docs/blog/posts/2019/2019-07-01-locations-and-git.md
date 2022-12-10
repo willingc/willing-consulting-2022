@@ -1,10 +1,11 @@
 ---
-title: "Learning git: Locations, Remotes, and GitHub"
 date: 2019-07-01
 tags: [git, learning, github]
-featured_image: ""
+authors: willingc
 description: "Where is code located? The basics of remotes for new git and GitHub users."
 ---
+
+# Learning git: Locations, Remotes, and GitHub
 
 When you are new to git and GitHub, one of the first things that is helpful to
 learn is where your code is located. Do you want to contribute to open source
@@ -17,7 +18,7 @@ Two concepts will help you get started:
 
 ---
 
-*Inspired by a [talk given at Write Speak Code 2016](https://www.slideshare.net/willingc/yes-you-can-git).*
+_Inspired by a [talk given at Write Speak Code 2016](https://www.slideshare.net/willingc/yes-you-can-git)._
 
 ![](/images/2019/git-title.png)
 
@@ -31,12 +32,11 @@ Two concepts will help you get started:
 
 ![](/images/2019/git-01.png)
 
-
 ## Understanding Repository Locations
 
 By understanding this concept, your mastery of git and GitHub for development will advance quickly.
 
-The old saying, *"Naming is hard."*, definitely applies to git. While a handy tool, the jargon around using git makes it difficult for a new user to grasp concepts.
+The old saying, _"Naming is hard."_, definitely applies to git. While a handy tool, the jargon around using git makes it difficult for a new user to grasp concepts.
 
 ![](/images/2019/git-02.png)
 

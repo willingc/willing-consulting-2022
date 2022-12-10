@@ -1,7 +1,8 @@
 ---
-title: "What's a Fab Lab?"
 date: 2015-08-09
-tags: [
+authors: willingc
+tags:
+  [
     "Arduino",
     "community",
     "education",
@@ -12,11 +13,12 @@ tags: [
     "python",
     "raspberry pi",
     "build",
-    "learn"
-]
-featured_image: ""
-description: ""
+    "learn",
+  ]
 ---
+
+# What's a Fab Lab?
+
 A Fab Lab is a community space for people to gather and fabricate their dreams
 and ideas.
 
@@ -33,13 +35,13 @@ are a few links to some videos that give a good sense of Fab Lab San Diego,
 its mission, and its history.
 
 {{< youtube LL4bVbkAn-M >}}
-*Fab Lab San Diego's Relaunch in Makers Quarter (Video by KPBS)*
+_Fab Lab San Diego's Relaunch in Makers Quarter (Video by KPBS)_
 
 {{< youtube B1SiL0Mkn2o >}}
-*An view of a day at the former Fab Lab San Diego location (Video by Fab Lab SD)*
+_An view of a day at the former Fab Lab San Diego location (Video by Fab Lab SD)_
 
 {{< youtube 8uoTT-BoAgY >}}
-*Prototyping for Balboa Park - Fun in a Cupcake Car!*
+_Prototyping for Balboa Park - Fun in a Cupcake Car!_
 
 Learn. Build. Share. Fab Labs and their outreach inspire individuals and build
 vibrant, innovative communities. I hope you visit one soon.

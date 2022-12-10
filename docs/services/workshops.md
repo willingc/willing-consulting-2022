@@ -1,10 +1,10 @@
-+++
-title = "Workshops"
+---
+title: "Workshops"
 description = "Upcoming Learning Events"
 summary = "The **Yes, You Can Git** workshop offers a gentle and practical introduction to Git and GitHub."
 parent = "services"
 weight = 40
-+++
+---
 
 ## Yes, You Can Git
 
@@ -26,7 +26,7 @@ _This will be offered in 2019._
 During this two hour online workshop, we'll cover the following:
 
 | Time       | Topic                                           |
-|------------|-------------------------------------------------|
+| ---------- | ----------------------------------------------- |
 | 20 minutes | Location. Location. Location. Where is my code? |
 | 20 minutes | Git and GitHub: a tool and a service            |
 | 10 minutes | Workflow: Forking and Cloning                   |

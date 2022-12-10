@@ -1,14 +1,14 @@
 ---
 date: 2019-11-02
-authors: [willingc]
+authors: willingc
 tags: [python, steering-council, governance]
-featured_image: "/images/2019/pycon-psc.jpg"
 description: >
   A Closer Look – Encouraging people to run for the Python Steering Council and offer insight on being a Steering Council member.
 ---
+
 # Serving on the Inaugural Python Steering Council
 
-**The successful release of Python 3.8 (thanks Łukasz and everyone who contributed) begins a new chapter for the 
+**The successful release of Python 3.8 (thanks Łukasz and everyone who contributed) begins a new chapter for the
 Python Steering Council.** Under the new governance of core development, described in
 [PEP 13](https://www.python.org/dev/peps/pep-0013/#electing-the-council), a new Steering
 Council is elected after each major release cycle.
@@ -17,21 +17,21 @@ Council is elected after each major release cycle.
 
 - [PEP 13](https://www.python.org/dev/peps/pep-0013)
 - [Brett's recent post](https://snarky.ca/what-its-like-to-be-on-the-python-steering-council/),
-  *What It's Like to Be on the Python Steering Council*. Brett's post does a great job of describing our processes,
+  _What It's Like to Be on the Python Steering Council_. Brett's post does a great job of describing our processes,
   time estimates, and description of work. I think his post accurately reflects my experience as a council member too.
-- The public [Steering Council repo](https://github.com/python/steering-council#steering-council). It contains an 
+- The public [Steering Council repo](https://github.com/python/steering-council#steering-council). It contains an
   onboarding document which we hope will help new Council Members. It includes links out to other Python governance
   resources and PEPs. There's also a summary from an external non-profit resource with some tips on
   [effective governance](https://github.com/python/steering-council/blob/master/process/best-practices.md).
 
 ## Tell me about a Steering Council meeting
 
-### *How often do you meet?*
+### _How often do you meet?_
 
 This year, the Steering Council has held one hour weekly meetings. As we worked through the backlog of PEPs, we
 found meeting weekly was a good cadence. Since it was working well, we kept the weekly schedule.
 
-### *What gets discussed?*
+### _What gets discussed?_
 
 Our discussions focus around our agenda each week. The weekly agenda covers the following areas:
 
@@ -42,11 +42,11 @@ Our discussions focus around our agenda each week. The weekly agenda covers the 
 
 The agenda is designed to reflect the core responsibilities of the Steering Council as written in PEP 13.
 
-### *What if you miss a meeting?*
+### _What if you miss a meeting?_
 
 Though we have made attending the meetings a high priority, there are times when travel and life prevent someone from
-attending. We have an agenda for each meeting which has the same format each week (*we use a GitHub issue template for
-the baseline agenda*). If you will miss a meeting, you can add comments on the agenda beforehand.
+attending. We have an agenda for each meeting which has the same format each week (_we use a GitHub issue template for
+the baseline agenda_). If you will miss a meeting, you can add comments on the agenda beforehand.
 
 Minutes are taken during each meeting, and all are published to a private Steering Council repo. We use a Skype call
 for meeting so that we can see each other while we discuss topics and we can share screens if needed.
@@ -86,5 +86,5 @@ governance structure. I'm glad that we worked so well together as a team.
 The next Steering Council will be starting in a good place. I'm looking forward to supporting the next Steering Council,
 their work in 2020, and the bright future of Python.
 
-*Photo credit: LWN.net*
+_Photo credit: LWN.net_
 ![Python Steering Council](../../../assets/images/2019/pycon-psc.jpg)

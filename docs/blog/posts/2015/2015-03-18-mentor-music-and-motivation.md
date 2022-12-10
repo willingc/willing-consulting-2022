@@ -1,19 +1,18 @@
 ---
-title: "Mentors, music, and motivation"
-slug: mentors-music-and-motivation
 date: 2015-03-18
-author: Carol Willing
-type: post
+authors: willingc
 tags:
-- communication
-- community
-- JoAnne Yates
-- mentoring
-- music
-- writespeakcode
-- education
-- learn
+  - communication
+  - community
+  - JoAnne Yates
+  - mentoring
+  - music
+  - writespeakcode
+  - education
+  - learn
 ---
+
+# Mentors, music, and motivation
 
 As I get ready to attend the [Write/Speak/Code](http://www.writespeakcode.com/) conference, I'm
 doing more reflecting on the past few months than packing for the trip. While

@@ -1,14 +1,16 @@
 ---
-title: "Weekend Wisdom: “Python Pocket Reference” by Mark Lutz; O’Reilly Media"
 date: 2014-02-07
+authors: willingc
 tags:
-- education
-- mark lutz
-- python
-- book review
-- software
-- wisdom
+  - education
+  - mark lutz
+  - python
+  - book review
+  - software
+  - wisdom
 ---
+
+# Weekend Wisdom: “Python Pocket Reference” by Mark Lutz; O’Reilly Media
 
 ![Python Pocket Reference](/images/2014/02/cat1.gif)
 
@@ -23,7 +25,7 @@ information in the freely available Python docs, but this guide earns its place
 in my backpack by pulling together practical tips, hints, and common gotchas
 when using a method or function.
 
-I appreciate the author including a section on the ``tkinter`` GUI module and tools.
+I appreciate the author including a section on the `tkinter` GUI module and tools.
 It’s helpful to have the basics in a concise format for the times that I am
 troubleshooting a user interface for a laboratory program or helping someone
 create a simple status display for an application.

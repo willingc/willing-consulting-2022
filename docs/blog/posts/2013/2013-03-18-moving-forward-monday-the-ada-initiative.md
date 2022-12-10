@@ -1,13 +1,15 @@
 ---
-title: "Moving Forward Monday: The Ada Initiative"
 date: 2013-03-18
+authors: willingc
 tags:
-- Ada Initiative
-- future
-- open source
-- teamwork
-- women
+  - Ada Initiative
+  - future
+  - open source
+  - teamwork
+  - women
 ---
+
+# Moving Forward Monday: The Ada Initiative
 
 ![Lady Ada Lovelace](/images/images/adalovelace.jpg)
 

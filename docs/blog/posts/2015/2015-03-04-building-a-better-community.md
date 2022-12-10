@@ -1,11 +1,12 @@
 ---
-title: "Building a better community"
 date: 2015-03-04
-excerpt: "Why I gave a $2048 donation to Fab Lab San Diego"
+authors: willingc
 tags: [fablabsd, fablab, outreach]
 ---
 
-### Why I gave a $2048 donation to Fab Lab San Diego
+# Building a better community
+
+## Why I gave a $2048 donation to Fab Lab San Diego
 
 **Watching someone bring their idea to life is an amazing reward.**
 

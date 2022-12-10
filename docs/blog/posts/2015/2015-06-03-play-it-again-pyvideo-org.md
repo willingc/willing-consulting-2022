@@ -1,29 +1,23 @@
-title: Play it again pyvideo.org!
----
-slug: play-it-again-pyvideo-org
 ---
 date: 2015-06-03
----
-author: Carol Willing
----
-type: post
----
+authors: willingc
 tags:
-- education
-- psf
-- python
-- pyvideo.org
-- community
-- learn
-- open source
-- software
-- teamwork
+  - education
+  - psf
+  - python
+  - pyvideo.org
+  - community
+  - learn
+  - open source
+  - software
+  - teamwork
 ---
 
+# Play it again pyvideo.org!
 
-Yesterday, the <a href="https://www.python.org/psf/">Python Software Foundation</a> posted <a href="http://pyfound.blogspot.com/2015/06/congratualations-to-new-board-of.html">results of the election</a> for the Board of Directors 2015-2016 term. Thank you to the many individuals that participated and helped with the election. 
+Yesterday, the <a href="https://www.python.org/psf/">Python Software Foundation</a> posted <a href="http://pyfound.blogspot.com/2015/06/congratualations-to-new-board-of.html">results of the election</a> for the Board of Directors 2015-2016 term. Thank you to the many individuals that participated and helped with the election.
 
-I want take a moment and give special thanks to the 2014-2015 PSF Board for their service and accomplishments. 
+I want take a moment and give special thanks to the 2014-2015 PSF Board for their service and accomplishments.
 
 To the retiring PSF Board members,
 I love programming in Python, learning from others, and sharing <a href="http://pyvideo.org/" target="_blank">pyvideo.org</a> talks. To honor the goodness that each of you bring to the Python community, I would like to highlight some of your pyvideo.org talks and celebrate your contributions to Python and our community. Thank you!

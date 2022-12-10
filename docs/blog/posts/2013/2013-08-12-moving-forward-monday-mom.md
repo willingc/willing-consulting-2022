@@ -1,15 +1,17 @@
 ---
-title: "Moving Forward Monday: Mountains or Molehills"
 date: 2013-08-12
+authors: willingc
 tags:
-- Ada Initiative
-- mom
-- teamwork
-- Alzheimer's
-- simplicity
-- teamwork
-- women
+  - Ada Initiative
+  - mom
+  - teamwork
+  - Alzheimer's
+  - simplicity
+  - teamwork
+  - women
 ---
+
+# Moving Forward Monday: Mountains or Molehills
 
 ![](/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
 

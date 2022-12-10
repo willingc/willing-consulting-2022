@@ -1,7 +1,8 @@
 ---
-title: "Change, community, and compassion"
 date: 2015-06-09
-tags: [
+authors: willingc
+tags:
+  [
     "Ada Initiative",
     "adacamp",
     "change",
@@ -11,11 +12,11 @@ tags: [
     "open source",
     "teamwork",
     "wisdom",
-    "women"
-]
-featured_image: ""
-description: ""
+    "women",
+  ]
 ---
+
+# Change, community, and compassion
 
 Today, I reflect on a life changing event. For a few days, we came together
 from around the world to form a community to share our thoughts on change and
@@ -38,14 +39,14 @@ Change, community, and compassion matter. Peace.
 > - attended 9 conferences in open source/computing.
 > - encouraged more female speakers in my local business and tech community.
 > - co-organize PyLadies in my local city and have strived to build a friendly
->	helpful partnerships with our Python and Javascript and entrepreneurship
->	communities.
+>   helpful partnerships with our Python and Javascript and entrepreneurship
+>   communities.
 > - Submitted my first contribution to an open source project (thanks to the
-> 	GNOME Outreach Program for Women’s encouragement)
+>   GNOME Outreach Program for Women’s encouragement)
 > - Made over 100 commits to open source projects over the past year.
 > - Served on the PyCon program committee and PyCon poster presenter.
 > - I’ve taught and encouraged others – k12 students, undergrad, grad students
-> 	to men and women reentering the workforce or making a career change.
+>   to men and women reentering the workforce or making a career change.
 
 > I did none of these things because I was “paid” to do so. I did these things
 > because they were important to me and my desire to work in a tech community

@@ -1,15 +1,11 @@
-+++
-title = "Sharing the Knowledge"
-date = "2013-02-10"
-tags = [
-    "3D printing",
-    "FIRST",
-    "knowledge",
-    "lulzbot",
-    "open source",
-    "teamwork"
-]
-+++
+---
+date: "2013-02-10"
+authors: willingc
+tags:
+  ["3D printing", "FIRST", "knowledge", "lulzbot", "open source", "teamwork"]
+---
+
+# Sharing the Knowledge
 
 I have the pleasure of mentoring a talented group of high school students. They
 are the soul of [Team 2102 Paradox of San Dieguito

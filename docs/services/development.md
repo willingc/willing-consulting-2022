@@ -1,10 +1,10 @@
-+++
-title = "Development"
+---
+title: "Development"
 description = "Engineering with Open Source Software and Hardware"
 summary = "I would love to help you build out your ideas and projects. I’m available for short-term consulting projects."
 parent = "services"
 weight = 10
-+++
+---
 
 I would love to help you build out your ideas and projects. I'm available for
 short-term consulting projects. I'm a Python language core developer, a

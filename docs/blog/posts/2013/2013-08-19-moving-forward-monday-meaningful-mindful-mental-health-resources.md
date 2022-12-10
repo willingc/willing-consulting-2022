@@ -1,17 +1,19 @@
 ---
-title: "Moving Forward Monday: Meaningful, Mindful, Mental Health Resources"
 date: 2013-08-19
+authors: willingc
 tags:
-- It's Up to Us
-- mental health
-- mindfulness
-- suicide prevention
-- UCSD Center for Mindfulness
-- education
-- learn
+  - It's Up to Us
+  - mental health
+  - mindfulness
+  - suicide prevention
+  - UCSD Center for Mindfulness
+  - education
+  - learn
 ---
 
-*Note: The links to other sites and this post may have triggers to those healing.*
+# Moving Forward Monday: Meaningful, Mindful, Mental Health Resources
+
+_Note: The links to other sites and this post may have triggers to those healing._
 
 "Lean In" is a popular saying these days. Yes, I think it is great to get more
 women (and underrepresented groups) into higher levels of management and more
@@ -27,7 +29,7 @@ Check out the [UCSD Center for Mindfulness](https://ucsdcfm.wordpress.com/)
 for more information.
 
 ![image-left](/images/2013/08/itsuptous_logo_web-169x300.jpg)
-*Source: It's Up to Us website*
+_Source: It's Up to Us website_
 
 San Diego and California have been doing a great job trying to break down
 stigma. I love the [It's Up to Us](http://www.up2sd.org/) program that
