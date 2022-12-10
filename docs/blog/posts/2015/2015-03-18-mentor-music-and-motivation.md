@@ -18,7 +18,7 @@ As I get ready to attend the [Write/Speak/Code](http://www.writespeakcode.com/) 
 doing more reflecting on the past few months than packing for the trip. While
 I would like to leave San Diego with warm enough clothes for New York City, I
 want to write a few brief thoughts about learning from others.
-
+<!-- more -->
 Learning from others is one of the things that I love most about software
 development. While I enjoy my time quietly working through code on my own, I
 value the time that I spend collaborating with other developers. When I was a

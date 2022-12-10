@@ -1,6 +1,6 @@
 ---
 date: 2017-06-04
-author: willingc
+authors: [willingc]
 ---
 
 # Snakes and Planets
@@ -11,6 +11,7 @@ PSF Board and open source. I enjoy coding in Python for its flexibility and
 rich ecosystem of libraries. Yet, it's the Python community that I truly
 cherish.
 
+<!-- more -->
 For two years, I've been able to serve the Python community by putting my non-profit
 experience and management skills to work. We've increased transparency and openness,
 grown the non-profit's governance toward best practices for an organization of

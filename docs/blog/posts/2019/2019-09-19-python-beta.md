@@ -1,16 +1,21 @@
 ---
 date: 2019-09-19
-author: willingc
-tags: [python, jupyter, notebook]
+authors: [willingc]
+description: Try out Python 3.8.0b4 with Jupyter Notebook on macOS
+categories:
+  - Tech
+tags:
+  - python
+  - jupyter
+  - notebook
 featured_image: "../../../assets/images/2019/notebook-38.png"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
-summary: "Trying out a pre-release will help you become familiar with new features to determine if they would be good to use in your projects."
 ---
 
 # Trying the Python 3.8 beta with Jupyter Notebook
 
 Trying out a pre-release will help you become familiar with new features to determine if they would be good to use in your projects.
 
+<!-- more -->
 ## Download the installer
 
 Navigate to the [Python 3.8.0b4 release page](https://www.python.org/downloads/release/python-380b4/). Scroll down to the **Files** section:

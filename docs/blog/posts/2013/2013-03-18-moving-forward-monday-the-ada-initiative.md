@@ -11,12 +11,12 @@ tags:
 
 # Moving Forward Monday: The Ada Initiative
 
-![Lady Ada Lovelace](/images/images/adalovelace.jpg)
+![Lady Ada Lovelace](../../../assets/images/images/adalovelace.jpg)
 
 If you haven't heard yet about the Ada Initiative, I highly recommend that you
 check out the good work that they are doing for women and men in open source
 technology
-
+<!-- more -->
 Although a relatively young organization, the Ada Initiative has strong
 accomplishments: an anti-harassment policy for conferences, practical
 workshops teaching skills to men and others wishing to support women in open

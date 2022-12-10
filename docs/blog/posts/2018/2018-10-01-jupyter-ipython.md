@@ -1,6 +1,6 @@
 ---
 date: 2018-10-01
-author: willingc
+authors: [willingc]
 tags: [jupyter, learning, ipython]
 description: "Here are some resources that I have found helpful when learning Jupyter or IPython."
 ---
@@ -9,4 +9,5 @@ description: "Here are some resources that I have found helpful when learning Ju
 
 I love how Jupyter and IPython can empower learners. Here's a GitHub gist that shares some of my favorite resources.
 
+<!-- more -->
 {{< gist willingc 314eb1e20679ad33633a7cc75977a43a >}}

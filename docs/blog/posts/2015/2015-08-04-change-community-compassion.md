@@ -21,7 +21,7 @@ tags:
 Today, I reflect on a life changing event. For a few days, we came together
 from around the world to form a community to share our thoughts on change and
 our compassion for individual experiences in technology.
-
+<!-- more -->
 I'm sharing a very rough draft of a letter that I wrote on May 29, 2014. I
 hope you will find a nugget of wisdom, inspiration, or comfort in these
 jumbled, unedited yet heartfelt words. I am so grateful for <a

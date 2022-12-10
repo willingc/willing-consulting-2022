@@ -19,7 +19,7 @@ tags:
 For years, I enjoyed reading Dr. Seuss' <em>The Lorax</em> to my children. Today, a wise quote from the book pops into my head when I read a twitter post by or about Mr. Wadhwa.
 
 In the story, the Lorax "speaks for the trees, for the trees have no tongues." The Lorax's logic strikes me as very reasonable.
-
+<!-- more -->
 [Added 2/4/2015: Listening to Amelia Greenhall's reading of her blog post, <em><a title="Quiet, Ladies. @wadhwa is speaking now" href="http://blog.ameliagreenhall.com/post/quiet-ladies.-wadhwa-is-speaking-now" target="_blank">Quiet, Ladies. @wadhwa is speaking now</a></em>, I was moved to share my perspective from over 30 years of experience as a electrical engineer, software developer, entrepreneur, and teacher. While I may not agree with all the specifics in the post, I find her points to be well reasoned and largely accurate. I commend her for sharing her voice.]
 
 Below are some thoughts that I  shared in December after being encouraged by a respected colleague. As background, I don't know Mr. Wadhwa personally so my thoughts are largely based on his writing and speeches.

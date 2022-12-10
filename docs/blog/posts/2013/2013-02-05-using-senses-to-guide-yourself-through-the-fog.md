@@ -17,7 +17,7 @@ world. She only has about four phrases that she uses now. It is heartbreaking
 for me to no longer be seen and recognized by her. Yet, she smiles, hums to
 music, snuggles her blanket, and enjoys her orange chicken as if all is okay in
 her world.
-
+<!-- more -->
 I believe that she is happy and content. As her world became foggier and less
 familiar, she found a way to make peace with the changes. As different cognitive
 skills left her, she embraced the simple joys that her senses still brought.

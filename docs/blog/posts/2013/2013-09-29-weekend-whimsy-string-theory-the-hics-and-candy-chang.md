@@ -19,7 +19,7 @@ tags:
 # Weekend Whimsy: String theory, The Hics, and Candy Chang
 
 I'm keeping it short this morning while I write a little software. I'm enjoying some good music, art, and community. Enjoy!
-
+<!-- more -->
 I've been singing this gem from A Capella Science for days now. Catchy lyrics and a little string theory. Awesome.
 
 <iframe src="//www.youtube.com/embed/2rjbtsX7twc" height="315" width="420" allowfullscreen="" frameborder="0"></iframe>

@@ -24,7 +24,7 @@ tags:
 <a href="https://willingconsulting.com/wp-content/uploads/2014/07/dv13.jpg"><img class="aligncenter size-medium wp-image-414" src="https://willingconsulting.com/wp-content/uploads/2014/07/dv13-300x225.jpg" alt="dv13" width="300" height="225"></a>
 
 I had the pleasure of sharing SciPy 2014 with my daughter. Well, the chance to share SciPy 2014 with a more grown up version of my daughter than the three year old girl exploring the Philippines.
-
+<!-- more -->
 Although I plan to pull together my thoughts on SciPy 2014 talks more fully later, three things stand out from the week: creativity, computer science, and communication.
 
 ## Creativity

@@ -14,12 +14,12 @@ tags:
 
 # Saturday Sharing: Some git goodness
 
-![Cat enjoying git goodness](/images/2014/03/2013-08-17-14.12.49.jpg)
+![Cat enjoying git goodness](../../../assets/images/2014/03/2013-08-17-14.12.49.jpg)
 
 Version control and sharing source code help developers hone their craft. If you
 are new to developing software, learning git can seem a confusing task. In many
 ways, git is elegant in its simplicity and effectiveness.
-
+<!-- more -->
 When learning git, a new user has some decisions to make: use the command line
 or a graphical user interface; choosing where to store a remote repository;
 selecting a learning path that works for the developer - tutorials, video,

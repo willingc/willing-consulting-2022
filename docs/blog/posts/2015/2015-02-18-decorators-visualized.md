@@ -18,7 +18,7 @@ easy to get confused. When teaching decorators, students often ask "but how
 does it work" and "why does it work". "Magic, it just does" and "follow the
 pattern of the example" could be reasonable though less than satisfying
 responses.
-
+<!-- more -->
 ### Online Python Tutor
 
 Learning to use decorators can be frustrating until the learner understands

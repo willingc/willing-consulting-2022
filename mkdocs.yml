@@ -38,7 +38,7 @@ plugins:
       pagination: true
       pagination_per_page: 5
       authors: true
-      authors_file: .authors.yml
+      authors_file: blog/.authors.yml
       categories_allowed:
         - Tech
   - search

@@ -15,7 +15,7 @@ tags:
 # Security at the Seams: What’s a Software Development Manager to Do?
 
 I recently had the pleasure of taking a new course through edX. The course, [DelftX: EconSec101x Economics of Cybersecurity](https://www.edx.org/course/economics-cybersecurity-delftx-econsec101x), adeptly illustrates the many economic issues and behaviors that impact security in practice. I highly recommend the course to those interested in economics and security. Here's my final reflection essay from the course.
-
+<!-- more -->
 **Economics of Cybersecurity Reflection Essay**
 
 ### Security at the Seams: What’s a Software Development Manager to Do?

@@ -13,7 +13,7 @@ Academy](http://www.sdarobotics.org). They are creative, curious, humble,
 dedicated, and caring. They strive to embody "Gracious Professionalism", a term
 used by [FIRST](http://www,usfirst.org) Robotics that is a parallel to the
 "Golden Rule" learned in childhood.
-
+<!-- more -->
 Sharing knowledge and teamwork are so vital in solving the current challenges in
 the world. Open source software and hardware embraces these two qualities. The
 teams of developers that participate in open source create solutions to problems

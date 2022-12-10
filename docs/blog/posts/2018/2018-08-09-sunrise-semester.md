@@ -1,6 +1,6 @@
 ---
 date: 2018-08-08
-author: willingc
+authors: [willingc]
 tags: [circuitpython, jupyter, mu, nteract, jose, jupyterhub, binder, learning]
 featured_image: "../../../images/ada-blinka.jpg"
 description: "Sunrise signals a new day and new opportunities. I'm taking
@@ -16,6 +16,8 @@ excitement about learning something new. The satisfaction of being told
 that you have helped someone learn something new that they weren't
 confident that they could do gives meaning to why technology matters
 most to me.
+
+<!-- more -->
 
 As I watch the sunrise, or more accurately the yellow tone in the sky
 increase, I'm looking forward to starting a new semester or chapter in

@@ -16,7 +16,7 @@ tags:
 # Play it again pyvideo.org!
 
 Yesterday, the <a href="https://www.python.org/psf/">Python Software Foundation</a> posted <a href="http://pyfound.blogspot.com/2015/06/congratualations-to-new-board-of.html">results of the election</a> for the Board of Directors 2015-2016 term. Thank you to the many individuals that participated and helped with the election.
-
+<!-- more -->
 I want take a moment and give special thanks to the 2014-2015 PSF Board for their service and accomplishments.
 
 To the retiring PSF Board members,

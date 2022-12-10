@@ -19,7 +19,7 @@ Best Practices For Django 1.6** ([Two Scoops Press](http://twoscoopspress.com/))
 Besides helpful books, Audrey and Daniel give much to the Python community by
 sharing their experiences with others and encouraging people to get involved
 with Python and Django.
-
+<!-- more -->
 Here's my review of this helpful book:
 
 Updated and substantially expanded, I am finding "Two Scoops of Django: Best

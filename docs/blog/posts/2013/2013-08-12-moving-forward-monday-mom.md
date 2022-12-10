@@ -13,12 +13,12 @@ tags:
 
 # Moving Forward Monday: Mountains or Molehills
 
-![](/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
+![](../../../assets/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
 
 I recently moved my mom into a nursing home. My dad, who has been her steady
 caregiver for many years, had made the decision that they needed more care and
 support during my mom's most severe stage of Alzheimer's.
-
+<!-- more -->
 There were times when I felt that moving my mom from her home of many years
 would be as difficult as moving a mountain. Actually, I like to think of the
 mountain as a huge iceberg with a herd of elephants perched on top. Yes,

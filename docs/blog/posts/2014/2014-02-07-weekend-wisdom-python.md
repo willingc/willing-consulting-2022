@@ -18,7 +18,7 @@ tags:
 
 As someone who teaches beginning Pythonistas to l1earn to program, this updated
 edition of the Python Pocket Reference is worth keeping close at hand.
-
+<!-- more -->
 The reference covers both Python 3.4 and 2.7, and it highlights changes between
 the two major releases in a succinct, clear way. Yes, one can find the reference
 information in the freely available Python docs, but this guide earns its place

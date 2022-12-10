@@ -1,12 +1,15 @@
 ---
 date: 2019-11-02
-author: willingc
+authors: [willingc]
+description: >
+  A Closer Look – Encouraging people to run for the Python Steering Council and offer insight on being a Steering Council member.
+categories:
+  - Tech
 tags:
   - python
   - steering-council
   - governance
-description: >
-  A Closer Look – Encouraging people to run for the Python Steering Council and offer insight on being a Steering Council member.
+
 ---
 
 # Serving on the Inaugural Python Steering Council
@@ -15,7 +18,7 @@ description: >
 Python Steering Council.** Under the new governance of core development, described in
 [PEP 13](https://www.python.org/dev/peps/pep-0013/#electing-the-council), a new Steering
 Council is elected after each major release cycle.
-
+<!-- more -->
 ## Where can I read about being a Steering Council member
 
 - [PEP 13](https://www.python.org/dev/peps/pep-0013)

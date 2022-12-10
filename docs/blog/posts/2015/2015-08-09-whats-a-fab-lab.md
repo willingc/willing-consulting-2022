@@ -21,7 +21,7 @@ tags:
 
 A Fab Lab is a community space for people to gather and fabricate their dreams
 and ideas.
-
+<!-- more -->
 A [formal definition of a Fab Lab](http://fab.cba.mit.edu/about/faq/) can be
 seen at the [MIT Center for Bits and Atoms](http://cba.mit.edu/).
 The [Fab Foundation's website](http://www.fabfoundation.org/fab-labs/) has a

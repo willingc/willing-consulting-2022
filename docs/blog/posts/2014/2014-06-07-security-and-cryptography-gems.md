@@ -18,7 +18,7 @@ tags:
 # Security and Cryptography Gems
 
 I find cryptography and security fascinating. My current knowledge is limited to some math reading on cryptography years ago and some journal articles in IEEE, ACM, and USENIX publications. As a side project for the next year, I want to build my understanding of practical security out in the real world, especially mobile security.
-
+<!-- more -->
 Returning from AdaCamp Portland and OSBridge, I was inspired to dig into some resources. Here are a few that I believe to be accessible for experienced developers looking to learn more about security:
 
 </p><ul>

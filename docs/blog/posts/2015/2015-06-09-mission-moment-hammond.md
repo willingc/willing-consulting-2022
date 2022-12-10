@@ -31,7 +31,7 @@ hang out on the newsgroup, and it's one of the more esoteric reasons many
 people find using the language enjoyable.</blockquote> <em>Source: Mark
 Hammond and Andy Robinson, Python Programming on Win32, O'Reilly &amp;
 Associates, Inc., 2000.</em>
-
+<!-- more -->
 Mark and Andy shared this quote in the Acknowledgements section of their
 co-authored book on Python and Windows. Fifteen years later, their words about
 the Python community still ring true. Personally, I value the many thoughtful

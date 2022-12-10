@@ -17,7 +17,7 @@ tags:
 
 # Thoughts for Tuesday: Tea Leaves
 
-![](/images/2013/09/sand-crane-300x225.jpg)
+![](../../../assets/images/2013/09/sand-crane-300x225.jpg)
 
 It's been a week.
 
@@ -29,7 +29,7 @@ LinuxCon and Linux Plumbers Conference items and took the first available
 flight to Florida. I spent the day with my mom listening to her breathing
 mixed with soothing music. At 8:38pm Thursday evening, my mom passed away
 peacefully while I stroked her hair and rubbed her shoulder.
-
+<!-- more -->
 Since Thursday, the tsunami of memories hit me strong. One moment storms of
 thoughts flowed; the next moment brought a quiet, peaceful gratitude. There
 are many memories of drinking tea with my mom. It was her daily ritual.

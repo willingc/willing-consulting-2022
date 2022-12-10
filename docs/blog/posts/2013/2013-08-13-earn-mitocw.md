@@ -20,7 +20,7 @@ tags:
 - Contemplating a career change?
 
 - Want to brush up or stay current on a technology?
-
+<!-- more -->
 [MIT OpenCourseWare OCW](http://ocw.mit.edu) would be an excellent starting
 point. Since its announcement in 2001, MIT OCW has delivered MIT undergraduate
 and graduate courses to people around the world. As of June 2013, MIT OCW has

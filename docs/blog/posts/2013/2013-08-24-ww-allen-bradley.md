@@ -15,7 +15,7 @@ tags:
 
 # Weekend Wisdom: Distributed Network Data
 
-![succulent in pot](/images/2013/08/garden_succulent-225x300.jpg)
+![succulent in pot](../../../assets/images/2013/08/garden_succulent-225x300.jpg)
 
 **Distributed Network Data by Alasdair Allan and Kipp Bradford (O’Reilly Media)**
 
@@ -23,7 +23,7 @@ When I pick up a cookbook to try a new recipe, I want to know that the recipe
 has been tested and works. If the recipe doesn’t work out, the cookbook gets
 tossed on a bottom shelf to gather dust. I hold my technical books to a
 similar standard.
-
+<!-- more -->
 If you want to create a network of multi-sensor Arduino modules that share
 information, this book delivers. The authors’ extensive “hands on” experience
 produces a practical recipe for success. Beginners through intermediate users
