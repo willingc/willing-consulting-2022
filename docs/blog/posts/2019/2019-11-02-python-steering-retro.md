@@ -87,4 +87,4 @@ The next Steering Council will be starting in a good place. I'm looking forward 
 their work in 2020, and the bright future of Python.
 
 *Photo credit: LWN.net*
-![Python Steering Council](/images/2019/pycon-psc.jpg)
+![Python Steering Council](../../../assets/images/2019/pycon-psc.jpg)

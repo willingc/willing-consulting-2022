@@ -12,7 +12,7 @@ She is a three-term member of Python’s Steering Council and a core developer o
 
 Carol has an MS in Management from MIT and a BSE in Electrical Engineering from Duke University.
 
-{{< figure src="/images/images/headshot-2019.jpg" >}}
+![](assets/images/images/headshot-2019.jpg)
 
 ## Bio (Extended)
 
@@ -50,6 +50,6 @@ beautiful, or helpful.
 
 ## Headshots
 
-{{< figure src="/images/images/headshot-2019.jpg" >}}
+![](assets/images/images/headshot-2019.jpg)
 
-{{< figure src="/images/images/HS_Willing_Carol_jupcon17_NoCube.jpg" >}}
+![](assets/images/images/HS_Willing_Carol_jupcon17_NoCube.jpg)

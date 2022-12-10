@@ -1,115 +1,38 @@
 site_name: Willing Consulting
-docs_dir: docs
-
+site_url: https://willingconsulting.com
+site_author: Carol Willing
+site_description: >-
+  Learn. Build. Share.
+#repo_name: willing-consulting-2022
+#repo_url: https://github.com/willingc/willing-consulting-2022
+#edit_uri: ''
 copyright: Copyright &copy; 2013 - 2022 Carol Willing. All rights reserved.
-
-plugins:
-  - blog: {}
-  - search
-  - social:
-      cards_color:
-        fill: "#0FF1CE"
-        text: "#FFFFFF"
-  - tags
-
 theme:
   name: material
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.top
+  - content.code.annotate
+  - content.tooltips
+  - search.highlight
+  - search.share
+  - search.suggest
+  - toc.follow
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    scheme: default
+    primary: teal
+    accent: amber
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon_symbol.png
-
-  features:
-    # - announce.dismiss
-    - content.code.annotate
-    # - content.tabs.link
-    - content.tooltips
-    # - header.autohide
-    # - navigation.expand
-    - navigation.indexes
-    # - navigation.instant
-    # - navigation.prune
-    - navigation.sections
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
-    # - toc.integrate
-
-markdown_extensions:
-  # python markdown
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - md_in_html
-  - toc:
-      permalink: true
-
-  # python markdown extensions
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
-  - pymdownx.highlight:
-      # anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      # alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-
-extra_css:
-  - static/stylesheets/extra.css
-
-extra:
-  social:
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/carolwilling
-    - icon: fontawesome/brands/github
-      link: https://github.com/willingc
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crhYoMMi2xiZiKQuxMEj
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/WillingCarol
-
+  #favicon: assets/favicon_symbol.png
+  #logo: assets/images/pysplash.png
+plugins:
+  - search
 nav:
-  - Home: index.md
+  - index.md
   - About: about.md
-  - Services:
-      - services/development.md
-      - services/training.md
-      - services/workshops.md
   - Speaking: speaking.md
   - Contact: contact.md
   - Blog:
@@ -156,3 +79,16 @@ nav:
           - blog/posts/2013/2013-09-24-tealeaves.md
           - blog/posts/2013/2013-09-29-weekend-whimsy-string-theory-the-hics-and-candy-chang.md
           - blog/posts/2013/2013-12-22-inkscapefaq.md
+markdown_extensions:
+- toc:
+    permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/carolwilling
+    - icon: fontawesome/brands/github
+      link: https://github.com/willingc
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crhYoMMi2xiZiKQuxMEj
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/WillingCarol
