@@ -2,4 +2,22 @@ site_name: Willing Consulting
 
 theme:
   name: material
+  palette: 
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Noto Sans
+    code: Noto Sans Mono
+  
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
 
+extra_css:
+  - stylesheets/extra.css
