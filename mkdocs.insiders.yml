@@ -1,5 +1,12 @@
 INHERIT: mkdocs.yml
 plugins:
+  - blog:
+      post_date_format: medium
+      blog_dir: posts
+      post_url_date_format: yyyy
   - search
-  - social
+  - social:
+      cards_color:
+        fill: "#0FF1CE" 
+        text: "#FFFFFF"
   - tags
