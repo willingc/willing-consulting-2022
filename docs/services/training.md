@@ -1,10 +1,9 @@
 ---
 title: "Mentoring"
-description = "Mentoring and Training to Reach Your Goals"
-summary = "**Mentoring tailored to fit your needs.** Whether you are just beginning your software development journey or you are an experienced developer looking to build your skills, I'm here to assist you."
-parent = "services"
-weight = 20
+description:
+  Mentoring and Training to Reach Your Goals
 ---
+# Mentoring
 
 **Mentoring tailored to fit your needs.** Whether you are just beginning your
 software development journey or you are an experienced developer looking to

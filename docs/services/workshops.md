@@ -1,11 +1,8 @@
 ---
-title: "Workshops"
-description = "Upcoming Learning Events"
-summary = "The **Yes, You Can Git** workshop offers a gentle and practical introduction to Git and GitHub."
-parent = "services"
-weight = 40
+description:
+  Upcoming Learning Events
 ---
-
+# Workshops
 ## Yes, You Can Git
 
 (A Gentle and Practical Introduction to Git and GitHub)
@@ -21,7 +18,7 @@ This workshop will be based on the following slidedeck,
 
 ## Yes, You Can Git (Part 1)
 
-_This will be offered in 2019._
+_No offerings available right now._
 
 During this two hour online workshop, we'll cover the following:
 
@@ -44,7 +41,7 @@ The class size of the workshop will be limited to 6 people.
 
 ## Yes, You Can Git (Part 2)
 
-_This will be offered in 2019._
+_No offerings available right now._
 
 We'll build on the basics of Part 1 and add the following in Part 2:
 
