@@ -13,6 +13,8 @@ tags:
 
 # Learn: MIT OpenCourseWare OCW
 
+![](../../assets/images/images/ocw_mast.png)
+
 **Donate to MIT OCW.**
 
 - Thinking about returning to work after an extended absence?

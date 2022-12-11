@@ -20,9 +20,21 @@ theme:
     - search.suggest
     - toc.follow
   palette:
-    scheme: default
-    primary: teal
-    accent: amber
+      # Palette toggle for light mode
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
@@ -55,10 +67,15 @@ nav:
   - Contact: contact.md
   - Blog:
       - blog/index.md
-
 markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
   social:
     - icon: fontawesome/brands/linkedin
