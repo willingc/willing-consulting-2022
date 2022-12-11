@@ -62,6 +62,7 @@ nav:
   - index.md
   - About: about.md
   - Services:
+      - services/governance.md
       - services/development.md
       - services/training.md
       - services/workshops.md

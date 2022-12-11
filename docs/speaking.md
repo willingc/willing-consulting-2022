@@ -1,7 +1,3 @@
----
-title: "Speaking"
-description: ""
----
 # Speaking
 
 Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crhYoMMi2xiZiKQuxMEj) on YouTube and talk slides at [SpeakerDeck](https://speakerdeck.com/willingc).
