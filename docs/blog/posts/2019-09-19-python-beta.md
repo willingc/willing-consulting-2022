@@ -1,14 +1,15 @@
 ---
 date: 2019-09-19
 authors: [willingc]
-description: Try out Python 3.8.0b4 with Jupyter Notebook on macOS
+description: 
+  Try out Python 3.8.0b4 with Jupyter Notebook on macOS
 categories:
   - Tech
 tags:
   - python
   - jupyter
   - notebook
-featured_image: "../../../assets/images/2019/notebook-38.png"
+featured_image: "../../assets/images/2019/notebook-38.png"
 ---
 
 # Trying the Python 3.8 beta with Jupyter Notebook
@@ -20,7 +21,7 @@ Trying out a pre-release will help you become familiar with new features to dete
 
 Navigate to the [Python 3.8.0b4 release page](https://www.python.org/downloads/release/python-380b4/). Scroll down to the **Files** section:
 
-![](../../../assets/images/2019/python38files.png)
+![](../../assets/images/2019/python38files.png)
 
 To install on macOS, select the link `macOS 64-bit installer` and download the linked `.dmg`
 installer. Although this is a pre-release version of 3.8.0, the installer will prompt you
@@ -94,4 +95,4 @@ The Jupyter notebook interface should launch. Select a new Python3 notebook.
 You can now begin exploring the new features in Python 3.8. This example shows
 [f-strings support for self-documenting expressions and debugging](https://docs.python.org/3.8/whatsnew/3.8.html#f-strings-support-for-self-documenting-expressions-and-debugging).
 
-![](../../../assets/images/2019/notebook-38.png)
+![](../../assets/images/2019/notebook-38.png)

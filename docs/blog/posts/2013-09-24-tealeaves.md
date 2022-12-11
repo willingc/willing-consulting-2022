@@ -17,7 +17,7 @@ tags:
 
 # Thoughts for Tuesday: Tea Leaves
 
-![](../../../assets/images/2013/09/sand-crane-300x225.jpg)
+![](../../assets/images/2013/09/sand-crane-300x225.jpg)
 
 It's been a week.
 

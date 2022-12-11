@@ -11,7 +11,7 @@ tags:
 
 # Moving Forward Monday: The Ada Initiative
 
-![Lady Ada Lovelace](../../../assets/images/images/adalovelace.jpg)
+![Lady Ada Lovelace](../../assets/images/images/adalovelace.jpg)
 
 If you haven't heard yet about the Ada Initiative, I highly recommend that you
 check out the good work that they are doing for women and men in open source

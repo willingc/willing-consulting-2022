@@ -2,9 +2,9 @@
 date: 2018-08-08
 authors: [willingc]
 tags: [circuitpython, jupyter, mu, nteract, jose, jupyterhub, binder, learning]
-featured_image: "../../../images/ada-blinka.jpg"
-description: "Sunrise signals a new day and new opportunities. I'm taking
-on a new challenge over the next six months. In some ways, I will be changing my focus from developing Jupyter tools to sharing how to use these Jupyter tools as well as others, like nteract, CircuitPython, mu, EduBlocks and p5.js, to foster learning."
+featured_image: "../../images/ada-blinka.jpg"
+description: 
+  Sunrise signals a new day and new opportunities. I'm taking on a new challenge over the next six months. In some ways, I will be changing my focus from developing Jupyter tools to sharing how to use these Jupyter tools as well as others, like nteract, CircuitPython, mu, EduBlocks and p5.js, to foster learning.
 ---
 
 # Sunrise and a New Semester
@@ -55,6 +55,6 @@ my dreams and to make an impact on others. Without your gentle encouragement
 and seeing something in me which I don't always see in myself I would not
 have the courage to build my dreams. Hugs.
 
-![image alt text](../../../assets/images/ada-blinka.jpg)
+![image alt text](../../assets/images/ada-blinka.jpg)
 
 _Photo credit: pt at Adafruit_

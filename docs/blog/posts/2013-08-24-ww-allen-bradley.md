@@ -15,7 +15,7 @@ tags:
 
 # Weekend Wisdom: Distributed Network Data
 
-![succulent in pot](../../../assets/images/2013/08/garden_succulent-225x300.jpg)
+![succulent in pot](../../assets/images/2013/08/garden_succulent-225x300.jpg)
 
 **Distributed Network Data by Alasdair Allan and Kipp Bradford (O’Reilly Media)**
 

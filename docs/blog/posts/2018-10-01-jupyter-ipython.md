@@ -2,7 +2,8 @@
 date: 2018-10-01
 authors: [willingc]
 tags: [jupyter, learning, ipython]
-description: "Here are some resources that I have found helpful when learning Jupyter or IPython."
+description: 
+  Here are some resources that I have found helpful when learning Jupyter or IPython.
 ---
 
 # Cool Stuff with Jupyter and IPython

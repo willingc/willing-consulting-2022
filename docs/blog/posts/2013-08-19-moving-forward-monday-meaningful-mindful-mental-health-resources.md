@@ -28,7 +28,7 @@ stressful. Mindfulness can make a person's world more pleasant and peaceful.
 Check out the [UCSD Center for Mindfulness](https://ucsdcfm.wordpress.com/)
 for more information.
 
-![image-left](../../../assets/images/2013/08/itsuptous_logo_web-169x300.jpg)
+![image-left](../../assets/images/2013/08/itsuptous_logo_web-169x300.jpg)
 _Source: It's Up to Us website_
 
 San Diego and California have been doing a great job trying to break down

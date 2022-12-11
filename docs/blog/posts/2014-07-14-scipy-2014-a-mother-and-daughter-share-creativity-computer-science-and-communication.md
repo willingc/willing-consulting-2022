@@ -1,6 +1,8 @@
 ---
 date: 2014-07-14
 authors: [willingc]
+categories:
+  - Tech
 tags:
   - communication
   - computer science
@@ -18,10 +20,9 @@ tags:
   - simplicity
   - teamwork
 ---
-
 # SciPy 2014: A mother-daughter collaboration
 
-![](../../../assets/images/2014/07/dv13.jpg)
+![](../../assets/images/2014/07/dv13.jpg)
 
 I had the pleasure of sharing SciPy 2014 with my daughter. Well, the chance to share SciPy 2014 with a more grown up version of my daughter than the three year old girl exploring the Philippines.
 <!-- more -->

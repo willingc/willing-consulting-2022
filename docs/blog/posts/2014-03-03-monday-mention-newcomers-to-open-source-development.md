@@ -10,7 +10,7 @@ tags:
 
 # Monday Mention: Newcomers to Open Source Development
 
-![Learning on Campus](../../../assets/images/2014/03/2013-04-24-11.46.18.jpg)
+![Learning on Campus](../../assets/images/2014/03/2013-04-24-11.46.18.jpg)
 
 Are you new to open source?
 

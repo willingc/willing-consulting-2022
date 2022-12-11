@@ -1,6 +1,9 @@
 ---
 date: 2013-02-05
 author: willingc
+categories:
+  - Tech
+  - People
 tags:
   - "create"
   - "future"

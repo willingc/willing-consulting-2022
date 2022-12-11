@@ -14,7 +14,7 @@ tags:
 
 # Saturday Sharing: Some git goodness
 
-![Cat enjoying git goodness](../../../assets/images/2014/03/2013-08-17-14.12.49.jpg)
+![Cat enjoying git goodness](../../assets/images/2014/03/2013-08-17-14.12.49.jpg)
 
 Version control and sharing source code help developers hone their craft. If you
 are new to developing software, learning git can seem a confusing task. In many

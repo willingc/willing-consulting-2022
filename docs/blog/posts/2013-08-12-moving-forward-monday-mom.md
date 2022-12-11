@@ -13,7 +13,7 @@ tags:
 
 # Moving Forward Monday: Mountains or Molehills
 
-![](../../../assets/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
+![](../../assets/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
 
 I recently moved my mom into a nursing home. My dad, who has been her steady
 caregiver for many years, had made the decision that they needed more care and

@@ -9,16 +9,15 @@ tags:
   - python
   - steering-council
   - governance
-
 ---
-
 # Serving on the Inaugural Python Steering Council
 
-**The successful release of Python 3.8 (thanks Łukasz and everyone who contributed) begins a new chapter for the
-Python Steering Council.** Under the new governance of core development, described in
+**The successful release of Python 3.8 (thanks Łukasz and everyone who contributed) begins a new chapter for the Python Steering Council.** Under the new governance of core development, described in
 [PEP 13](https://www.python.org/dev/peps/pep-0013/#electing-the-council), a new Steering
 Council is elected after each major release cycle.
+
 <!-- more -->
+
 ## Where can I read about being a Steering Council member
 
 - [PEP 13](https://www.python.org/dev/peps/pep-0013)
@@ -93,4 +92,4 @@ The next Steering Council will be starting in a good place. I'm looking forward 
 their work in 2020, and the bright future of Python.
 
 _Photo credit: LWN.net_
-![Python Steering Council](../../../assets/images/2019/pycon-psc.jpg)
+![Python Steering Council](../../assets/images/2019/pycon-psc.jpg)

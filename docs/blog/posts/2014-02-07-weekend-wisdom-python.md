@@ -12,7 +12,7 @@ tags:
 
 # Weekend Wisdom: “Python Pocket Reference” by Mark Lutz; O’Reilly Media
 
-![Python Pocket Reference](../../../assets/images/2014/02/cat1.gif)
+![Python Pocket Reference](../../assets/images/2014/02/cat1.gif)
 
 ### A handy and helpful guide on the current state of Python
 
