@@ -56,6 +56,8 @@ plugins:
         - People
         - Tech
   - search
+  - tags:
+      tags_file: blog/tags.md
 nav:
   - index.md
   - About: about.md
@@ -67,6 +69,7 @@ nav:
   - Contact: contact.md
   - Blog:
       - blog/index.md
+      - blog/tags.md
 markdown_extensions:
   - admonition
   - attr_list
