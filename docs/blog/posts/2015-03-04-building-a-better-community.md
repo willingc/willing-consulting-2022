@@ -1,7 +1,12 @@
 ---
 date: 2015-03-04
 author: willingc
-tags: [fablabsd, fablab, outreach]
+categories:
+  - Tech
+tags:
+  - fablabsd
+  - fablab
+  - outreach
 ---
 
 # Building a better community
@@ -15,7 +20,9 @@ of ideas, skills, and equipment, [Fab Lab San Diego](http://fablabsd.org)
 gives individuals a chance to learn, build, and share their creations. I
 believe Fab Lab San Diego's outreach programs inspire students of all ages.
 Outreach is hard work but the community benefits are huge.
+
 <!-- more -->
+
 Please join me in [Fab Lab San Diego ReLaunch](http://igg.me/at/fablabsd/x/3914440)
 giving what you are able to Fab Lab San Diego. Tell a friend. Send a message.
 Donate toward the good work that will be done.
@@ -25,4 +32,16 @@ Donate toward the good work that will be done.
 
 <iframe src="https://www.youtube.com/embed/vw3749HLUmo" width="420" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-[gallery ids="509,510,511,512,513,514,505" orderby="rand"]
+## Fab Lab San Diego in the Community
+
+![Fab Lab San Diego Team. Credit: Carol Willing](../../assets/images/2015/03/fablabteam.jpg){data-gallery="fablab"}
+
+![Fab Lab San Diego Outreach. Credit: Carol Willing](../../assets/images/2015/03/fablaboutreach.jpg){data-gallery="fablab"}
+
+![Fab Lab San Diego Brushbots and Art. Credit: Carol Willing](../../assets/images/2015/03/2013-12-07-11.15.57-4096x2304.jpg){data-gallery="fablab"}
+
+![Fab Lab San Diego Wearables Workshop. Credit: Carol Willing](../../assets/images/2015/03/fablabwearables.jpg){data-gallery="fablab"}
+
+![Fab Lab San Diego Python Workshop. Credit: Carol Willing](../../assets/images/2015/03/2014-12-12-13.57.54.png){data-gallery="fablab"}
+
+![Fab Lab San Diego Open Hardware. Credit: Carol Willing](../../assets/images/2015/03/2014-07-04-02.54.10.jpg){data-gallery="fablab"}

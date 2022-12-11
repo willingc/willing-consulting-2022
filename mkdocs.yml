@@ -55,6 +55,17 @@ plugins:
         - General
         - People
         - Tech
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: "100%"
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: true
+      caption_position: bottom
   - search
   - tags:
       tags_file: blog/tags.md
