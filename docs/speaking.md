@@ -4,6 +4,12 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## Upcoming
 
+# 2022
+
+- [**Anaconda 10-Year Anniversary**, Panelist for *Open Source Communities*](https://youtu.be/gzgiUx8mRNU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gzgiUx8mRNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - **Coiled Webinar**
 - **PyCon Latam Keynote**, Keynote
 

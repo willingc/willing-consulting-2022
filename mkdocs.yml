@@ -20,7 +20,7 @@ theme:
     - search.suggest
     - toc.follow
   palette:
-      # Palette toggle for light mode
+    # Palette toggle for light mode
     - scheme: default
       primary: teal
       accent: amber
