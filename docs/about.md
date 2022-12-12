@@ -4,7 +4,13 @@ description: "That’s so cool. How does it work? I would love to learn more abo
 date: "2019-09-17"
 ---
 
-## Bio
+# About
+
+## Bio (Brief)
+
+**Carol Willing** is the VP of Engineering at Noteable, a three-time Python Steering Council member, a Python Core Developer, PSF Fellow, and a Project Jupyter core contributor. In 2019, she was awarded the Frank Willison Award for technical and community contributions to Python. As part of the Jupyter core team, Carol was awarded the  2017 ACM Software System Award for Project Jupyter's lasting influence. She's also a leader in open science and open-source governance serving on Quansight Labs Advisory Board and the CZI Open Science Advisory Board. She's driven to make open science accessible through open tools and learning materials.
+
+## Bio (Detailed)
 
 **Carol Naslund Willing** serves on Project Jupyter’s Steering Council and works as a Core Developer on JupyterHub and mybinder.org. She serves as a co-editor of The Journal of Open Source Education (JOSE) and co-authored an open source book, Teaching and Learning with Jupyter.
 
