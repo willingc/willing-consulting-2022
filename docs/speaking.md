@@ -4,6 +4,12 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## Upcoming
 
+# 2023
+
+- **PyCon US 2023 Keynote**, Salt Lake City, UT
+- **SDSS 2023 Invited Plenary Panel**, St. Louis, MO
+- **ODSC East 2023 Talk**
+
 # 2022
 
 - [**Anaconda 10-Year Anniversary**, Panelist for *Open Source Communities*](https://youtu.be/gzgiUx8mRNU)
