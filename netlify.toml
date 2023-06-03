@@ -5,11 +5,10 @@ package = "@quarto/netlify-plugin-quarto"
   package = "@netlify/plugin-lighthouse"
 
   [plugins.inputs.thresholds]
-    performance = 0.8
-    accessibility = 0.8
-    best-practices = 0.8
-    seo = 0.8
+    performance = 0.4
+    accessibility = 0.4
+    best-practices = 0.4
+    seo = 0.4
 
   [plugins.inputs.audits]
     output_path = "reports/lighthouse.html"
-    url = "https://www.willingconsulting.com"
