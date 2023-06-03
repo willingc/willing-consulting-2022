@@ -16,8 +16,6 @@ tags:
   - wisdom
 ---
 
-![succulent in pot](../../static/images/2013/08/garden_succulent-225x300.jpg)
-
 **Distributed Network Data by Alasdair Allan and Kipp Bradford (O’Reilly Media)**
 
 When I pick up a cookbook to try a new recipe, I want to know that the recipe
@@ -66,3 +64,5 @@ working system. If I can find the time, I may place some sensor modules in
 multiple places in my own garden to track temperature and humidity and perhaps
 use the sound input to provide an alert when the bunnies are eating my
 vegetables!
+
+![*Succulent in pot*](../../static/images/2013/08/garden_succulent.jpg)

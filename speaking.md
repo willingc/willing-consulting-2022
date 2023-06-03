@@ -11,10 +11,17 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## Upcoming events
 
+- SciPy 2023, Austin, TX
+- Python Core Developer Sprint, Brno, Czech Republic
+- PyCon APAC 2023, Tokyo, Japan
+
 ## 2023
 
-- **PyCon US 2023 Keynote**, Salt Lake City, UT
-- **SDSS 2023 Invited Plenary Panel**, St. Louis, MO
+- [**PyCon US 2023 Keynote**](https://us.pycon.org/2023/about/keynote-speakers/), *Python: The People's Programming Language*, Salt Lake City, UT
+
+{{< youtube 4l6HiN1Hrjw >}}
+
+- [**SDSS 2023 Invited Plenary Panel**](https://ww2.amstat.org/meetings/sdss/2023/featuredspeakers.cfm), *Open-Source Software: From Creation to Evaluation*, St. Louis, MO
 - **ODSC East 2023 Talk**
 
 ## 2022

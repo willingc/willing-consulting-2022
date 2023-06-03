@@ -1,0 +1,17 @@
+---
+title: "Blog listing"
+listing:
+  contents: posts
+  type: grid
+  image-height: 200px
+  image-placeholder: "../static/images/wallpaper_symbol.png"
+  grid-columns: 3
+  grid-item-border: true
+  grid-item-align: left
+  date-format: short
+  feed: true
+  filter-ui: true
+  sort-ui: true
+  sort: "date desc"
+  categories: true
+---
