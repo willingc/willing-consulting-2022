@@ -1,0 +1,28 @@
+---
+title: "Migrating to a Quarto website and blog"
+description: "Why and how I migrated my website and blog to Quarto"
+categories: [tech]
+author: Carol Willing
+date: 2023-06-03
+draft: false
+image: ../../static/images/2023/2023-06-03-quarto.webp
+tags: [quarto, markdown, lua, site, blog]
+---
+
+Over the years, I've used different frameworks for my personal website: wordpress, hugo, mkdocs. This weekend, I migrated to [Quarto](https://quarto.org), a fairly new open source project sponsored by [Posit](https://posit.co/).
+
+## Why Quarto?
+
+I've been playing around with Quarto for a few months, and I've been very impressed by its ease of use and its support of its documentation features useful for science. Quarto supports [Jupyter notebooks](https://jupyter.org), Markdown flavors, different programming languages for code listing, math and scientific notation, and a variety of deployment options.
+
+### Key benefits
+
+Overall, Quarto is straightforward to use. It's CLI interface is limited which is a good thing since it makes it easy to get up and running quickly. It comes with sensible defaults and excellent documentation for extending beyond the basics. It integrates well in modern editor workflows. A particularly nice touch is its `Render` button in VS Code which makes it easy to preview a document while creating it.
+
+![*Quarto Render button in VS Code*](../../static/images/2023/2023-06-03-quarto.webp)
+
+### Standards, pandoc, and Lua
+
+Quarto has embraced open source standards and defacto standards, and it will likely become a future swiss army knife for scientific communication. It supports markdown flavors, `ipynb` notebook formats, and all of the goodness of [pandoc](https://pandoc.org) for file format conversion. Speaking of pandoc, Quarto's development team made a great decision to use [Lua](https://www.lua.org) for extending its functionality. Lua, a high-level scripting language,has been a successful core of [Pandoc filters](https://pandoc.org/lua-filters.html) which enables walking the pandoc abstract syntax tree (AST) of a document during its writing or parsing phases. Thoughtfully, Quarto's devs have documented best practices for [learning and using Lua for Quarto extensions](https://quarto.org/docs/extensions/lua.html).
+
+![*Quarto Documentation*](../../static/images/2023/2023-06-03-quarto-doc.webp)
