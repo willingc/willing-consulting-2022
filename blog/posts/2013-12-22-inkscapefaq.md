@@ -1,16 +1,10 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "Weekend Sharing: Installing Inkscape on a recent Mac"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
+date: 2013-12-22
 draft: false
 image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
-date: 2013-12-22
-author: willingc
 tags:
   - 3D printing
   - community
@@ -23,8 +17,6 @@ tags:
   - learn
   - software
 ---
-
-# Weekend Sharing: Installing Inkscape on a recent Mac
 
 At a recent FabLab San Diego meetup, I was helping others to install
 [Inkscape](http://inkscape.org). I wrote some tips down from my install

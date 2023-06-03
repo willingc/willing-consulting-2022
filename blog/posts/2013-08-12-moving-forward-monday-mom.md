@@ -1,16 +1,9 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "Moving Forward Monday: Mountains or Molehills"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2013-08-12
-author: willingc
+draft: false
 tags:
   - Ada Initiative
   - mom
@@ -20,8 +13,6 @@ tags:
   - teamwork
   - women
 ---
-
-# Moving Forward Monday: Mountains or Molehills
 
 ![](../../static/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
 

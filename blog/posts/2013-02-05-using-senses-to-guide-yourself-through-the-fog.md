@@ -1,14 +1,4 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
-categories: [tech]
-author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 title: "Using Senses to Guide Yourself Through the Fog"
 description: "My mom has Alzheimer's."
 author: "Carol Willing"
