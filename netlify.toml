@@ -6,32 +6,8 @@ package = "@quarto/netlify-plugin-quarto"
 
   [plugins.inputs.thresholds]
     performance = 0.9
-
-  # to audit a sub path of the build directory
-  # route1 audit will use the top level thresholds
-  [[plugins.inputs.audits]]
-    path = "route1"
-
-    # you can specify output_path per audit, relative to the path
-    output_path = "reports/route1.html"
-
-  # to audit an HTML file other than index.html in the build directory
-  [[plugins.inputs.audits]]
-    path = "contact.html"
-
-  # to audit an HTML file other than index.html in a sub path of the build directory
-  [[plugins.inputs.audits]]
-    path = "pages/contact.html"
-
-  # to audit a specific absolute url
-  [[plugins.inputs.audits]]
-    url = "https://www.example.com"
-
-    # you can specify thresholds per audit
-    [plugins.inputs.audits.thresholds]
-      performance = 0.8
-
-  # to serve only a sub directory of the build directory for an audit
-  # pages/index.html will be audited, and files outside of this directory will not be served
-  [[plugins.inputs.audits]]
-    serveDir = "pages"
+    accessibility = 0.8
+    seo = 0.9
+    "best-practices" = 0.9
+    pwa = 0.5
+  
