@@ -1,16 +1,9 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "Weekend Whimsy: String theory, The Hics, and Candy Chang"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2013-09-29
-author: willingc
+draft: false
 tags:
   - a capella science
   - bohemian gravity
@@ -25,8 +18,6 @@ tags:
   - teamwork
   - wisdom
 ---
-
-# Weekend Whimsy: String theory, The Hics, and Candy Chang
 
 I'm keeping it short this morning while I write a little software. I'm enjoying some good music, art, and community. Enjoy!
 <!-- more -->

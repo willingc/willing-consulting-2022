@@ -1,24 +1,12 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
-categories: [tech]
+title: "Sharing the Knowledge"
+categories: [tech, people]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2013-02-10
-author: willingc
-categories:
-  - Tech
-  - People
+draft: false
 tags:
   ["3D printing", "FIRST", "knowledge", "lulzbot", "open source", "teamwork"]
 ---
-
-# Sharing the Knowledge
 
 I have the pleasure of mentoring a talented group of high school students. They
 are the soul of [Team 2102 Paradox of San Dieguito

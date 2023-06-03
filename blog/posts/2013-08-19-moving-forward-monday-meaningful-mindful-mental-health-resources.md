@@ -1,16 +1,9 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "Moving Forward Monday: Meaningful, Mindful, Mental Health Resources"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2013-08-19
-author: willingc
+draft: false
 tags:
   - It's Up to Us
   - mental health
@@ -20,8 +13,6 @@ tags:
   - education
   - learn
 ---
-
-# Moving Forward Monday: Meaningful, Mindful, Mental Health Resources
 
 _Note: The links to other sites and this post may have triggers to those healing._
 

@@ -1,16 +1,9 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "Learn: MIT OpenCourseWare OCW"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2013-08-13
-author: willingc
+draft: false
 tags:
   - education
   - free
@@ -20,8 +13,6 @@ tags:
   - learn
   - open source
 ---
-
-# Learn: MIT OpenCourseWare OCW
 
 ![](../../static/images/images/ocw_mast.png)
 
