@@ -15,3 +15,6 @@
 public/
 
 .DS_Store
+
+/.quarto/
+/_site/

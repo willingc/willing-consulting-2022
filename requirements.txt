@@ -1,6 +1,0 @@
-mkdocs-material
-cairosvg
-pillow
-mkdocs-rss-plugin
-mkdocs-material-extensions
-mkdocs-glightbox
