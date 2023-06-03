@@ -14,7 +14,6 @@ listing:
   fields: [date, title]
   id: blog-listings
   contents: [blog_data/blogs.yml, blog/posts]
-aliases: ["blog/"]
 format:
   html:
     anchor-sections: true
