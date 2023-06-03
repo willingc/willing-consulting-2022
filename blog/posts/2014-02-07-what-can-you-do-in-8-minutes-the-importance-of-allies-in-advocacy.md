@@ -1,16 +1,9 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "What can you do in 8 minutes? The importance of allies in advocacy"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2013-10-22
-author: willingc
+draft: false
 tags:
   - advocacy
   - allies
@@ -23,8 +16,6 @@ tags:
   - community
   - wisdom
 ---
-
-# What can you do in 8 minutes? The importance of allies in advocacy
 
 8 minutes and 18 seconds. It's a small amount of time. Yet, Laila Al-Shamma uses it wisely.
 <!-- more -->
