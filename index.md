@@ -1,31 +1,34 @@
 ---
 sidebar: false
 description: "A collection of blog posts on technology and humans."
-image: "static/images/garden-music.webp"
+image: "static/images/garden-music.jpg"
 toc: true
 listing:
-  date-format: short
-  feed: true
-  filter-ui: true
-  type: table
-  sort-ui: true
-  sort: "date desc"
-  categories: true
-  fields: [date, title]
-  id: blog-listings
   contents: blog/posts
-aliases: ["blog/"]
+  type: grid
+  max-items: 3
+  image-height: 200px
+  image-placeholder: "static/images/wallpaper_symbol.png"
+  grid-columns: 3
+  grid-item-border: true
+  grid-item-align: left
+  date-format: short
+  sort: "date desc"
+  categories: false
+  id: blog-listings
 format:
   html:
     anchor-sections: true
 ---
 
-## Learn | Build | Share
+# Learn &middot; Build &middot; Share --- Openly
 
-![](static/images/garden-music.webp)
+![](static/images/garden-music.jpg)
 
 **Open learning** and **open source development** empower individuals to create
 meaningful change and innovation. Together, we can improve access to scientific
 information and **build knowledge** from open data.
 
-## Blog
+## Recent blog posts
+
+{{< blog-listings >}} [More...](blog)

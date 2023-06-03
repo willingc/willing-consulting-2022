@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Willing Consulting"
@@ -10,18 +11,41 @@ website:
   site-url: "https://willingconsulting.com/"
   description: "Human Centered Open Source Leadership"
   repo-url: https://github.com/willingc/willing-consulting-2022
+  repo-branch: main
+  repo-actions: [edit, issue]
+  page-footer:
+    left: |
+      Copyright: 2013-2023, Carol Willing.
+    center: 
+      - icon: github
+        href: https://github.com/willingc
+      - icon: linkedin
+        href: https://www.linkedin.com/in/carolwilling/
+      - icon: twitter
+        href: https://twitter.com/WillingCarol
+      - icon: rss
+        href: index.xml
+    right: |
+      This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
     background: primary
     search: true
     left:
       - href: index.md
         text: Home
+        aria-label: home
       - href: about.md
         text: About
+        aria-label: about
       - href: speaking.md
         text: Speaking
+        aria-label: speaking
       - href: contact.md
         text: Contact
+        aria-label: contact
+      - href: blog/index.qmd
+        text: Blog
+        aria-label: blog
     tools:
       - icon: github
         href: https://github.com/willingc
@@ -35,6 +59,6 @@ website:
 format:
   html:
     theme:
-      light: lightly
+      light: flatly
       dark: darkly
     toc: true
