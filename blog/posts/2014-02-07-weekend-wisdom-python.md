@@ -1,16 +1,9 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "Weekend Wisdom: “Python Pocket Reference” by Mark Lutz; O’Reilly Media"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2014-02-07
-author: willingc
+draft: false
 tags:
   - education
   - mark lutz
@@ -20,11 +13,9 @@ tags:
   - wisdom
 ---
 
-# Weekend Wisdom: “Python Pocket Reference” by Mark Lutz; O’Reilly Media
-
 ![Python Pocket Reference](../../static/images/2014/02/cat1.gif)
 
-### A handy and helpful guide on the current state of Python
+## A handy and helpful guide on the current state of Python
 
 As someone who teaches beginning Pythonistas to l1earn to program, this updated
 edition of the Python Pocket Reference is worth keeping close at hand.

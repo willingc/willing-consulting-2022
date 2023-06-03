@@ -1,16 +1,9 @@
 ---
-title: "Trying the Python 3.8 beta with Jupyter Notebook"
-description: "Try out Python 3.8.0b4 with Jupyter Notebook on macOS"
+title: "Thoughts for Tuesday: Two Django-licious Scoops"
 categories: [tech]
 author: Carol Willing
-date: 2019-09-19
-draft: false
-image: ../../static/images/2019/notebook-38.png
-tags: [python, jupyter, notebook]
----
----
 date: 2014-02-18
-author: willingc
+draft: false
 tags:
   - Audrey Roy
   - book
@@ -21,8 +14,6 @@ tags:
   - education
   - learn
 ---
-
-# Thoughts for Tuesday: Two Django-licious Scoops
 
 Audrey Roy and Daniel Greenfeld have recently released **Two Scoops of Django:
 Best Practices For Django 1.6** ([Two Scoops Press](http://twoscoopspress.com/)).
