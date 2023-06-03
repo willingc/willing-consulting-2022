@@ -13,7 +13,7 @@ listing:
   categories: true
   fields: [date, title]
   id: blog-listings
-  contents: [blog_data/blogs.yml, blog/posts]
+  contents: blog/posts
 format:
   html:
     anchor-sections: true
