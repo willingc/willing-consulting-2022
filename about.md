@@ -58,6 +58,6 @@ beautiful, or helpful.
 
 ![](static/images/images/HS_Willing_Carol_jupcon17_NoCube.jpg)
 
-![](static/images/images/ada-blinka.jpg)
+![](static/images/ada-blinka.jpg)
 
 ![](static/images/images/headshot-2019.jpg)
