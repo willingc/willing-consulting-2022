@@ -25,3 +25,156 @@ Overall, Quarto is straightforward to use. It's CLI interface is limited which i
 Quarto has embraced open source standards and defacto standards, and it will likely become a future swiss army knife for scientific communication. It supports markdown flavors, `.ipynb` notebook formats, and all of the goodness of [pandoc](https://pandoc.org) for file format conversion. Speaking of pandoc, Quarto's development team made a great decision to use [Lua](https://www.lua.org) for extending its functionality. Lua, a high-level scripting language,has been the preferred language for [Pandoc filters](https://pandoc.org/lua-filters.html) which enable walking the pandoc abstract syntax tree (AST) of a document during its writing or parsing phases. Thoughtfully, Quarto's devs have documented best practices for [learning and using Lua for Quarto extensions](https://quarto.org/docs/extensions/lua.html).
 
 ![*Quarto Documentation*](../../static/images/2023/2023-06-03-quarto-doc.webp)
+
+## Basic steps
+
+Here are the high-level steps that I took to migrate my existing site to Quarto and host it on Netlify. I used my existing repo, created a migration branch, and then merged it into the main branch.
+
+### Installation
+
+1. Install Quarto from their website.
+2. Install the VS Code extension for Quarto and optionally Lua if you are interested in extensions development. If you use an editor other than VS Code, Quarto supports other integrations and has a basic CLI interface.
+
+### Configuration
+
+3. Creating a Quarto project was the next step. I wasn't sure whether to select `website` or `blog`. I chose `website` and decided that I could add the blog manually later. I followed [Quarto's docs](https://quarto.org/docs/websites/).
+4. Review the `_quarto.yml` configuration file. I made sure that I had a `project block` and an output directory:
+
+```yml
+---
+project:
+  type: website
+  output-dir: _site
+---
+```
+
+5. Install the [**quarto-social-embeds** extension](https://github.com/sellorm/quarto-social-embeds) into `_extensions` directory to support shortcodes that were already in my existing markdown files.
+
+### Content migration
+
+6. Copy my existing markdown files for a webpage into the root of the repo. I left them as `.md` files but I could have renamed them to `.qmd` files.
+
+7. Create a `static` directory for images and other static files.
+
+8. Create a `blog` directory at the root of the repo. Also create a `posts` directory inside of the `blog` directory. Copy my exisitng markdown files into the posts directory. Again, I left them as `.md` files but I could have renamed them to `.qmd` files. In the `blog` directory, I created an `index.qmd` file which will be the landing page for the blog. The `index.qmd` file included this as content:
+
+```md
+---
+title: "Blog listing"
+listing:
+  contents: posts
+  type: grid
+  image-height: 200px
+  image-placeholder: "../static/images/wallpaper_symbol.png"
+  grid-columns: 3
+  grid-item-border: true
+  grid-item-align: left
+  date-format: short
+  feed: true
+  filter-ui: true
+  sort-ui: true
+  sort: "date desc"
+  categories: true
+---
+```
+
+### Metadata updates
+
+9. Next, I edited the metadata at the top of each **blog post markdown file**. Using the [guide](https://quarto.org/docs/guide/) and [reference](https://quarto.org/docs/reference/) docs, I added a title, author, date, and description. I also added a `draft: false` line to the metadata of each file that I wanted to publish. I also created a list of categories for each post.
+
+An example of the metadata for this post is:
+
+```md
+---
+title: "Migrating to a Quarto website and blog"
+description: "Why and how I migrated my website and blog to Quarto"
+categories: [tech, quarto, markdown, lua, site, blog]
+author: Carol Willing
+date: 2023-06-03
+draft: false
+image: ../../static/images/2023/2023-06-03-quarto.webp
+---
+```
+
+10. I also edited the **web page markdown files** to add a title and whether to display the sidebar on the page. For example on the Contact page:
+
+```md
+---
+title: "Contact"
+sidebar: false
+---
+```
+
+### Theme and Navigation
+
+11. I updated the `_quarto.yml` file to use a light and dark **theme** which can be toggled by the reader.
+
+```yml
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+```
+
+12. I added a **navigation menu** to the `_quarto.yml` file.
+
+```yml
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.md
+        text: Home
+        aria-label: home
+      - href: about.md
+        text: About
+        aria-label: about
+      - href: speaking.md
+        text: Speaking
+        aria-label: speaking
+      - href: contact.md
+        text: Contact
+        aria-label: contact
+      - href: blog/index.qmd
+        text: Blog
+        aria-label: blog
+```
+
+13. I added a **footer** with right, left, and center sections.
+
+```yml
+  page-footer:
+    left: |
+      Copyright: 2013-2023, Carol Willing.
+    center: 
+      - icon: github
+        href: https://github.com/willingc
+      - icon: linkedin
+        href: https://www.linkedin.com/in/carolwilling/
+      - icon: twitter
+        href: https://twitter.com/WillingCarol
+      - icon: rss
+        href: index.xml
+    right: |
+      This site was built with <a href="https://quarto.org/">Quarto</a>.
+```
+
+14. I added a **favicon** and **repo** information. My [current `_quarto.yml` file](https://github.com/willingc/willing-consulting-2022/blob/695f037ef5b4962bab07d7255b4d36f2602845ac/_quarto.yml) can be found on GitHub.
+
+### Publishing
+
+15. I published my site with Netlify and followed the excellent instructions in [Quarto's docs](https://quarto.org/docs/publishing/netlify.html).
+
+16. The current site is deployed at [https://willingconsulting.com](https://willingconsulting.com).
+
+## Next steps
+
+I'm looking forward to exploring more of Quarto's power. I plan to move some of my favorite Jupyter notebooks to my site as well as my personal cheatsheets.I also plan to set up an RSS feed for my blog.
+
+I'm also interested in trying some of the other document formats that Quarto supports such as presentations, books, and papers. I also am looking into migrating my Obsidian files to a private Quarto site.
+
+## Conclusion
+
+Migrating my site to Quarto was a fun afternoon project. Quarto's documentation is excellent and helped me get up and running quickly. I'm looking forward to continue exploring this powerful communication tool.
