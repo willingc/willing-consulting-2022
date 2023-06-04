@@ -1,0 +1,90 @@
+---
+title: "Quarto: Running a Julia notebook"
+format: html
+image: "../static/images/til/julia-rendered.png"
+date: 2023-06-04
+categories: [quarto, julia]
+author: "Carol Willing"
+jupyter: julia-1.8
+---
+
+This is based on the [Quarto Julia docs](https://quarto.org/docs/computations/julia.html).
+
+## Setup
+
+1. Install [Julia](https://julialang.org/downloads/) for your operating system.
+
+2. Install [IJulia](https://github.com/JuliaLang/IJulia.jl). For this step, I use the Julia REPL. Enter pkg mode by pressing `]` and enter: `add IJulia`. This installs the IJulia kernel into the `.julia` directory in your home directory.
+
+3. From the Julia REPL, start a notebook server and kernel:
+
+```julia
+using IJulia
+notebook()
+```
+
+or alternatively install the Julia extension for VS Code.
+
+## Usage
+
+4. Create a new markdown file with the following front matter. The key item to include is `jupyter:` and the kernel to be used:
+
+```md
+---
+title: "Quarto - Julia notebook"
+format: html
+jupyter: julia-1.8
+---
+```
+
+5. From the command line, run `quarto preview` to start the preview server or `Render` in VS Code.
+
+```{julia}
+import Pkg; Pkg.add("Plots")
+```
+
+## Parametric Plots
+
+Plot function pair (x(u), y(u)). 
+See @fig-parametric for an example.
+
+```{julia}
+
+#| label: fig-parametric
+#| fig-cap: "Parametric Plots"
+
+using Plots
+
+plot(sin, 
+     x->sin(2x), 
+     0, 
+     2π, 
+     leg=false, 
+     fill=(0,:lavender))
+```
+
+See @fig-parametric-cos for another example.
+
+```{julia}
+
+#| label: fig-parametric-cos
+#| fig-cap: "Sin Plots"
+
+using Plots
+
+plot(sin, 
+     x->sin(4x), 
+     0, 
+     2π, 
+     leg=false, 
+     fill=(0,:pink))
+```
+
+
+You should now see rendered charts with Julia.
+
+## VS Code
+
+Here's a rendering of the Julia document in VS Code.
+
+![Julia and Quarto in VS Code](../static/images/til/vscode-julia.png)

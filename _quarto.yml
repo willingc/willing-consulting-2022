@@ -46,6 +46,9 @@ website:
       - href: blog/index.qmd
         text: Blog
         aria-label: blog
+      - href: til/index.qmd
+        text: TIL
+        aria-label: til
     tools:
       - icon: github
         href: https://github.com/willingc
