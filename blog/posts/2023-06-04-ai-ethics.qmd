@@ -2,11 +2,11 @@
 title: "AI Ethics, Posts, and a Madlib"
 date: 2023-06-04
 categories: [AI, ethics, madlib, research]
-draft: true
+draft: false
 format: html
 ---
 
-## Title: Madlib: AI Ethics Edition
+## Madlib: AI Ethics Edition
 
 Instructions: Fill in the blanks with the appropriate word types (noun, verb, adjective, etc.) to complete the AI ethics-themed story.
 
