@@ -1,0 +1,8 @@
+---
+title: "AI ethics resources"
+date: 2023-06-04
+---
+
+| Title | Author | Publication link |
+|-------|--------|------------------|
+| We need to keep CEOs away from AI regulation | Marietje Schaake | [FT](https://www.ft.com/content/5f8b74f7-68b1-4a6c-88bf-d0dd03579149) |
