@@ -1,11 +1,10 @@
 ---
 title: "Getting (re)Started - Resources"
 description: "I'm often asked what resources would be helpful when returning to tech after an absence or moving into tech from another career."
-categories: [tech]
+categories: [tech, learning, python, returning]
 author: Carol Willing
 date: 2018-09-30
 draft: false
-tags: [learning, python, returning]
 ---
 
 If you share something more than three times, it's a good idea to write it

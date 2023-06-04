@@ -1,23 +1,10 @@
 ---
 title: "What's a Fab Lab?"
-categories: [tech]
+categories: [tech, arduino, community, education, fablab, open source, outreach, python, raspberrypi, build, learn]
 author: Carol Willing
 date: 2015-08-09
 draft: false
-tags:
-  [
-    "Arduino",
-    "community",
-    "education",
-    "Fab Lab San Diego",
-    "fablab",
-    "open source",
-    "outreach",
-    "python",
-    "raspberry pi",
-    "build",
-    "learn",
-  ]
+image: ../../static/images/2015/08/2014-08-02-01.47.45.jpg
 ---
 
 A Fab Lab is a community space for people to gather and fabricate their dreams

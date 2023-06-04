@@ -1,11 +1,11 @@
 ---
 title: "Learning git: Locations, Remotes, and GitHub"
 description: "Where is code located? The basics of remotes for new git and GitHub users."
-categories: [tech]
+categories: [tech, git, learning, github]
 author: Carol Willing
 date: 2019-07-01
 draft: false
-tags: [git, learning, github]
+image: ../../static/images/2019/git-title.png
 ---
 
 When you are new to git and GitHub, one of the first things that is helpful to
@@ -16,8 +16,6 @@ Two concepts will help you get started:
 
 - The difference between git (tool) and GitHub (service)
 - The location of code repositories and how to refer to them
-
-## <!-- more -->
 
 _Inspired by a [talk given at Write Speak Code 2016](https://www.slideshare.net/willingc/yes-you-can-git)._
 

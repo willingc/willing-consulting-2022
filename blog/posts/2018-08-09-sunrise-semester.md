@@ -1,12 +1,11 @@
 ---
 title: "Sunrise and a New Semester"
 description: "Sunrise signals a new day and new opportunities. I'm taking on a new challenge over the next six months. In some ways, I will be changing my focus from developing Jupyter tools to sharing how to use these Jupyter tools as well as others, like nteract, CircuitPython, mu, EduBlocks and p5.js, to foster learning."
-categories: [tech]
+categories: [tech, circuitpython, jupyter, mu, nteract, jose, jupyterhub, binder, learning]
 author: Carol Willing
 date: 2018-08-08
 draft: false
 image: ../../static/images/ada-blinka.jpg
-tags: [circuitpython, jupyter, mu, nteract, jose, jupyterhub, binder, learning]
 ---
 
 For as long as I can remember, I have been passionate about using

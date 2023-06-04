@@ -1,12 +1,11 @@
 ---
 title: "Serving on the Inaugural Python Steering Council"
 description: "A Closer Look – Encouraging people to run for the Python Steering Council and offer insight on being a Steering Council member."
-categories: [tech]
+categories: [tech, python, steering-council, governance]
 author: Carol Willing
 date: 2019-11-02
 draft: false
 image: ../../static/images/2019/pycon-psc.jpg
-tags: [python, steering-council, governance]
 ---
 
 **The successful release of Python 3.8 (thanks Łukasz and everyone who contributed) begins a new chapter for the Python Steering Council.** Under the new governance of core development, described in

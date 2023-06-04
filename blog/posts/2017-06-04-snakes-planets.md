@@ -1,6 +1,6 @@
 ---
 title: "Snakes and Planets"
-categories: [tech]
+categories: [tech, psf, board, governance]
 author: Carol Willing
 date: 2017-06-04
 draft: false

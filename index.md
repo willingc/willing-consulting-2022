@@ -31,4 +31,6 @@ information and **build knowledge** from open data.
 
 ## Recent blog posts
 
-{{< blog-listings >}} [More...](blog)
+{{< blog-listings >}}
+
+[More...](blog)
