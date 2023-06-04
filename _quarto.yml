@@ -58,7 +58,8 @@ website:
         href: https://twitter.com/WillingCarol
       - icon: rss
         href: index.xml
-
+execute:
+  freeze: auto
 format:
   html:
     theme:
