@@ -15,6 +15,7 @@ listing:
   date-format: short
   sort: "date desc"
   categories: false
+  feed: true
   id: blog-listings
 format:
   html:
