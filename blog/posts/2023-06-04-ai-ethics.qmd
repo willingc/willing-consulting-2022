@@ -1,0 +1,28 @@
+---
+title: "AI Ethics, Posts, and a Madlib"
+date: 2023-06-04
+categories: [AI, ethics, madlib, research]
+draft: true
+format: html
+---
+
+## Title: Madlib: AI Ethics Edition
+
+Instructions: Fill in the blanks with the appropriate word types (noun, verb, adjective, etc.) to complete the AI ethics-themed story.
+
+Once upon a time, in a (noun) _______________, there was a brilliant (noun) _______________ named Dr. (name) _______________. Driven by their passion for (noun) _______________, they set out to create an (adjective) _______________ AI system.
+
+But Dr. (name) _______________ knew that building an ethical AI required careful (noun) _______________. They wanted to ensure that their creation was (adjective) _______________, fair, and (adjective) _______________. So, they implemented a set of (plural noun) _______________ to guide the AI's behavior.
+
+First, the AI was programmed to prioritize (noun) _______________ and protect the (plural noun) _______________ of all individuals. It was designed to respect (noun) _______________ and avoid any (adjective) _______________ or (adjective) _______________ biases.
+
+Next, Dr. (name) _______________ incorporated (plural noun) _______________ that promoted transparency and (noun) _______________. They wanted the AI to be accountable for its actions, allowing users to understand how it (verb) _______________ decisions.
+
+Finally, to prevent (noun) _______________ or (noun) _______________ use, Dr. (name) _______________ programmed the AI to follow strict (plural noun) _______________ and adhere to (adjective) _______________ guidelines.
+
+With their hard work and dedication to AI ethics, Dr. (name) _______________ successfully created an AI system that was not only (adjective) _______________ but also aligned with their values and commitment to (noun) _______________.
+
+And so, the AI ventured into the world, spreading (noun) _______________ and contributing to the (noun) _______________ of society, all while upholding the principles of (noun) _______________.
+
+Remember, when it comes to AI ethics, every (noun) _______________ and (noun) _______________ matters. Let's work together to create a future where AI serves as a force for good and (verb) _______________ our shared values.
+
