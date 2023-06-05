@@ -45,7 +45,7 @@ flowchart LR
 - Model the probability of an observation `x` given a label `y`
 - `p(x|y)`
 
-## Repressentation Learning
+## Representation Learning
 
 high-dimensional data
 
@@ -58,5 +58,5 @@ encoder-decoder
 manifold
 
 ::: {.callout-note}
-The concepts are very similar to the mathematical concepts of non-linear behavior in electrical engineering and digital communications theory.
+The fundamentalsof representational learning are very similar to the mathematical concepts of non-linear behavior in electrical engineering and digital communications theory.
 :::
