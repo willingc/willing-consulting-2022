@@ -1,0 +1,46 @@
+---
+title: "Book: Generative Deep Learning by David Foster"
+author: "Carol Willing"
+format: html
+date: 2023-06-04
+---
+
+## Chapter 1: Generative Modeling
+
+### Generative Modeling
+- model the probability of observing an observation `x`
+- `p(x)`
+
+```{mermaid}
+%%| label: fig-mermaid
+%%| fig-width: 6
+%%| fig-cap: |
+%%|   Generative model where an observation has many features
+flowchart LR
+    training_data -- training --> generative_model
+    generative_model -- "sampling (plus random noise)" --> generated_sample
+```
+
+### Discriminative Modeling
+- Model the probability of a label `y` given an observation `x`
+- `p(y|x)`
+
+```{mermaid}
+%%| label: fig-mermaid
+%%| fig-width: 6
+%%| fig-cap: |
+%%|   Discriminative model 
+flowchart LR
+    training_data["Training Data
+    label
+    observation"]
+    training_data -- training --> discriminative_model
+    result["Prediction
+    0.83
+    likely to be van Gogh"]
+    discriminative_model -- prediction --> result
+```
+
+### Conditional Generative Model
+- Model the probability of an observation `x` given a label `y`
+- `p(x|y)`
