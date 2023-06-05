@@ -1,0 +1,8 @@
+---
+title: "Papers to Read"
+format: html
+---
+
+## AI
+
+[Deep Neural Networks for Rank-Consistent Ordinal Regression Based On Conditional Probabilities by Xintong Shi, Wenzhi Cao, Sebastian Raschka](https://arxiv.org/abs/2111.08851)
