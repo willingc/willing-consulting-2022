@@ -5,9 +5,9 @@ format: html
 date: 2023-06-04
 ---
 
-## Chapter 1: Generative Modeling
+# Chapter 1: Generative Modeling
 
-### Generative Modeling
+## Generative Modeling
 - model the probability of observing an observation `x`
 - `p(x)`
 
@@ -21,7 +21,7 @@ flowchart LR
     generative_model -- "sampling (plus random noise)" --> generated_sample
 ```
 
-### Discriminative Modeling
+## Discriminative Modeling
 - Model the probability of a label `y` given an observation `x`
 - `p(y|x)`
 
@@ -41,6 +41,22 @@ flowchart LR
     discriminative_model -- prediction --> result
 ```
 
-### Conditional Generative Model
+## Conditional Generative Model
 - Model the probability of an observation `x` given a label `y`
 - `p(x|y)`
+
+## Repressentation Learning
+
+high-dimensional data
+
+representation
+
+latent space
+
+encoder-decoder
+
+manifold
+
+::: {.callout-note}
+The concepts are very similar to the mathematical concepts of non-linear behavior in electrical engineering and digital communications theory.
+:::
