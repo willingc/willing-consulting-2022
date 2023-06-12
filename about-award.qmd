@@ -1,5 +1,6 @@
 ---
 title: "Awards and Recognitions"
+toc-expand: 2
 format: html
 ---
 
