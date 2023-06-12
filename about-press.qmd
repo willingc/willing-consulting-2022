@@ -1,0 +1,13 @@
+---
+title: "Press"
+toc-expand: 2
+format: html
+---
+
+## 2022
+
+- [Everything Open Source: Women in Open Source](https://mesrenyamedogbe.hashnode.dev/women-in-open-source-edition-1)
+## 2015
+- [Django Girls Blog - Your Django Story: Meet Carol Willing](https://blog.djangogirls.org/post/107597215478/your-django-story-meet-carol-willing)
+- [PyDev of the Week: Carol Willing](
+https://www.blog.pythonlibrary.org/2015/10/12/pydev-of-the-week-carol-willing/)

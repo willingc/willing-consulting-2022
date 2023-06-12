@@ -39,6 +39,8 @@ website:
         menu:
           - about.md
           -  about-award.qmd
+          - about-press.qmd
+          - about-podcasts.qmd
       - href: speaking.md
         text: Speaking
         aria-label: speaking

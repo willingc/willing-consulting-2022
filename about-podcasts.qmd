@@ -1,0 +1,14 @@
+---
+title: "Interviews and Podcasts"
+toc-expand: 2
+format: html
+---
+
+## 2020
+### RSE Stories Podcast
+
+[**RSE Stories Podcast**](http://us-rse.org/rse-stories/2020/carol-willing/) A podcast about Research Software Engineer stories.
+
+> **A Lifelong Learner**
+> Crafting computational narratives and answering questions in the real world with grace and Python.
+
