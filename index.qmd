@@ -24,7 +24,7 @@ format:
 
 # Learn &middot; Build &middot; Share --- Openly
 
-![](static/images/garden-music.jpg)
+![](static/images/garden-music.webp){width=640}
 
 **Open learning** and **open source development** empower individuals to create
 meaningful change and innovation. Together, we can improve access to scientific
