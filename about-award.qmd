@@ -1,0 +1,52 @@
+---
+title: "Awards and Recognitions"
+format: html
+---
+
+## 2023
+### Python Software Foundation Community Service Award
+
+[**Python Software Foundation Community Service Award**](https://www.python.org/community/awards/community-service-award/)
+by the [Python Software Foundation](https://psf.org).
+
+The PSF Community Service Awards are a formal way for the PSF Board of Directors to offer recognition of work which, in its opinion, significantly improves the Foundation's fulfillment of its mission and benefits the broader Python community.
+
+> The Q4 2022 Community Service Award was given to **Carol Willing** for her work as a Python Core Developer and her years of service on the Python Steering Council.
+
+*Awarded at [PyCon 2023](https://us.pycon.org/2023/).*
+
+## 2019
+### Frank Willison Memorial Award
+
+[**Frank Willison Memorial Award**](https://www.python.org/community/awards/frank-willison/)
+by the [Python Software Foundation](https://psf.org) and [O'Reilly Media](https://www.oreilly.com/).
+
+The **Frank Willison Memorial Award** for Contributions to the Python Community is given annually to a person judged to have made an outstanding contribution to the Python community. 
+
+> [Carol Willing](https://www.python.org/community/awards/frank-willison/#carol-willing-2019) was honored in recognition of her technical contributions to Jupyter and as a core developer, as well as her community contributions as a member of the PSF Code of Conduct Work Group, a former board member, contributor to many PyCons, and as a member of the Python Steering Council.
+
+*Awarded at Oscon 2019 in Portland, OR*
+
+## 2017
+
+### ACM Software System Award
+
+[**Carol Willing**](https://awards.acm.org/award-recipients/willing_1304832) received the ACM Software System Award for her contributions to Project Jupyter, a widely used open-source software for interactive computing.
+
+> For Project Jupyter, a broad collaboration that develops open-source tools for interactive computing, with a language-agnostic design. These tools, that include IPython, the Jupyter Notebook and JupyterHub, have become a de facto standard for data analysis in research, education, journalism, and industry.
+
+Awarded to an institution or individual(s) recognized for developing a software system that has had a lasting influence, reflected in contributions to concepts, in commercial acceptance, or both.
+
+
+
+### Python Software Foundation Fellow
+
+[**Python Software Foundation Fellow**](https://www.python.org/psf/fellows/)
+
+Fellows are members who have been nominated for their extraordinary efforts and impact upon Python, the community, and the broader Python ecosystem.
+
+## Past Awards
+
+### Digital Equipment Corporation Award (MIT)
+
+### Duke University Presidential Student Leadership Award
