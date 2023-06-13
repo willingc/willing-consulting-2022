@@ -16,6 +16,8 @@ format: html
 
 - [PyLadies Mentorship Group Helps Women Python Developers](https://www.businessinsider.com/pyladies-python-programming-language-software-developers-women-2021-3), Business Insider.
 
+- [How Python is building a welcoming community for women](https://github.com/readme/featured/women-in-tech-python), The ReadMe Project, GitHub.
+
 ## 2020
 
 - [Governance Q & A Blog with Carol Willing](https://engineering.salesforce.com/governance-q-a-blog-with-carol-willing-294f5135a767/), Salesforce Engineering blog Oct 07.
