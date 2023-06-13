@@ -12,13 +12,21 @@ format: html
 
 - [Everything Open Source: Women in Open Source](https://mesrenyamedogbe.hashnode.dev/women-in-open-source-edition-1)
 
+## 2021
+
+- [PyLadies Mentorship Group Helps Women Python Developers](https://www.businessinsider.com/pyladies-python-programming-language-software-developers-women-2021-3), Business Insider.
+
 ## 2020
 
-- [Governance Q & A Blog with Carol Willing](https://engineering.salesforce.com/governance-q-a-blog-with-carol-willing-294f5135a767/), Salesforce Engineering blog Oct 07
+- [Governance Q & A Blog with Carol Willing](https://engineering.salesforce.com/governance-q-a-blog-with-carol-willing-294f5135a767/), Salesforce Engineering blog Oct 07.
+
+- [Where Programming Languages are Headed in 2020](https://www.oreilly.com/radar/where-programming-languages-are-headed-in-2020/), O'Reilly Radar.
 
 ## 2018
 
 - Featured Chapter in [Python Interview by Mike Driscoll](https://subscription.packtpub.com/book/web-development/9781788399081/3/ch03/carol-willing), Packet Publishing.
+
+- [ASK AN ENGINEER 2/14/18 - Special guest Carol Willing](https://blog.adafruit.com/2018/02/10/ask-an-engineer-2-14-18-special-guest-carol-willing-willingcarol-projectjupyter-askanengineer/), Adafruit blog.
 
 ## 2015
 
