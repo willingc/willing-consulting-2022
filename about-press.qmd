@@ -4,9 +4,21 @@ toc-expand: 2
 format: html
 ---
 
+## 2023
+
+- [Elevating Open Source Contributors to Open Source Maintainers](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/), GitHub Blog
+
 ## 2022
 
 - [Everything Open Source: Women in Open Source](https://mesrenyamedogbe.hashnode.dev/women-in-open-source-edition-1)
+
+## 2020
+
+- [Governance Q & A Blog with Carol Willing](https://engineering.salesforce.com/governance-q-a-blog-with-carol-willing-294f5135a767/), Salesforce Engineering blog Oct 07
+
+## 2018
+
+- Featured Chapter in [Python Interview by Mike Driscoll](https://subscription.packtpub.com/book/web-development/9781788399081/3/ch03/carol-willing), Packet Publishing.
 
 ## 2015
 
