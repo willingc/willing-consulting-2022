@@ -5,6 +5,7 @@ format: html
 ---
 
 ## 2020
+
 ### RSE Stories Podcast
 
 [**RSE Stories Podcast**](http://us-rse.org/rse-stories/2020/carol-willing/) A podcast about Research Software Engineer stories.
@@ -12,3 +13,8 @@ format: html
 > **A Lifelong Learner**
 > Crafting computational narratives and answering questions in the real world with grace and Python.
 
+### Others
+
+- Open Source Directions
+- Command Line Heroes
+- Talk Python to Me

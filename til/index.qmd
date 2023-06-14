@@ -2,7 +2,7 @@
 title: "TIL - Today I Learned"
 listing:
   contents: .
-  type: grid
+  type: table
   image-height: 200px
   image-placeholder: "../static/images/wallpaper_symbol.png"
   grid-columns: 3
