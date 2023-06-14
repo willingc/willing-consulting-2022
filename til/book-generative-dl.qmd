@@ -60,3 +60,34 @@ manifold
 ::: {.callout-note}
 The fundamentals of representational learning are very similar to the mathematical concepts of non-linear behavior in electrical engineering and digital communications theory.
 :::
+
+## Chapter 2: Deep Learning
+
+### Multilayer Perceptron (MLP)
+- discriminative model
+- supervised learning
+- loss function: compare predicted to actual
+- optimizer: used to adjust weights in neural network based on the gradient of the loss function
+    - Adam (Adaptive Moment Estimation)
+    - RMSProp (Root Mean Square Propagation)
+
+### Convolution Neural Network (CNN)
+- Convolutional layer is a collection of filters
+- strides: step size used to move the filter across input
+- padding: `padding="same"` pads input data with zeros so the output layer is the same size as the input size if `strides=1`
+- stacking
+- Batch normalization - calculation of gradient grows too large causing weights to wildly oscillate
+    - covariate shift: weights move farther away from the random initial values
+    - training using batch normalization reduces covariate shift problem
+    - prediction using batch normalization
+    - trainable parameters
+        - scale (gamma)
+        - shift (beta)
+    - nontrainable parameters
+        - moving average
+        - standard deviation
+- Dropout
+    - during training, choose a random set of units from the prior layer and set their output to zero
+    - reduces reliance on any one value so better at generalizing to unseen data
+- Modern approaches tend to favor batch normalization
+
