@@ -1,0 +1,7 @@
+---
+title: "AI security resources"
+date: 2023-06-14
+---
+
+- [AI Hallucinations Package Risk](https://vulcan.io/blog/ai-hallucinations-package-risk)
+- [OWASP Top 10 LLM Risks](https://vulcan.io/blog/owasp-top-10-llm-risks-what-we-learned/)

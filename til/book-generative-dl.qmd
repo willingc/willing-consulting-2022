@@ -91,3 +91,9 @@ The fundamentals of representational learning are very similar to the mathematic
     - reduces reliance on any one value so better at generalizing to unseen data
 - Modern approaches tend to favor batch normalization
 
+# Chapter 3: Variational Autoencoders
+
+- [Autoencoding Variational Bayes by Klingma and Welling](https://arxiv.org/abs/1312.6114#:~:text=https%3A//doi.org/10.48550/arXiv.1312.6114)
+- [Tutorial on Variational Autoencoders by Carl Doersch](https://arxiv.org/abs/1606.05908)
+
+
