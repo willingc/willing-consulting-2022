@@ -31,14 +31,14 @@ website:
     background: primary
     search: true
     left:
-      - href: index.md
-        text: Home
+      - text: Home
         aria-label: home
+        href: index.qmd
       - text: About
         aria-label: about
         menu:
           - about.md
-          -  about-award.qmd
+          - about-award.qmd
           - about-press.qmd
           - about-podcasts.qmd
       - href: speaking.md
