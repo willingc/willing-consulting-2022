@@ -5,3 +5,5 @@ date: 2023-06-14
 
 - [AI Hallucinations Package Risk](https://vulcan.io/blog/ai-hallucinations-package-risk)
 - [OWASP Top 10 LLM Risks](https://vulcan.io/blog/owasp-top-10-llm-risks-what-we-learned/)
+- [OWASP Educational links](https://owasp.org/www-project-top-10-for-large-language-model-applications/resources/)
+- [OWASP Top 10 List for LLM v0.1](https://owasp.org/www-project-top-10-for-large-language-model-applications/descriptions/)

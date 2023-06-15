@@ -1,0 +1,27 @@
+---
+title: "Container tips"
+date: 2023-06-14
+---
+
+  
+## Updating Cuda
+
+From [jarvislab.ai docs](https://jarvislabs.ai/docs/troubleshooting/):
+
+If you want to use a different version of cuda, then you can follow the below steps.
+
+```bash
+apt update
+export DEBIAN_FRONTEND=noninteractive
+apt-get install libxml2 -y
+```
+
+Download the required version of Cuda
+`wget https://developer.download.nvidia.com/compute/cuda/11.7.1/local_installers/cuda_11.7.1_515.65.01_linux.run`
+
+
+Install Cuda
+`sh cuda_11.7.1_515.65.01_linux.run --silent --toolkit --toolkitpath=/home/cuda_11.7`
+
+You can install a particular version of torch like this
+`pip install torch==1.13.0+cu117 torchvision==0.14.0+cu117 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117`
