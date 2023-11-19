@@ -7,7 +7,7 @@ listing:
   contents: blog/posts
   type: grid
   max-items: 3
-  image-height: 250px
+  image-height: 200px
   image-placeholder: "static/images/wave-connecting-250.png"
   grid-columns: 3
   grid-item-border: true
