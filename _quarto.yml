@@ -44,15 +44,15 @@ website:
       - href: speaking.md
         text: Speaking
         aria-label: speaking
-      - href: contact.md
-        text: Contact
-        aria-label: contact
       - href: blog/index.qmd
         text: Blog
         aria-label: blog
       - href: til/index.qmd
         text: TIL
         aria-label: til
+      - href: contact.md
+        text: Contact
+        aria-label: contact
     tools:
       - icon: github
         href: https://github.com/willingc
