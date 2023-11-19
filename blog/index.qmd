@@ -4,7 +4,7 @@ listing:
   contents: posts
   type: grid
   image-height: 200px
-  image-placeholder: "../static/images/swirl-mascot-1000.png"
+  image-placeholder: "../static/images/wave-connecting-250.png"
   grid-columns: 3
   grid-item-border: true
   grid-item-align: left
