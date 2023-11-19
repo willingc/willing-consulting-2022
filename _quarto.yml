@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Willing Consulting"
-  favicon: static/images/favicon_symbol.png
+  favicon: static/images/wave-connecting-250.png
   open-graph: true
   twitter-card:
     creator: "@WillingCarol"
