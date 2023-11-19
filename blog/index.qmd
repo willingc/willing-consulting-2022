@@ -3,7 +3,6 @@ title: "Blog listing"
 subtitle: News, tips, and commentary from Willing Consulting
 listing:
   contents: posts
-  type: grid
   image-height: 200px
   image-placeholder: "../static/images/wave-connecting-250.png"
   grid-columns: 3

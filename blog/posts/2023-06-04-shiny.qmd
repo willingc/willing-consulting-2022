@@ -5,6 +5,7 @@ author: "Carol Willing"
 draft: false
 format: html
 jupyter: python3
+image: ../../static/images/2023/2023-06-03-quarto.webp
 ---
 
 ```{python}
