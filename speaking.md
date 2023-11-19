@@ -11,22 +11,24 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## Upcoming events
 
-- SciPy 2023, Austin, TX
-- Python Core Developer Sprint, Brno, Czech Republic
-- PyCon APAC 2023, Tokyo, Japan
+- PyTexas 2024, Austin, TX
 
 ## 2023
 
-- [**PyCon US 2023 Keynote**](https://us.pycon.org/2023/about/keynote-speakers/), *Python: The People's Programming Language*, Salt Lake City, UT
+- Python Core Developer Sprint, Brno, Czech Republic
+
+- SciPy 2023, Austin, TX, _Tools Plenary: Jupyter_
+
+- [**PyCon US 2023 Keynote**](https://us.pycon.org/2023/about/keynote-speakers/), _Python: The People's Programming Language_, Salt Lake City, UT
 
 {{< youtube 4l6HiN1Hrjw >}}
 
-- [**SDSS 2023 Invited Plenary Panel**](https://ww2.amstat.org/meetings/sdss/2023/featuredspeakers.cfm), *Open-Source Software: From Creation to Evaluation*, St. Louis, MO
+- [**SDSS 2023 Invited Plenary Panel**](https://ww2.amstat.org/meetings/sdss/2023/featuredspeakers.cfm), _Open-Source Software: From Creation to Evaluation_, St. Louis, MO
 - **ODSC East 2023 Talk**
 
 ## 2022
 
-- [**Anaconda 10-Year Anniversary**, Panelist for *Open Source Communities*](https://youtu.be/gzgiUx8mRNU)
+- [**Anaconda 10-Year Anniversary**, Panelist for _Open Source Communities_](https://youtu.be/gzgiUx8mRNU)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gzgiUx8mRNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -38,8 +40,8 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 - [**Women in Analytics**](https://womeninanalytics.com/conference/), Keynote
 - **SciPy 2021**, Moderator for Diversity and Inclusion Panel, Austin
 - **PyCon 2021**, Keynote
-- **Seattle AI Workshops and Silicon Valley Python Workshops**, Panelist for *Survive and Thrive in your Data Science Career*
-- [**PLAYfest 2021**](https://www.playfullearninglab.org/playfest-2021), Workshop *Play with Code: The Joy of p5.js*
+- **Seattle AI Workshops and Silicon Valley Python Workshops**, Panelist for _Survive and Thrive in your Data Science Career_
+- [**PLAYfest 2021**](https://www.playfullearninglab.org/playfest-2021), Workshop _Play with Code: The Joy of p5.js_
 - **PyCascades**, Invited Panelist on Python Development during the COVID-19 Era
 
 ## 2020
@@ -51,7 +53,7 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 - **PyData LA**, Los Angeles
 - **IEEE International Conference on Big Data - Workshop: Open Science in Big Data (OSBD)**, Los Angeles
-  - Keynote Speaker: [*Scaling Reproducible Research with Jupyter*](https://speakerdeck.com/willingc/scaling-reproducible-research-with-jupyter-3bd32b77-1896-45da-ba57-9f3c2eba49a9)
+  - Keynote Speaker: [_Scaling Reproducible Research with Jupyter_](https://speakerdeck.com/willingc/scaling-reproducible-research-with-jupyter-3bd32b77-1896-45da-ba57-9f3c2eba49a9)
 - **PyCon Brasil**
 - **Workshop: Building reproducible workflows for earth sciences** ECMWF, Reading
 - **Python Core Developer Sprint**, London
