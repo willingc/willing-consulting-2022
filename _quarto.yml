@@ -50,6 +50,9 @@ website:
       - href: til/index.qmd
         text: TIL
         aria-label: til
+      - href: pysplashlive.md
+        text: PySplashLive
+        aria-label: pysplashlive
       - href: contact.md
         text: Contact
         aria-label: contact
