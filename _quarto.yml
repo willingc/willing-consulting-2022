@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Willing Consulting"
-  # image:
+  image: logo-horizontal-1200.jpg
   favicon: static/images/wave-connecting-250.png
   # google-anayltics
   open-graph: true
@@ -37,7 +37,11 @@ website:
     right: |
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
-    background: "#f8f9fa"
+    background: light
+    logo: willing-consulting.png
+    logo-alt: "Willing Consulting logo"
+    title: false
+    collapse-below: lg
     search: true
     left:
       - text: Home
@@ -86,9 +90,10 @@ format:
   html:
     toc: true
     theme:
-      light: [cosmo]
+      light: [cosmo, theme.scss]
     code-copy: true
     code-overflow: wrap
+    css: styles.css
     grid:
       sidebar-width: 250px
       body-width: 900px

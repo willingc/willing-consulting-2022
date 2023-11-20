@@ -1,8 +1,13 @@
 ---
-sidebar: false
-description: "A collection of blog posts on technology and humans."
-image: "static/images/garden-music.jpg"
+pagetitle: "Willing Consulting"
+page-layout: custom
+section-divs: false
 toc: false
+css: index.css
+editor: source
+description: "A collection of blog posts on technology and humans."
+hide-description: true
+image: logo-horizontal-1200.jpg
 listing:
   contents: blog/posts
   type: grid
@@ -17,9 +22,6 @@ listing:
   categories: false
   feed: true
   id: blog-listings
-format:
-  html:
-    anchor-sections: true
 ---
 
 :::{layout-ncol=2}
