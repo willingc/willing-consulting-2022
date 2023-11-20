@@ -30,9 +30,9 @@ listing:
 ::: {.content-block}
 
 ::: {.hero-text}
-# Welcome to Willing Consulting {.mt-1}
+# Deep Tech for the Real World {.mt-1}
 
-### Learn. Build. Share. Empower your business with open source.
+### Simplifying open source and emerging tech for forward-thinking businesses and curious minds
 
 ![*Carol Willing presenting PyCon 2023 Keynote*](pycon-keynote.png)
 
@@ -41,12 +41,16 @@ I’m an expert in **Python**, **Open Source Governance**, **Data Science**, and
 I now advise early-stage companies and speak around the world on emerging tech,
 open source governance, and inclusive leadership.
 
-### Connect users. Solve problems. Scale impact.  {.mt-1}
-
 ::: {.hero-buttons}
 [PySplashLive](pysplashlive.md){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 [Contact us](contact.md){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
 ::: 
+
+### Connect Users. Solve Problems. Scale Your Impact. {.mt-1}
+
+**Empower your business with open source.**
+
+
 :::
 :::
 :::
