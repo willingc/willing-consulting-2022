@@ -56,7 +56,7 @@ beautiful, or helpful.
 
 ### Headshots
 
-![](static/images/images/HS_Willing_Carol_jupcon17_NoCube.jpg)
+![](static/images/HS_Willing_Carol_jupcon17_NoCube.jpg)
 
 ![](static/images/ada-blinka.jpg)
 
