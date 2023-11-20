@@ -36,7 +36,7 @@
 
 
 .hero-banner .hero-image {
-  position: absolute;
+  position: relative;
   display: none;
   height: auto;
 }
@@ -47,7 +47,7 @@
 }
 
 .hero-banner .content-block .hero-text {
-  width: 65%;
+  width: 80%;
 }
 
 .hero-banner .content-block .hero-animation {
@@ -171,23 +171,23 @@
   border-bottom: 1px solid #dee2e6;
 }
 
-.hello-quarto {
+.hello-wc {
   padding-bottom: 1rem;
 }
 
 @media (min-width: 600px) {
-.hello-quarto-banner {
+.hello-wc-banner {
   display: inline-flex;
   align-content: center;
   justify-content: center;
 }
 
-.hello-quarto-banner h1 {
+.hello-wc-banner h1 {
   margin-right: 40px;
 }
 }
 
-.hello-quarto-banner .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+.hello-wc-banner .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
   border: none;
   border-bottom: 2px solid #39729E !important;
   color: #39729E;
@@ -195,7 +195,7 @@
   
 }
 
-.hello-quarto-banner .nav-pills button {
+.hello-wc-banner .nav-pills button {
   width: 125px;
 }
 
@@ -205,12 +205,12 @@
   color: rgb(84, 85, 85);
 }
 
-.hello-quarto .tab-content p {
+.hello-wc .tab-content p {
   font-size: 1.1em;
   margin-bottom: 1.5em;
 }
 
-.hello-quarto div.sourceCode {
+.hello-wc div.sourceCode {
   background-color: white;
   border: 1px solid #dee2e6;
 }

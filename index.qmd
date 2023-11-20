@@ -8,15 +8,17 @@ editor: source
 description: "A collection of blog posts on technology and humans."
 hide-description: true
 image: logo-horizontal-1200.jpg
+resources: 
+  - static/hero.mp4
 listing:
   contents: blog/posts
-  type: grid
+  #type: grid
   max-items: 3
   image-height: 200px
   image-placeholder: "static/images/wave-connecting-250.png"
-  grid-columns: 3
-  grid-item-border: true
-  grid-item-align: left
+  #grid-columns: 3
+  #grid-item-border: true
+  #grid-item-align: left
   date-format: short
   sort: "date desc"
   categories: false
@@ -25,7 +27,6 @@ listing:
 ---
 
 ::: {.hero-banner}
-
 
 ::: {.content-block}
 
@@ -41,35 +42,31 @@ I’m an expert in **Python**, **Open Source Governance**, **Data Science**, and
 I now advise early-stage companies and speak around the world on emerging tech,
 open source governance, and inclusive leadership.
 
+### Connect Users. Solve Problems. Scale Your Impact.
+
+Empower your business with open source.
+
 ::: {.hero-buttons}
 [PySplashLive](pysplashlive.md){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 [Contact us](contact.md){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
-::: 
-
-### Connect Users. Solve Problems. Scale Your Impact. {.mt-1}
-
-**Empower your business with open source.**
-
-
-:::
 :::
 :::
 
-::: {.hello-quarto .alt-background}
+:::
+:::
 
+
+::: {.hello-wc .alt-background}
 ::: {.content-block}
 
+::: {.hello-wc-text}
 # Carol Willing
-
-::: {.hello-quarto-banner}
 
 I approach life with an
 insatiable appetite for learning and a passion for sharing my knowledge with others and learning
 alongside them. As a three-time Python Steering member—including serving on the
 inaugural council; a Project Jupyter core contributor, and Project Jupyter core
 contributor, my dedication to the language can be felt far and wide.
-
-:::
 
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12}
@@ -79,22 +76,28 @@ contributor, my dedication to the language can be felt far and wide.
 ::: {.g-col-lg-6 .g-col-12}
 ![](pycon-title-slide.png)
 
-“I was interested in doing it, there was an opportunity, so I just did it.”
+### “I was interested in doing it, there was an opportunity, so I just did it.”
 --- Barbara Liskov, Turing Award Winner
 
 :::
 
 :::
 
+::: {.hero-animation}
+
+<video autoplay muted playsinline loop>
+<source src="static/hero.mp4" type="video/mp4"/>
+</video>
+:::
+
+:::
 :::
 :::
 
-::: {.hello-quarto}
-
+::: {.hello-wc}
 ::: {.content-block}
 
-
-## Recent blog posts
+# Recent blog posts
 
 [More...](blog)
 
