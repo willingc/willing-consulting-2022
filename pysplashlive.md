@@ -10,6 +10,10 @@ fun. It's a great way to learn Python and Jupyter. Give it a try. It's free.
 *If you leave the browser, you will lose your work. Save your work to a
 downloadable file if you want to keep it.*
 
+## New to Notebooks? Try this out.
+
+After the PySplashLive loads, double click on the notebook icon named `meet_swirl.ipynb`. It should launch and introduce you to Swirl.
+
 ::: {#fig-py}
 
 <iframe width="1000" height="1000" src="https://willingc.github.io/pysplashlive"></iframe>
