@@ -2,7 +2,7 @@
 sidebar: false
 description: "A collection of blog posts on technology and humans."
 image: "static/images/garden-music.jpg"
-toc: true
+toc: false
 listing:
   contents: blog/posts
   type: grid
@@ -22,13 +22,26 @@ format:
     anchor-sections: true
 ---
 
-# Learn &middot; Build &middot; Share --- Openly
+:::{layout-ncol=2}
 
-![](static/images/garden-music.webp){width=640}
+![](HS_Willing_Carol_jupcon17_NoCube.jpg)
 
-**Open learning** and **open source development** empower individuals to create
+![](static/images/logo-horizontal.svg)
+
+:::
+
+# Carol Willing
+
+**I’m an expert in Python, Open Source Governance, Data Science, and AI. I now advise early-stage
+companies and speak around the world on emerging tech and open source governance.**
+
+![](pycon-keynote.png)
+
+Open learning and open source development empower individuals to create
 meaningful change and innovation. Together, we can improve access to scientific
-information and **build knowledge** from open data.
+information and build knowledge from open data.
+
+**Learn &middot; Build &middot; Share**
 
 ## Recent blog posts
 

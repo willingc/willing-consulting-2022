@@ -28,7 +28,7 @@ website:
     right: |
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
-    background: primary
+    background: "#f8f9fa"
     search: true
     left:
       - text: Home
