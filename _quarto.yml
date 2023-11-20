@@ -4,27 +4,36 @@ project:
 
 website:
   title: "Willing Consulting"
+  # image:
   favicon: static/images/wave-connecting-250.png
+  # google-anayltics
   open-graph: true
   twitter-card:
     creator: "@WillingCarol"
-  site-url: "https://willingconsulting.com/"
+  site-url: "https://willingconsulting.com"
   description: "Human Centered Open Source Leadership"
   repo-url: https://github.com/willingc/willing-consulting-2022
+  issue-url: https://github.com/willingc/willing-consulting-2022/issues/new
   repo-branch: main
   repo-actions: [edit, issue]
+  page-navigation: true
+  bread-crumbs: true
   page-footer:
     left: |
       Copyright: 2013-2023, Carol Willing.
     center: 
       - icon: github
         href: https://github.com/willingc
+        aria-label: Williingc on Github
       - icon: linkedin
         href: https://www.linkedin.com/in/carolwilling/
+        aria-label: Carol Willing on LinkedIn
       - icon: twitter
         href: https://twitter.com/WillingCarol
+        aria-label: WillingCarol on Twitter
       - icon: rss
         href: index.xml
+        aria-label: Carol Willing Blog RSS
     right: |
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
@@ -59,17 +68,30 @@ website:
     tools:
       - icon: github
         href: https://github.com/willingc
+        text: Willingc on Github
       - icon: linkedin
         href: https://www.linkedin.com/in/carolwilling/
+        text: Carol Willing on LinkedIn
       - icon: twitter
         href: https://twitter.com/WillingCarol
+        text: WillingCarol on Twitter
       - icon: rss
-        href: index.xml
+        href: https://willingconsulting.com/blog/index.xml
+        text: Willing Consulting RSS
+
 execute:
   freeze: auto
+
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
     toc: true
+    theme:
+      light: [cosmo]
+    code-copy: true
+    code-overflow: wrap
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+
+

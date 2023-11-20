@@ -1,6 +1,7 @@
 ---
 title: "PySplashLive"
 sidebar: false
+
 ---
 
 PySplashLive brings the power of Jupyter Notebook using JupyterLite, pyodide,
@@ -16,7 +17,7 @@ After the PySplashLive loads, double click on the notebook icon named `meet_swir
 
 ::: {#fig-py}
 
-<iframe width="1000" height="1000" src="https://willingc.github.io/pysplashlive"></iframe>
+<iframe width="900" height="1000" src="https://willingc.github.io/pysplashlive"></iframe>
 
 PySplashLive
 :::
