@@ -6,7 +6,7 @@ website:
   title: "Willing Consulting"
   image: logo-horizontal-1200.jpg
   favicon: static/images/wave-connecting-250.png
-  # google-anayltics
+  google-analytics: "G-HMME8QVYFL"
   open-graph: true
   twitter-card:
     creator: "@WillingCarol"
