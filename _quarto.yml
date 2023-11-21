@@ -46,13 +46,9 @@ website:
       - text: Home
         aria-label: home
         href: index.qmd
-      - text: About
+      - href: about.md
+        text: About
         aria-label: about
-        menu:
-          - about.md
-          - about-award.qmd
-          - about-press.qmd
-          - about-podcasts.qmd
       - href: speaking.md
         text: Speaking
         aria-label: speaking
