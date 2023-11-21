@@ -1,7 +1,12 @@
 ---
 title: "About Carol Willing"
 
-
+listing:
+  contents:
+    - docs/about/about-award.qmd
+    - docs/about/about-podcasts.qmd
+    - docs/about/about-press.qmd
+    - docs/about/about-bios.qmd
 ---
 
 I am a globally recognized expert in Python development and open source
@@ -46,3 +51,6 @@ keynote on a global stage.
 When I am not coding or deep in research on data, AI, or cognitive science, you can find me in
 my Southern California garden, surrounded by succulents, restoring an old guitar, or building
 blinky wearables.
+
+## More about me
+

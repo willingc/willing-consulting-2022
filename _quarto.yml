@@ -46,8 +46,8 @@ website:
       - text: Home
         aria-label: home
         href: index.qmd
-      - href: about.md
-        text: About
+      - text: About
+        href: about.md
         aria-label: about
       - href: speaking.md
         text: Speaking
@@ -64,6 +64,7 @@ website:
       - href: contact.md
         text: Contact
         aria-label: contact
+
     tools:
       - icon: github
         href: https://github.com/willingc
