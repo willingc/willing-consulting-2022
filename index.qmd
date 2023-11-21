@@ -3,22 +3,18 @@ pagetitle: "Willing Consulting"
 page-layout: custom
 section-divs: false
 toc: false
-css: index.css
+css: static/css/index.css
 editor: source
 description: "A collection of blog posts on technology and humans."
 hide-description: true
-image: logo-horizontal-1200.jpg
+image: images/logo-horizontal-1200.jpg
 resources: 
   - static/hero.mp4
 listing:
   contents: blog/posts
-  #type: grid
   max-items: 3
   image-height: 200px
   image-placeholder: "static/images/wave-connecting-250.png"
-  #grid-columns: 3
-  #grid-item-border: true
-  #grid-item-align: left
   date-format: short
   sort: "date desc"
   categories: false
@@ -35,7 +31,7 @@ listing:
 
 ### Simplifying open source and emerging tech for forward-thinking businesses and curious minds
 
-![*Carol Willing presenting PyCon 2023 Keynote*](pycon-keynote.png)
+![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.png)
 
 I’m an expert in **Python**, **Open Source Governance**, **Data Science**, and **AI**.
 
@@ -70,11 +66,11 @@ contributor, my dedication to the language can be felt far and wide.
 
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12}
-![](HS_Willing_Carol_jupcon17_NoCube.jpg)
+![](images/HS_Willing_Carol_jupcon17_NoCube.jpg)
 :::
 
 ::: {.g-col-lg-6 .g-col-12}
-![](pycon-title-slide.png)
+![](images/pycon-title-slide.png)
 
 ### “I was interested in doing it, there was an opportunity, so I just did it.”
 --- Barbara Liskov, Turing Award Winner
