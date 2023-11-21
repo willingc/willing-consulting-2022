@@ -15,6 +15,11 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## 2023
 
+- [**PyCon Sweden 2023 Keynote**](https://www.pycon.se/), Stockholm, Sweden
+
+- ASA Section on Statistical Computing's mini-symposium 
+on "Statistical Computing in Action", Panelist, Virtual.
+
 - Python Core Developer Sprint, Brno, Czech Republic
 
 - SciPy 2023, Austin, TX, _Tools Plenary: Jupyter_

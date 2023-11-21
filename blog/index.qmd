@@ -14,5 +14,5 @@ listing:
   filter-ui: true
   sort-ui: true
   sort: "date desc"
-  categories: true
+  categories: false
 ---
