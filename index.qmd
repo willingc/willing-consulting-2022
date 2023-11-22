@@ -44,8 +44,8 @@ open source governance, and inclusive leadership.
 Empower your business with open source.
 
 ::: {.hero-buttons}
-[PySplashLive](pysplashlive.md){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
-[Contact us](contact.md){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+[PySplashLive](pysplashlive.md){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" aria-label="PySplashLive"}
+[Contact us](contact.md){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Contact Us"}
 :::
 :::
 
