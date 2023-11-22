@@ -36,12 +36,11 @@ website:
     right: |
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
-    background: light
+    background: "#f0eeeb"
     logo: images/willing-consulting.webp
     logo-alt: "Willing Consulting logo"
     title: false
     collapse-below: lg
-    search: false
     left:
       - text: Home
         aria-label: home
@@ -86,10 +85,10 @@ format:
   html:
     toc: true
     theme:
-      light: [zephyr, static/css/theme.scss]
+      light: [zephyr, wilcon.scss]
     code-copy: true
     code-overflow: wrap
-    css: static/css/styles.css
+    css: wilcon.css
     grid:
       sidebar-width: 250px
       body-width: 900px
