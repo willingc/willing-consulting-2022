@@ -5,7 +5,8 @@ categories: [tech, pyladies, python, conference, global]
 author: Carol Willing
 date: 2023-11-20
 draft: false
-image: ../../static/images/2023/2023-11-20-pyladies-office.png
+image: ../../static/images/2023/2023-11-20-pyladies-office.webp
+image-alt: PyLadies Snowboard in my office
 ---
 
 [**PyLadies**](https://pyladies.com) is a special organization that strives to give everyone
@@ -40,7 +41,7 @@ together at [PyLadiesCon](https://conference.pyladies.com) for a
 weekend filled with insightful talks, engaging panels, and collaborative
 networking opportunities. I can't wait to see the [keynotes](https://conference.pyladies.com/speakers.html#keynotes) from six global leaders in Python.
 
-![PyLadies Global Conference](../../static/images/2023/2023-11-20-pyladiescon.png)
+![PyLadies Global Conference](../../static/images/2023/2023-11-20-pyladiescon.webp "PyLadies Global Conference")
 
 The [speakers](https://conference.pyladies.com/speakers.html#speakers) and attendees will be around the world. I'm looking forwart to
 the talks and learning from each other.
@@ -57,8 +58,8 @@ leader, mentor, learner, and friend.
 
 **I'm thankful for the opportunity to give back to PyLadies.**
 
-![](../../static/images/2023/2023-11-20-pyladies-sponsor.png)
+![](../../static/images/2023/2023-11-20-pyladies-sponsor.webp "PyLadiesCon Sponsor")
 
 ## Thank You
 
-![PyLadies Snowboard in my office](../../static/images/2023/2023-11-20-pyladies-office.png)
+![PyLadies Snowboard in my office](../../static/images/2023/2023-11-20-pyladies-office.webp "PyLadies Snowboard in my office")
