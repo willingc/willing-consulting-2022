@@ -20,7 +20,7 @@ website:
   page-footer:
     left: |
       Copyright: 2013-2023, Carol Willing.
-    center: 
+    center:
       - icon: github
         href: https://github.com/willingc
         aria-label: Williingc on Github
@@ -37,7 +37,7 @@ website:
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
     background: light
-    logo: willing-consulting.png
+    logo: images/logo-horizontal-1200.jpg
     logo-alt: "Willing Consulting logo"
     title: false
     collapse-below: lg
