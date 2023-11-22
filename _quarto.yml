@@ -38,7 +38,7 @@ website:
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
     background: "#f0eeeb"
-    logo: images/willing-consulting.webp
+    logo: images/willing-consulting.png
     logo-alt: "Willing Consulting logo"
     title: false
     collapse-below: lg
