@@ -18,6 +18,7 @@ website:
   repo-actions: [edit, issue]
   page-navigation: true
   page-footer:
+    background: "#000000"
     left: |
       Copyright: 2013-2023, Carol Willing.
     center:
@@ -63,20 +64,6 @@ website:
       - href: contact.md
         text: Contact
         aria-label: contact
-
-    tools:
-      - icon: github
-        href: https://github.com/willingc
-        text: Willingc on Github
-      - icon: linkedin
-        href: https://www.linkedin.com/in/carolwilling/
-        text: Carol Willing on LinkedIn
-      - icon: twitter
-        href: https://twitter.com/WillingCarol
-        text: WillingCarol on Twitter
-      - icon: rss
-        href: https://willingconsulting.com/blog/index.xml
-        text: Willing Consulting RSS
 
 format:
   html:
