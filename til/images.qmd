@@ -1,0 +1,45 @@
+---
+title: "Converting images"
+date: 2023-11-21
+---
+
+For faster page loads, converting to a modern image format makes sense.
+Here are a few approaches to convert to `.webp` format.
+
+## Using `cwebp`
+
+The `cwebp` tool is part of the `webp` package.
+I installed on macOS using `brew install webp`.
+
+To convert a single image:
+
+```bash
+cwebp ada-blinka.jpg -o ada-blinka.webp
+```
+
+To convert all images in a directory:
+
+```bash
+for f in *.jpg; do cwebp "$f" -o "${f%.jpg}.webp"; done
+```
+
+## Using Pillow
+
+The [Pillow](https://pillow.readthedocs.io/en/stable/) library can be used to convert images.
+I installed it using `pip install Pillow`.
+
+In the Python REPL, you can display an image like this:
+
+```python
+from PIL import Image
+im = Image.open('ada-blinka.jpg')
+im.show()
+```
+
+To convert an image to `.webp` format, you can use the REPL like this:
+
+```python
+from PIL import Image
+im = Image.open('ada-blinka.jpg').convert('RGB')
+im.save('ada-blinka.webp', 'webp')
+```
