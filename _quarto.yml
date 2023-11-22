@@ -41,7 +41,7 @@ website:
     logo-alt: "Willing Consulting logo"
     title: false
     collapse-below: lg
-    search: true
+    search: false
     left:
       - text: Home
         aria-label: home
