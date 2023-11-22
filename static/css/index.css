@@ -271,6 +271,6 @@ nav.page-navigation {
 }
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-  color: #fff;
-  background-color: #ff7518;
+  color: #0096c7;
+  background-color: #f8f9fa;
 }
