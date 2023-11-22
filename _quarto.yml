@@ -86,7 +86,7 @@ format:
   html:
     toc: true
     theme:
-      light: [cosmo, static/css/theme.scss]
+      light: [zephyr, static/css/theme.scss]
     code-copy: true
     code-overflow: wrap
     css: static/css/styles.css
