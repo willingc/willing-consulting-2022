@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Willing Consulting"
-  image: images/logo-horizontal-1200.jpg
+  image: images/logo-horizontal-1200.webp
   favicon: static/images/wave-connecting-250.png
   google-analytics: "G-HMME8QVYFL"
   open-graph: true
@@ -37,7 +37,7 @@ website:
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
     background: light
-    logo: images/willing-consulting.png
+    logo: images/willing-consulting.webp
     logo-alt: "Willing Consulting logo"
     title: false
     collapse-below: lg
