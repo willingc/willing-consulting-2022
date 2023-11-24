@@ -10,7 +10,7 @@ listing:
 ---
 
 I am a globally recognized expert in Python development and open source
-software. As a board advisor and consultant, I guide early-stage organizations.
+software. As a board advisor and consultant, I guide early-stage organizations,
 and leadership teams in the complexities of open source governance, data science, AI,
 cloud, and Machine Learning. I am a core Python developer, three-time Python
 steering member, and Project Jupyter core contributor.
@@ -53,4 +53,3 @@ my Southern California garden, surrounded by succulents, restoring an old guitar
 blinky wearables.
 
 ## More about me
-
