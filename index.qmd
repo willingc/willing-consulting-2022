@@ -5,7 +5,7 @@ section-divs: false
 toc: false
 #css: static/css/index.css
 editor: source
-description: "A collection of blog posts on technology and humans."
+description: "Human Centered Open Source Leadership"
 hide-description: true
 image: images/logo-horizontal-1200.webp
 image-alt: "Willing Consulting logo"

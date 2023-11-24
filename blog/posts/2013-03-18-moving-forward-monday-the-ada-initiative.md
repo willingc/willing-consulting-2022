@@ -12,7 +12,7 @@ tags:
   - women
 ---
 
-![Lady Ada Lovelace](../../static/images/images/adalovelace.jpg)
+![Lady Ada Lovelace](../../static/images/images/adalovelace.jpg){fig-alt="Lady Ada Lovelace" fig-align="left"}
 
 If you haven't heard yet about the Ada Initiative, I highly recommend that you
 check out the good work that they are doing for women and men in open source

@@ -12,6 +12,8 @@ tags:
   - simplicity
   - teamwork
   - women
+image: ../../static/images/2013/08/2013-08-05-13.10.27-225x300.jpg
+image-alt: "Carol's mom"
 ---
 
 ![](../../static/images/2013/08/2013-08-05-13.10.27-225x300.jpg)

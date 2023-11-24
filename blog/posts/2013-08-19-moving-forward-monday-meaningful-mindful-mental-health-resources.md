@@ -12,6 +12,8 @@ tags:
   - UCSD Center for Mindfulness
   - education
   - learn
+image: ../../static/images/2013/08/itsuptous_logo_web-169x300.jpg
+image-alt: Up to us logo
 ---
 
 _Note: The links to other sites and this post may have triggers to those healing._
