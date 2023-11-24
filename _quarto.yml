@@ -67,8 +67,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [lux, wilcon.scss]
+    theme: [spacelab, wilcon.scss]
     css: wilcon.css
     toc: true
     grid:
