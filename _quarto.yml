@@ -20,7 +20,7 @@ website:
   page-footer:
     background: "#000000"
     left: |
-      Copyright: 2013-2023, Carol Willing.
+      Copyright: 2013-2024, Carol Willing.
     center:
       - icon: github
         href: https://github.com/willingc
