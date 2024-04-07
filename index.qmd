@@ -1,9 +1,9 @@
 ---
 pagetitle: "Willing Consulting"
-#page-layout: custom
+page-layout: custom
 section-divs: false
 toc: false
-#css: static/css/index.css
+css: index.css
 editor: source
 description: "Human Centered Open Source Leadership"
 hide-description: true
@@ -25,27 +25,32 @@ listing:
 
 ::: {.hero-banner}
 
+
 ::: {.content-block}
 
 ::: {.hero-text}
-# Deep Tech for the Real World {.mt-1}
+# Welcome to Willing Consulting
 
-### Simplifying open source and emerging tech for forward-thinking businesses and curious minds
+## Deep Tech for the Real World
+
+### Simplifying open source for forward-thinking businesses
+
+I’m Carol Willing, an expert in **Python**, **Open Source Governance**, **Data Science**, and **AI**.
+
+I advise early-stage companies on how to use open source effectively. I speak frequently around the world on emerging tech,
+open source governance, and inclusive leadership. Whether a business or an audience, I tailor my
+work to your needs.
 
 ![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.webp "Carol Willing presenting PyCon 2023 Keynote")
-
-I’m an expert in **Python**, **Open Source Governance**, **Data Science**, and **AI**.
-
-I now advise early-stage companies and speak around the world on emerging tech,
-open source governance, and inclusive leadership.
 
 ### Connect Users. Solve Problems. Scale Your Impact.
 
 Empower your business with open source.
 
 ::: {.hero-buttons}
-[PySplashLive](pysplashlive.md){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" aria-label="PySplashLive"}
-[Contact us](contact.md){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Contact Us"}
+[Contact](contact.md){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Contact Us"}
+[Schedule a meeting](https://calendly.com/willingc/introductory-meeting){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Schedule"}
+[Recent talks](https://speakerdeck.com/willingc){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Recent talks"}
 :::
 :::
 
