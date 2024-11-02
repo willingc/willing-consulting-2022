@@ -11,7 +11,15 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## Upcoming events
 
-- PyTexas 2024, Austin, TX
+- PyCon 2025, Pittsburgh, PA
+
+## 2024
+
+- PyCon Uganda 2024 keynote, Kampala, Uganda (remote)
+- Europython 2024 keynote, Prague, CZ
+- CZI 5 year celebration invited panel, Boston, MA
+- PyCon 2024, Pittsburgh, PA
+- PyTexas 2024 keynote, Austin, TX
 
 ## 2023
 
