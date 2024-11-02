@@ -29,7 +29,7 @@ My contributions to science, open source, and technology are felt far and wide: 
 transformed the way students learn with Jupyter notebooks; I’ve contributed and
 shared to countless open source projects such as AnitaB.org and CPython; I’ve
 advised many organizations in open source governance including Quansight Labs, CZI
-Open Source, and PyOpenSci. I am the recipient of the ACM Software System
+Open Source, and pyOpenSci. I am the recipient of the ACM Software System
 Award (2017) and the Frank Willison Award for technical and community contributions to
 Python (2019). I’m a co-organizer of PyLadies San Diego and San Diego
 Python User Group.
