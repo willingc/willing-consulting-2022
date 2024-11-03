@@ -15,6 +15,7 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## 2024
 
+- PyLadiesCon
 - PyCon Uganda 2024 keynote, Kampala, Uganda (remote)
 - Europython 2024 keynote, Prague, CZ
 - CZI 5 year celebration invited panel, Boston, MA
