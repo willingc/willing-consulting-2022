@@ -1,0 +1,10 @@
+---
+title: "Repo health for reproducibility"
+format: html
+---
+
+[Scientific Python](https://scientific-python.org) and [pyOpenSci](https://pyopensci.org) are two organizations that are working to improve the quality of scientific software in Python.
+
+I've been using [Scientific Python's repo review guidelines and tool](https://learn.scientific-python.org/development/guides/repo-review/) to help me maintain the quality of repos that I maintain.
+
+It can be run in the browser or as a command line tool. If used and following the recommendations, your repo will be more reproducible and maintainable.
