@@ -1,6 +1,7 @@
 ---
 title: "Repo health for reproducibility"
 format: html
+date: 2024-11-04
 ---
 
 [Scientific Python](https://scientific-python.org) and [pyOpenSci](https://pyopensci.org) are two organizations that are working to improve the quality of scientific software in Python.
