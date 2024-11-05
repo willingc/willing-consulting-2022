@@ -67,16 +67,22 @@ website:
 
 format:
   html:
-    theme: [spacelab, wilcon.scss]
-    css: wilcon.css
+    theme:
+      light:
+        - cosmo
+        - assets/wilcon.scss
+      dark:
+        - cosmo
+        - assets/wilcon.scss
     toc: true
     grid:
       sidebar-width: 0px
-      body-width: 1000px
+      body-width: 800px
       margin-width: 250px
     html-math-method:
       method: mathjax
       url: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js.min
+    lightbox: true
 
 execute: 
   freeze: auto
