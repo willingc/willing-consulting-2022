@@ -3,14 +3,13 @@ title: "TIL - Today I Learned"
 listing:
   contents: .
   type: table
-  image-height: 200px
-  image-placeholder: "../static/images/wallpaper_symbol.png"
-  grid-columns: 3
+  fields: [date, title]
+  grid-columns: 2
   grid-item-border: true
   grid-item-align: left
-  date-format: short
+  date-format: iso
   feed: true
   filter-ui: true
   sort-ui: true
-  sort: "desc"
+  sort: "date desc"
 ---

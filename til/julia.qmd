@@ -4,8 +4,6 @@ format: html
 image: "../static/images/til/julia-rendered.png"
 date: 2023-06-04
 categories: [quarto, julia]
-author: "Carol Willing"
-# jupyter: julia-1.8
 execute:
   freeze: true  # never re-render during project render
 ---

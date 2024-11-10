@@ -1,6 +1,5 @@
 ---
 title: "Book: Generative Deep Learning by David Foster"
-author: "Carol Willing"
 format: html
 date: 2023-06-04
 ---

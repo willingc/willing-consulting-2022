@@ -1,6 +1,7 @@
 ---
 title: "Podcast tips"
 format: html
+date: 2023-06-01
 ---
 
 - Booking guests: [matchmaker.fm](https://www.matchmaker.fm/)
