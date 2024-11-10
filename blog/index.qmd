@@ -5,7 +5,7 @@ listing:
   contents: posts
   image-height: 200px
   image-placeholder: "../static/images/wave-connecting-250.png"
-  date-format: short
+  date-format: iso
   feed: true
   filter-ui: true
   sort-ui: true
