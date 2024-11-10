@@ -6,6 +6,7 @@ website:
   title: "Willing Consulting"
   image: images/logo-horizontal-1200.webp
   favicon: static/images/wave-connecting-250.png
+  cookie-consent: true
   google-analytics: "G-HMME8QVYFL"
   open-graph: true
   twitter-card:
@@ -18,7 +19,7 @@ website:
   repo-actions: [edit, issue]
   page-navigation: true
   page-footer:
-    background: "#000000"
+    background: "#555555"
     left: |
       Copyright: 2013-2024, Carol Willing.
     center:
@@ -69,11 +70,11 @@ format:
   html:
     theme:
       light:
-        - cosmo
-        - assets/wilcon.scss
+        - zephyr
+        #- assets/wilcon.scss
       dark:
-        - cosmo
-        - assets/wilcon.scss
+        - darkly
+        #- assets/wilcon.scss
     toc: true
     grid:
       sidebar-width: 0px
