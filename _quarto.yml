@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Willing Consulting"
-  image: images/logo-192-40.png
+  image: images/logo-horizontal-1000.png
   favicon: static/images/wave-connecting-250.png
   cookie-consent: true
   google-analytics: "G-HMME8QVYFL"
