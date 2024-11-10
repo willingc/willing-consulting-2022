@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "AAAA,uBAAuB;AAUvB,oBAAoB",
-"sources": ["wilcon.scss"],
-"names": [],
-"file": "wilcon.css"
-}
+{"version":3,"sourceRoot":"","sources":["wilcon.scss"],"names":[],"mappings":"AAAA;AAQA","file":"wilcon.css"}
