@@ -5,3 +5,8 @@
 ## Style
 
 `sass wilcon.scss wilcon.css`
+
+## Quarto
+
+`quarto preview`
+
