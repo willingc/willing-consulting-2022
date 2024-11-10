@@ -10,3 +10,7 @@
 
 `quarto preview`
 
+## Tips
+
+css, scss
+
