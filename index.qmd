@@ -7,7 +7,7 @@ css: index.css
 editor: source
 description: "Human Centered Open Source Leadership"
 hide-description: true
-image: images/logo-horizontal-1200.webp
+image: 2024-design-refresh/logo-192-40.png
 image-alt: "Willing Consulting logo"
 resources: 
   - static/hero-fast.mp4
@@ -29,13 +29,13 @@ listing:
 ::: {.content-block}
 
 ::: {.hero-text}
-# Welcome to Willing Consulting
+# Willing Consulting
 
 ## Deep Tech for the Real World
 
 ### Simplifying open source for forward-thinking businesses
 
-I’m Carol Willing, an expert in **Python**, **Open Source Governance**, **Data Science**, and **AI**.
+Hi. I’m Carol Willing, an expert in **Python**, **Open Source Governance**, **Data Science**, and **AI**.
 
 I advise early-stage companies on how to use open source effectively. I speak frequently around the world on emerging tech,
 open source governance, and inclusive leadership. Whether a business or an audience, I tailor my

@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Willing Consulting"
-  image: images/logo-horizontal-1200.webp
+  image: images/logo-192-40.png
   favicon: static/images/wave-connecting-250.png
   cookie-consent: true
   google-analytics: "G-HMME8QVYFL"
@@ -39,7 +39,7 @@ website:
       This site was built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
     background: "#f0eeeb"
-    logo: images/willing-consulting.png
+    logo: images/logo-192-40.png
     title: false
     search: true
     collapse-below: lg
@@ -69,13 +69,10 @@ website:
 format:
   html:
     theme:
-      light:
-        - zephyr
-        #- assets/wilcon.scss
-      dark:
-        - darkly
-        #- assets/wilcon.scss
+      light: [zephyr]
+      dark: [darkly]
     toc: true
+    #css: styles.css
     grid:
       sidebar-width: 0px
       body-width: 800px
