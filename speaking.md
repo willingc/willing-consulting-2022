@@ -9,6 +9,12 @@ sidebar: true
 
 Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crhYoMMi2xiZiKQuxMEj) on YouTube and talk slides at [SpeakerDeck](https://speakerdeck.com/willingc).
 
+## Featured talk
+
+Europython 2024 keynote
+
+{{< video https://www.youtube.com/embed/1ejP3wjIAeE >}}
+
 ## Upcoming events
 
 - PyCon 2025, Pittsburgh, PA
@@ -26,8 +32,8 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 - [**PyCon Sweden 2023 Keynote**](https://www.pycon.se/), Stockholm, Sweden
 
-- ASA Section on Statistical Computing's mini-symposium 
-on "Statistical Computing in Action", Panelist, Virtual.
+- ASA Section on Statistical Computing's mini-symposium
+  on "Statistical Computing in Action", Panelist, Virtual.
 
 - Python Core Developer Sprint, Brno, Czech Republic
 
