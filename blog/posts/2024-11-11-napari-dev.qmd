@@ -36,45 +36,75 @@ pyenv --version
 
 In this section, we will install miniforge3, a minimal installer for conda.
 
-`pyenv install miniforge3`
+```zsh
+pyenv install miniforge3
+```
 
-`pyenv versions`
+```zsh
+pyenv versions
+```
 
-`pyenv local miniforge3`
+```zsh
+pyenv local miniforge3
+```
 
 ## Playing with conda
 
-`conda`
+```zsh
+conda
+```
 
-`conda list`
+```zsh
+conda list
+```
 
-`conda init`
+```zsh
+conda init
+```
 
 ## Create a conda environment
 
-`conda create -y -n napari-env -c conda-forge python=3.9`
+```zsh
+conda create -y -n napari-env -c conda-forge python=3.9
+```
 
-`conda activate napari-env`
+```zsh
+conda activate napari-env
+```
 
-`python -m pip install "napari[all]"`
+```zsh
+python -m pip install "napari[all]"
+```
 
-**Note the quotes are needed for zsh shell.**
+::: {.callout-note}
+The quotes are needed for zsh shell.
+:::
 
 ## Add the dev tools
 
-`pip install -e ".[pyside,dev]"`
+```zsh
+pip install -e ".[pyside,dev]"
+```
 
-`pip install -e ".[dev]"`
+```zsh
+pip install -e ".[dev]"
+```
 
-`pre-commit install`
+```zsh
+pre-commit install
+```
 
 ## Add the testing tools
 
-`python -m pip install -e ".[testing]"`
+```zsh
+python -m pip install -e ".[testing]"
+```
 
 ## Run the tests
 
-`CI=1 pytest`
+```zsh
+CI=1 pytest
+```
 
 ## Next steps
 
