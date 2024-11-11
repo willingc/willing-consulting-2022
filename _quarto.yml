@@ -36,10 +36,11 @@ website:
         href: index.xml
         aria-label: Carol Willing Blog RSS
     right: |
-      This site was built with <a href="https://quarto.org/">Quarto</a>.
+      Built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
-    background: "#f0eeeb"
-    logo: images/logo-192-40.png
+    background: light
+    logo: images/logo-horizontal-500-250.png
+    logo-alt: Willing Consulting
     title: false
     search: true
     collapse-below: lg
@@ -76,7 +77,7 @@ format:
       light: [zephyr, wilcon.scss]
       dark: [darkly, wilcon.scss]
     toc: true
-    #css: styles.css
+    css: styles.css
     grid:
       sidebar-width: 0px
       body-width: 800px

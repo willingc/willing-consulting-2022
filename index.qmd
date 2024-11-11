@@ -7,8 +7,6 @@ css: index.css
 editor: source
 description: "Human Centered Open Source Leadership"
 hide-description: true
-image: 2024-design-refresh/logo-192-40.png
-image-alt: "Willing Consulting logo"
 resources: 
   - static/hero-fast.mp4
 listing:
@@ -16,7 +14,7 @@ listing:
   max-items: 3
   image-height: 200px
   image-placeholder: "static/images/wave-connecting-250.png"
-  date-format: short
+  date-format: iso
   sort: "date desc"
   categories: false
   feed: true

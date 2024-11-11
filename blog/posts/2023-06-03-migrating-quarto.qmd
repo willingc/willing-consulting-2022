@@ -134,7 +134,7 @@ format:
       - href: speaking.md
         text: Speaking
         aria-label: speaking
-      - href: contact.md
+      - href: contact.qmd
         text: Contact
         aria-label: contact
       - href: blog/index.qmd
