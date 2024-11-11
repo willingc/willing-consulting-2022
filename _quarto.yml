@@ -47,6 +47,7 @@ website:
       - text: Home
         aria-label: home
         href: index.qmd
+        icon: house-door-fill
       - text: About
         href: about.md
         aria-label: about
@@ -65,7 +66,10 @@ website:
       - href: contact.md
         text: Contact
         aria-label: contact
-
+    tools: 
+      - icon: github
+        href: https://github.com/willingc
+        aria-label: Carol Willing on GitHub
 format:
   html:
     theme:
