@@ -49,9 +49,9 @@ website:
         href: index.qmd
         icon: house-door-fill
       - text: About
-        href: about.md
+        href: about.qmd
         aria-label: about
-      - href: speaking.md
+      - href: speaking.qmd
         text: Speaking
         aria-label: speaking
       - href: blog/index.qmd
@@ -60,10 +60,10 @@ website:
       - href: til/index.qmd
         text: TIL
         aria-label: til
-      - href: pysplashlive.md
+      - href: pysplashlive.qmd
         text: PySplashLive
         aria-label: pysplashlive
-      - href: contact.md
+      - href: contact.qmd
         text: Contact
         aria-label: contact
     tools: 
