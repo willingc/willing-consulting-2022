@@ -1,0 +1,83 @@
+---
+title: "Setting up a napari development environment (M1 MacOS)"
+description: "What I learned setting up a napari development environment on my M1 Mac."
+categories: [tech, napari, python, visualization]
+author: Carol Willing
+date: 2024-11-11
+draft: false
+image: ../../static/images/2024/2024-11-napari.png
+---
+
+## Getting pyenv
+
+Set up pyenv on your M1 Mac.
+
+```zsh
+brew install pyenv
+```
+
+Add the following to your `.zshrc` file:
+
+```zsh
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH
+eval "$(pyenv init --path)"
+```
+
+Restart your terminal.
+
+To test that pyenv is installed, run:
+
+```zsh
+pyenv --version
+```
+
+## Getting miniforge3
+
+In this section, we will install miniforge3, a minimal installer for conda.
+
+`pyenv install miniforge3`
+
+`pyenv versions`
+
+`pyenv local miniforge3`
+
+## Playing with conda
+
+`conda`
+
+`conda list`
+
+`conda init`
+
+## Create a conda environment
+
+`conda create -y -n napari-env -c conda-forge python=3.9`
+
+`conda activate napari-env`
+
+`python -m pip install "napari[all]"`
+
+**Note the quotes are needed for zsh shell.**
+
+## Add the dev tools
+
+`pip install -e ".[pyside,dev]"`
+
+`pip install -e ".[dev]"`
+
+`pre-commit install`
+
+## Add the testing tools
+
+`python -m pip install -e ".[testing]"`
+
+## Run the tests
+
+`CI=1 pytest`
+
+## Next steps
+
+1. Run IPython and test napari.
+2. Make a change to the code and run the tests.
+3. Run an example script.

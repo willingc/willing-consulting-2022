@@ -69,8 +69,8 @@ website:
 format:
   html:
     theme:
-      light: [zephyr]
-      dark: [darkly]
+      light: [zephyr, wilcon.scss]
+      dark: [darkly, wilcon.scss]
     toc: true
     #css: styles.css
     grid:
