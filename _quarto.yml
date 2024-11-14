@@ -19,7 +19,6 @@ website:
   repo-actions: [edit, issue]
   page-navigation: true
   page-footer:
-    background: "#555555"
     left: |
       Copyright: 2013-2024, Carol Willing.
     center:
@@ -38,7 +37,6 @@ website:
     right: |
       Built with <a href="https://quarto.org/">Quarto</a>.
   navbar:
-    background: light
     logo: images/logo-horizontal-500-250.png
     logo-alt: Willing Consulting
     title: false
@@ -74,10 +72,10 @@ website:
 format:
   html:
     theme:
-      light: [zephyr, wilcon.scss]
-      dark: [darkly, wilcon.scss]
-    toc: true
+      light: [cosmo]
+      dark: [superhero]
     css: styles.css
+    toc: true
     grid:
       sidebar-width: 0px
       body-width: 800px
