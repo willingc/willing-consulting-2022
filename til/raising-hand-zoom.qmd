@@ -1,0 +1,13 @@
+---
+title: "Raising your hand 🙋 on Zoom"
+date: 2024-11-14
+format: html
+---
+
+A simple tip someone shared with me today but super useful for Zoom calls.
+As Zoom's UI evolves, things have moved around. 
+I couldn't find the "raise hand" button on a call today.
+
+I learned that there is a keyboard shortcut for raising your hand on Zoom.
+
+Option-Y on macOS {{< kbd mac=Option-Y >}} will raise your hand 🙋 on Zoom.
