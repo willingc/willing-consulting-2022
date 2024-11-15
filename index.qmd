@@ -3,7 +3,7 @@ pagetitle: "Willing Consulting"
 page-layout: custom
 section-divs: false
 toc: false
-css: index.css
+css: indexq.css
 editor: source
 description: "Human Centered Open Source Leadership"
 hide-description: true
@@ -23,13 +23,11 @@ listing:
 
 ::: {.hero-banner}
 
-
 ::: {.content-block}
 
 ::: {.hero-text}
-# Willing Consulting
 
-## Deep Tech for the Real World
+# Deep Tech for the Real World 
 
 ### Simplifying open source for forward-thinking businesses
 
@@ -39,20 +37,23 @@ I advise early-stage companies on how to use open source effectively. I speak fr
 open source governance, and inclusive leadership. Whether a business or an audience, I tailor my
 work to your needs.
 
-![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.webp "Carol Willing presenting PyCon 2023 Keynote")
+::: {.grid}
+::: {.g-col-lg-6 .g-col-12 style="max-height: 605px;"}
+![](images/HS_Willing_Carol_jupcon17_NoCube.webp "Carol Willing at JupyterCon 2017")
+:::
+
+::: {.g-col-lg-6 .g-col-12 style="max-height: 605px;"}
+![](images/logo-vertical.png "Willing Consulting")
+:::
+:::
+
 
 ### Connect Users. Solve Problems. Scale Your Impact.
 
-Empower your business with open source.
-
-::: {.hero-buttons}
-[Contact](contact.md){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Contact Us"}
-[Schedule a meeting](https://calendly.com/willingc/introductory-meeting){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Schedule"}
-[Recent talks](https://speakerdeck.com/willingc){#btn-guide .btn-action .btn .btn-info .btn-lg role="button" aria-label="Recent talks"}
-:::
 :::
 
 :::
+
 :::
 
 
@@ -60,6 +61,7 @@ Empower your business with open source.
 ::: {.content-block}
 
 ::: {.hello-wc-text}
+
 # Carol Willing
 
 I approach life with an
@@ -70,18 +72,17 @@ contributor, my dedication to the language can be felt far and wide.
 
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12}
-![](images/HS_Willing_Carol_jupcon17_NoCube.webp "Carol Willing at JupyterCon 2017")
+![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.webp "Carol Willing presenting PyCon 2023 Keynote")
 :::
 
 ::: {.g-col-lg-6 .g-col-12}
-![](images/pycon-title-slide.webp "Carol Willing presenting PyCon 2023 Keynote")
+![*PyCon 2023 Keynote: Python -- The People's Programming Language*](images/pycon-title-slide.webp "PyCon 2023 Keynote: Python -- The People's Programming Language")
+:::
 
-### “I was interested in doing it, there was an opportunity, so I just did it.”
+:::
+
+> “I was interested in doing it, there was an opportunity, so I just did it.”
 --- Barbara Liskov, Turing Award Winner
-
-:::
-
-:::
 
 ::: {.hero-animation}
 
@@ -94,7 +95,45 @@ contributor, my dedication to the language can be felt far and wide.
 :::
 :::
 
-::: {.hello-wc}
+::: {.content-block}
+::: {.features}
+
+::: {.feature}
+### Python
+
+
+:::
+
+::: {.feature}
+### Open Source Governance
+
+:::
+
+::: {.feature}
+### Engineering Leadership
+
+:::
+
+::: {.feature}
+### Jupyter and Data Science
+
+:::
+
+::: {.feature}
+### Open Source Process Improvement
+
+:::
+
+::: {.feature}
+### Keynote Speaker
+
+:::
+
+:::
+:::
+
+
+::: {.hello-wc .alt-background}
 ::: {.content-block}
 
 # Recent blog posts
