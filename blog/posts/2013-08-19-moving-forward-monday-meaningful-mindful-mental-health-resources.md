@@ -30,17 +30,17 @@ want to see improvements in our world.
 
 Just breathe... That's what I tell myself when things get a little intense or
 stressful. Mindfulness can make a person's world more pleasant and peaceful.
-Check out the [UCSD Center for Mindfulness](https://ucsdcfm.wordpress.com/)
+Check out the [UCSD Center for Mindfulness](https://cih.ucsd.edu/mindfulness)
 for more information.
 
 ![image-left](../../static/images/2013/08/itsuptous_logo_web-169x300.jpg)
 _Source: It's Up to Us website_
 
 San Diego and California have been doing a great job trying to break down
-stigma. I love the [It's Up to Us](http://www.up2sd.org/) program that
+stigma. I love the [It's Up to Us](https://up2sd.org) program that
 educates and provides community resources. Young or old. Male or female.  This
 site is a great starting point for information.
 
 Let me leave you with a personal challenge: [Know the
-Signs](http://www.up2sd.org/know-the-signs). You never know who you will
+Signs](https://up2sd.org). You never know who you will
 impact. **Suicide is preventable.**

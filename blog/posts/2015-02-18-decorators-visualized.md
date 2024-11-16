@@ -27,7 +27,7 @@ responses.
 Learning to use decorators can be frustrating until the learner understands
 how decorators work. To build mastery, students want to visualize what the
 computer is doing when using a decorator. Fortunately,  [Phillip
-Guo](http://www.pgbovine.net/) has developed [Online Python
+Guo](https://pg.ucsd.edu) has developed [Online Python
 Tutor](http://pythontutor.com/) to improve the student's learning experience.
 
 Online Python Tutor lets users enter code and interactively see what is
@@ -53,6 +53,6 @@ move through the code step by step.
 ### Phillip Guo's research publication
 
 For the those that are curious, [Phillip Guo's research
-paper](http://pgbovine.net/publications/Online-Python-Tutor-web-based-program-visualization_SIGCSE-2013.pdf)
+paper](https://pg.ucsd.edu/publications/Online-Python-Tutor-web-based-program-visualization_SIGCSE-2013.pdf)
 _presents why and how Online Python Tutor improves learning. Thank you for
 this wonderful program!_

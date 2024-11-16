@@ -39,11 +39,11 @@ the breadth and depth of talent in the PyLadies community.
 Taking place on the first weekend of December, PyLadies will gather
 together at [PyLadiesCon](https://conference.pyladies.com) for a 
 weekend filled with insightful talks, engaging panels, and collaborative
-networking opportunities. I can't wait to see the [keynotes](https://conference.pyladies.com/speakers.html) from six global leaders in Python.
+networking opportunities. I can't wait to see the [keynotes](https://conference.pyladies.com) from six global leaders in Python.
 
 ![PyLadies Global Conference](../../static/images/2023/2023-11-20-pyladiescon.webp "PyLadies Global Conference")
 
-The [speakers](https://conference.pyladies.com/speakers.html) and attendees will be around the world. I'm looking forwart to
+The [speakers](https://conference.pyladies.com) and attendees will be around the world. I'm looking forwart to
 the talks and learning from each other.
 
 PyLadiesCon is free and open to everyone. If you are able, please consider
