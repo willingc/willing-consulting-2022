@@ -10,9 +10,9 @@ tags:
 
 I have the pleasure of mentoring a talented group of high school students. They
 are the soul of [Team 2102 Paradox of San Dieguito
-Academy](http://www.sdarobotics.org). They are creative, curious, humble,
+Academy](https://www.team2102.org). They are creative, curious, humble,
 dedicated, and caring. They strive to embody "Gracious Professionalism", a term
-used by [FIRST](http://www,usfirst.org) Robotics that is a parallel to the
+used by [FIRST](https://www.usfirst.org) Robotics that is a parallel to the
 "Golden Rule" learned in childhood.
 <!-- more -->
 Sharing knowledge and teamwork are so vital in solving the current challenges in
