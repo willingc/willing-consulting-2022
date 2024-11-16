@@ -1,0 +1,35 @@
+---
+title: "Moving Forward Monday: The Ada Initiative"
+categories: [tech]
+author: Carol Willing
+date: 2013-03-18
+draft: false
+tags:
+  - Ada Initiative
+  - future
+  - open source
+  - teamwork
+  - women
+---
+
+![Lady Ada Lovelace](../../static/images/images/adalovelace.jpg){fig-alt="Lady Ada Lovelace" fig-align="left"}
+
+If you haven't heard yet about the Ada Initiative, I highly recommend that you
+check out the good work that they are doing for women and men in open source
+technology
+
+<!-- more -->
+
+Although a relatively young organization, the Ada Initiative has strong
+accomplishments: an anti-harassment policy for conferences, practical
+workshops teaching skills to men and others wishing to support women in open
+source, and AdaCamp. Their website provides much more detail on their growing
+impact. Please take a look at the The Ada Initiative home page.
+
+If you appreciate the good work that they are doing for all members of open
+tech, consider giving them a hand. Support the The Ada Initiative's
+work advocating for women in open technology and culture! Become an Ada’s
+Angel.
+
+To learn more about Ada Lovelace, the Enchantress of Numbers, explore
+[Finding Ada](http://findingada.com/about/who-was-ada/).
