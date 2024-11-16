@@ -49,6 +49,6 @@ People are the cornerstone of improved security. Technology helps but only to th
 [1]: Tyler Moore and Ross Anderson. Economics and Internet Security: a Survey of Recent Analytical, Empirical
 andBehavioral Research, 2011
 
-[2]: Cybersecurity Initiative http://cybersecurity.ieee.org/images/files/images/pdf/CybersecurityInitiative-online.pdf
+[2]: Cybersecurity Initiative http://cybersecurity.ieee.org
 
 [3]: OWASP https://www.owasp.org/index.php/OWASP_Proactive_Controls
