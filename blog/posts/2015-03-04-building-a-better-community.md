@@ -15,7 +15,7 @@ tags:
 **Watching someone bring their idea to life is an amazing reward.**
 
 People from all walks of life have creative ideas. Through grassroots sharing
-of ideas, skills, and equipment, [Fab Lab San Diego](http://fablabsd.org)
+of ideas, skills, and equipment, Fab Lab San Diego
 gives individuals a chance to learn, build, and share their creations. I
 believe Fab Lab San Diego's outreach programs inspire students of all ages.
 Outreach is hard work but the community benefits are huge.
