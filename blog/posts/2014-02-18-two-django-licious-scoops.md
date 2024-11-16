@@ -16,7 +16,7 @@ tags:
 ---
 
 Audrey Roy and Daniel Greenfeld have recently released **Two Scoops of Django:
-Best Practices For Django 1.6** ([Two Scoops Press](http://twoscoopspress.com/)).
+Best Practices For Django 1.6** ([Two Scoops Press](https://github.com/twoscoops)).
 Besides helpful books, Audrey and Daniel give much to the Python community by
 sharing their experiences with others and encouraging people to get involved
 with Python and Django.

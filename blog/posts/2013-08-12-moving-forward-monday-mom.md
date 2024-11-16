@@ -46,7 +46,7 @@ is possible and healthy. With a great team working together and each person's
 dedication, a healthier work environment in tech will grow and spread like
 wildflowers over molehills and mountains.
 
-Many thanks to [The Ada Initiative](http://adainitiative.com) for their teamwork
+Many thanks to The Ada Initiative for their teamwork
 and commitment to a better workplace and a more humane tech world. AdaCamp San
 Francisco strengthened my personal desire to make a positive difference in my
 community -- one molehill at a time.
