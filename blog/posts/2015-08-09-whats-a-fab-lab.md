@@ -1,6 +1,19 @@
 ---
 title: "What's a Fab Lab?"
-categories: [tech, arduino, community, education, fablab, open source, outreach, python, raspberrypi, build, learn]
+categories:
+  [
+    tech,
+    arduino,
+    community,
+    education,
+    fablab,
+    open source,
+    outreach,
+    python,
+    raspberrypi,
+    build,
+    learn,
+  ]
 author: Carol Willing
 date: 2015-08-09
 draft: false
@@ -14,11 +27,11 @@ and ideas.
 
 A [formal definition of a Fab Lab](http://fab.cba.mit.edu/about/faq/) can be
 seen at the [MIT Center for Bits and Atoms](http://cba.mit.edu/).
-The [Fab Foundation's website](http://www.fabfoundation.org/fab-labs/) has a
+The [Fab Foundation's website](https://fabfoundation.org) has a
 map of many Fab Labs around the world and information about the Fab Lab charter
 and how to start a Fab Lab.
 
-[Fab Lab San Diego](http://www.fablabsd.org/) is my
+Fab Lab San Diego is my
 little corner for inspiration and outreach. We're located in the heart of
 [Makers Quarter](http://www.makersquarter.com/). Here
 are a few links to some videos that give a good sense of Fab Lab San Diego,
