@@ -30,7 +30,7 @@ image-alt: MIT OpenCourseWare OCW
   point. Since its announcement in 2001, MIT OCW has delivered MIT undergraduate
   and graduate courses to people around the world. As of June 2013, MIT OCW has
   2,169 courses available. MIT OCW averages 1,000,000 site visits a month.
-  _Source:_ <http://ocw.mit.edu/about/site-statistics>
+  _Source:_ http://ocw.mit.edu
 
 > The idea is simple: to publish all of our course materials online and make
 > them widely available to everyone.
