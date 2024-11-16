@@ -3,7 +3,7 @@ pagetitle: "Willing Consulting"
 page-layout: custom
 section-divs: false
 toc: false
-css: indexq.css
+css: index.css
 editor: source
 description: "Human Centered Open Source Leadership"
 hide-description: true

@@ -28,7 +28,7 @@
 }
 
 .hero-banner h1 {
-  color: #39729e;
+  color: #244A7B;
   font-size: 3rem;
 }
 
@@ -41,11 +41,10 @@
 .hero-banner .content-block {
   display: flex;
   flex-direction: row;
-  justify-content: center;
 }
 
 .hero-banner .content-block .hero-text {
-  width: 80%;
+  width: 65%;
 }
 
 .hero-banner .content-block .hero-animation {
@@ -163,13 +162,7 @@
 }
 
 .hello-wc {
-  position: relative;
-  display: flex;
-  justify-content: center;
   padding-bottom: 1rem;
-}
-.hello-wc .content-block {
-    width: 70%;
 }
 
 @media (min-width: 600px) {
@@ -180,6 +173,7 @@
   }
 
   .hello-wc-banner h1 {
+    color: #244A7B;
     margin-right: 40px;
   }
 }
@@ -193,7 +187,7 @@
 }
 
 .hello-wc-banner .nav-pills button {
-  width: 125px;
+  width: 90px;
 }
 
 .hello-wc .tab-content {
