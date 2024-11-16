@@ -73,7 +73,6 @@ format:
   html:
     theme:
       light: [cosmo]
-      dark: [superhero]
     css: styles.css
     toc: true
     grid:
