@@ -75,7 +75,8 @@ website:
 format:
   html:
     theme:
-      light: [simplex, wilcon.scss]
+      - simplex
+      - wilcon.scss
     mainfont: Roboto
     toc: true
     grid:
