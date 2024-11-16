@@ -1,10 +1,41 @@
 /*-- scss:defaults --*/
 
-$body-bg: #ffffff;
-$link-color: #125387;
-$link-hover-color: #5ab0cd;
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-$navbar-bg: #d3ecf9;
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,600;1,600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-$font-family-sans-serif: 'Poppins', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,600;1,600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+$font-family-sans-serif: 'Roboto', sans-serif;
+$font-family-serif: 'Roboto', serif;
+$font-family-monospace: 'Roboto', monospace;
+
+$bebas-neue-regular: "Bebas Neue", sans-serif;
+
+
+// Colors
+$deep-cove: #040A2B;
+$malibu: #5BB2F9;
+$bay-of-many: #244A7B;
+$calypso: #326494;
+$cream: #F6EEE0;
+$lightest-blue: #bde0fe;
+
+// background
+$navbar-bg: $lightest-blue;
+$footer-bg: $deep-cove;
+
 /*-- scss:rules --*/
+
+
+.roboto-condensed-600 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $bebas-neue-regular;
+}

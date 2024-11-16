@@ -63,6 +63,9 @@ website:
       - icon: rss
         href: index.xml
         aria-label: Carol Willing Blog RSS
+      - icon: speakerdeck
+        href: https://speakerdeck.com/willingc
+        aria-label: Carol Willing Speaker Deck
   page-footer:
     left: |
       Copyright: 2013-2024, Carol Willing.
@@ -72,13 +75,14 @@ website:
 format:
   html:
     theme:
-      light: [simplex]
-    css: styles.css
+      light: [simplex, wilcon.scss]
+    mainfont: Roboto
     toc: true
     grid:
-      sidebar-width: 0px
+      sidebar-width: 250px
       body-width: 800px
       margin-width: 250px
+      gutter-width: 1.5em
     html-math-method:
       method: mathjax
       url: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js.min
