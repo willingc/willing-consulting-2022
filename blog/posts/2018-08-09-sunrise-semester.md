@@ -54,6 +54,6 @@ my dreams and to make an impact on others. Without your gentle encouragement
 and seeing something in me which I don't always see in myself I would not
 have the courage to build my dreams. Hugs.
 
-![_Photo credit: pt at Adafruit_](../../static/images/images/ada-blinka.jpg)
+![_Photo credit: pt at Adafruit_](../../static/images/ada-blinka.jpg)
 
 
