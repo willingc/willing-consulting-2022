@@ -44,7 +44,7 @@
 }
 
 .hero-banner .content-block .hero-text {
-  width: 65%;
+  width: 80%;
 }
 
 .hero-banner .content-block .hero-animation {
@@ -79,7 +79,7 @@
 }
 
 .hero-banner .hero-image p {
-  color:#fff;
+  color:#212529;
   margin-bottom: 0;
 }
 
@@ -157,12 +157,13 @@
 }
 
 .alt-background {
-  background-color: #fff;
-  border-top: 1px solid #fff;
-  border-bottom: 1px solid #fff;
+  background-color: #bde0fe;
+  border-top: 1px solid #212529;
+  border-bottom: 1px solid #212529;
 }
 
 .hello-wc {
+  background-color: #f8f6ed;
   padding-bottom: 1rem;
 }
 
@@ -174,7 +175,7 @@
   }
 
   .hello-wc-banner h1 {
-    color: #fff;
+    color: #326494;
     margin-right: 40px;
   }
 }
@@ -254,16 +255,48 @@
   margin-bottom: 2rem;
 }
 
-nav.page-navigation {
-  display: none;
+.hello-blog {
+  background-color: #bde0fe;
+  padding-bottom: 1rem;
 }
 
-.nav-footer {
-  border-top: none !important;
+@media (min-width: 600px) {
+  .hello-blog-banner {
+    display: inline-flex;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .hello-blog-banner h1 {
+    color: #326494;
+    margin-right: 40px;
+  }
 }
 
-.nav-pills .nav-link.active,
+.hello-blog-banner .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
+  border: none;
+  border-bottom: 2px solid #fff !important;
   color: #fff;
   background-color: #fff;
+}
+
+.hello-blog-banner .nav-pills button {
+  width: 90px;
+}
+
+.hello-blog .tab-content {
+  border: none;
+  padding: 0;
+  color: #fff;
+}
+
+.hello-blog .tab-content p {
+  font-size: 1.1em;
+  margin-bottom: 1.5em;
+}
+
+.hello-blog div.sourceCode {
+  background-color: #fff;
+  border: 1px solid #fff;
 }

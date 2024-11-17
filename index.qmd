@@ -57,7 +57,7 @@ work to your needs.
 :::
 
 
-::: {.hello-wc .alt-background}
+::: {.hello-wc}
 ::: {.content-block}
 
 ::: {.hello-wc-text}
@@ -133,7 +133,7 @@ contributor, my dedication to the language can be felt far and wide.
 :::
 
 
-::: {.hello-wc .alt-background}
+::: {.hello-blog}
 ::: {.content-block}
 
 # Recent blog posts

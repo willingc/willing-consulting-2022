@@ -53,3 +53,7 @@ h3, h4 {
   font-family: $roboto-flex;
   color: $wc-deep-cove;
 }
+
+.navbar-brand > img {
+  max-height: 100px;
+}
