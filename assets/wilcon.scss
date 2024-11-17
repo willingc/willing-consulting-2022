@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Petrona:ital,wght@0,100..900;1,100..900&family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+// Colors
+$deep-cove: #040A2B;
+$malibu: #5BB2F9;
+$bay-of-many: #244A7B;
+$calypso: #326494;
+$cream: #F6EEE0;
+$lightest-blue: #bde0fe;
+$silvia-cream: #f8f6ed;
+$silvia-title: #002642;
+$silvia-red: #a23e03;
+$silvia-text: #002642;
+$white: #ffffff;
+
+
+
+
+// Navigation and Footer
+$navbar-bg: $white;
+$footer-bg: $white;
+
+// Fonts
+
+$bebas-neue: 'Bebas Neue';
+$petrona: 'Petrona';
+$red-hat-text: 'Red Hat Text';
+$roboto: 'Roboto';
+$red-hat-mono: 'Red Hat Mono';
+
+// stylelint-disable-next-line value-keyword-case
+$font-family-sans-serif: $red-hat-text;
+
+$font-family-monospace: $red-hat-mono;
+
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $petrona;
+}
+

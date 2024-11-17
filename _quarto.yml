@@ -7,21 +7,23 @@ execute:
 
 website:
   title: "Willing Consulting"
-  image: images/logo-horizontal-1000.png
+  site-url: "https://willingconsulting.com"
+  description: "Carol Willing, Human Centered Open Source Leadership"
   favicon: static/images/wave-connecting-250.png
+  page-navigation: true
+  back-to-top-navigation: true
   cookie-consent: true
   google-analytics: "G-HMME8QVYFL"
   open-graph: true
   twitter-card:
     creator: "@WillingCarol"
-  site-url: "https://willingconsulting.com"
-  description: "Carol Willing, Human Centered Open Source Leadership"
   repo-url: https://github.com/willingc/willing-consulting-2022
   issue-url: https://github.com/willingc/willing-consulting-2022/issues/new
   repo-branch: main
   repo-actions: [edit, issue]
-  page-navigation: true
+
   navbar:
+    background: "#FFFFFF"
     logo: images/logo-horizontal-500-250.png
     logo-alt: Willing Consulting
     title: false
@@ -32,28 +34,35 @@ website:
         aria-label: home
         href: index.qmd
         icon: house-door-fill
-      - text: About
-        href: about.qmd
-        aria-label: about
+      - href: about.qmd
+        text: About
+        aria-label: "About me"
       - href: speaking.qmd
         text: Speaking
-        aria-label: speaking
+        aria-label: "Speaking and Invited Talks"
       - href: blog/index.qmd
         text: Blog
-        aria-label: blog
+        aria-label: "My Blog"
       - href: til/index.qmd
         text: TIL
-        aria-label: til
+        aria-label: "Today I Learned"
       - href: pysplashlive.qmd
         text: PySplashLive
-        aria-label: pysplashlive
+        aria-label: "pysplashlive"
       - href: contact.qmd
         text: Contact
-        aria-label: contact
+        aria-label: "Contact"
     right:
       - icon: github
         href: https://github.com/willingc
         aria-label: Carol Willing on GitHub
+      
+
+  page-footer:
+    background: "#FFFFFF"
+    left: 2013-2024, Carol Willing.
+    right: Built with <a href="https://quarto.org/">Quarto</a>.
+    center:
       - icon: linkedin
         href: https://www.linkedin.com/in/carolwilling/
         aria-label: Carol Willing on LinkedIn
@@ -66,18 +75,10 @@ website:
       - icon: speakerdeck
         href: https://speakerdeck.com/willingc
         aria-label: Carol Willing Speaker Deck
-  page-footer:
-    left: |
-      Copyright: 2013-2024, Carol Willing.
-    right: |
-      Built with <a href="https://quarto.org/">Quarto</a>.
 
 format:
   html:
-    theme:
-      - simplex
-      - wilcon.scss
-    mainfont: Roboto
+    theme: [simplex, assets/wilcon.scss]
     toc: true
     grid:
       sidebar-width: 250px
