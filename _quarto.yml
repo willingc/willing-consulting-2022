@@ -17,12 +17,13 @@ website:
   open-graph: true
   twitter-card:
     creator: "@WillingCarol"
-
+  search:
+    location: navbar
+    type: overlay
   navbar:
     logo: images/logo-horizontal-500-250.png
     logo-alt: Willing Consulting
     title: false
-    search: true
     collapse-below: lg
     left:
       - text: Home
