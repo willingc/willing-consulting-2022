@@ -11,6 +11,7 @@ resources:
   - static/hero-fast.mp4
 listing:
   contents: blog/posts
+  type: grid
   max-items: 3
   image-height: 200px
   image-placeholder: "static/images/wave-connecting-250.png"
