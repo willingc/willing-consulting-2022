@@ -1,0 +1,9 @@
+---
+title: "macOS Sequoia Tips"
+date: 2024-11-18
+format: html
+---
+
+Today, I came across a video that offers 10 tips after upgrading to macOS Sequoia. I liked the tip on Notes improvements and transcription. I hope you find some gems in this video too.
+
+{{< youtube g89-PYzrZ2M >}}
