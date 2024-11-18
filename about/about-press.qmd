@@ -1,6 +1,8 @@
 ---
 title: "Press"
+description: "Press and media coverage"
 toc-expand: 2
+image: ../static/images/swirl-mascot-1000.png
 format: html
 ---
 

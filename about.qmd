@@ -1,29 +1,37 @@
 ---
-title: "About Carol Willing"
-
+title: "Carol Willing"
+toc: false
+about:
+  id: "carol-willing"
+  template: "solana"
+  image: static/images/images/headshot-2019.jpg
+  image-shape: "rounded"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
 listing:
   contents:
     - about/about-award.qmd
     - about/about-podcasts.qmd
     - about/about-press.qmd
     - about/about-bios.qmd
+  type: grid
+  max-items: 4
+  fields: [image, title, description]
+  image-placeholder: "static/images/wave-connecting-250.png"
 ---
+
+:::{#carol-willing}
 
 I am a globally recognized expert in Python development and open source
 software. As a board advisor and consultant, I guide early-stage organizations,
 and leadership teams in the complexities of open source governance, data science, AI,
 cloud, and Machine Learning. I am a core Python developer, three-time Python
 steering member, and Project Jupyter core contributor.
-
-:::: {layout-ncol=2}
-
-::: {#first-column}
-
-![](static/images/images/headshot-2019.jpg)
-
-:::
-
-::: {#second-column}
 
 My contributions to science, open source, and technology are felt far and wide: I have
 transformed the way students learn with Jupyter notebooks; I’ve contributed and
@@ -33,10 +41,6 @@ Open Source, and pyOpenSci. I am the recipient of the ACM Software System
 Award (2017) and the Frank Willison Award for technical and community contributions to
 Python (2019). I’m a co-organizer of PyLadies San Diego and San Diego
 Python User Group.
-
-:::
-
-::::
 
 Throughout my career, I’ve built a reputation for embracing opportunity, scaling knowledge
 through the power of community, and approaching every challenge with curiosity, empathy, and
@@ -51,5 +55,7 @@ keynote on a global stage.
 When I am not coding or deep in research on data, AI, or cognitive science, you can find me in
 my Southern California garden, surrounded by succulents, restoring an old guitar, or building
 blinky wearables.
+
+:::
 
 ## More...

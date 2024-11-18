@@ -29,9 +29,23 @@ website:
         aria-label: home
         href: index.qmd
         icon: house-door-fill
-      - href: about.qmd
-        text: About
-        aria-label: "About me"
+      - text: "About"
+        menu:
+        - href: about.qmd
+          text: About Carol
+          aria-label: "About"
+        - href: about/about-award.qmd
+          text: Awards
+          aria-label: "Awards"
+        - href: about/about-bios.qmd
+          text: Bios
+          aria-label: "Bios"
+        - href: about/about-podcasts.qmd
+          text: Podcasts
+          aria-label: "Podcasts"
+        - href: about/about-press.qmd
+          text: Press
+          aria-label: "Press"
       - href: speaking.qmd
         text: Speaking
         aria-label: "Speaking and Invited Talks"
@@ -51,7 +65,6 @@ website:
       - icon: github
         href: https://github.com/willingc
         aria-label: Carol Willing on GitHub
-      
 
   page-footer:
     left: 2013-2024, Carol Willing.

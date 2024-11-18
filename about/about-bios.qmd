@@ -1,5 +1,7 @@
 ---
-title: "Bios and Headshots"
+title: "Bios"
+description: "Bios and headshots"
+image: ../images/HS_Willing_Carol_jupcon17_NoCube.webp
 ---
 
 ### Bio (Brief)

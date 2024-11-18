@@ -1,6 +1,8 @@
 ---
-title: "Awards and Recognitions"
+title: "Awards"
+description: "Awards and recognition"
 toc-expand: 2
+image: ../static/images/images/carolopolis-avatar.jpg
 format: html
 ---
 

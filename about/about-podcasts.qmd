@@ -1,6 +1,8 @@
 ---
-title: "Interviews and Podcasts"
+title: "Podcasts"
+description: "Podcasts and interviews"
 toc-expand: 2
+image: ../static/images/2013/12/20131215_165734.jpg
 format: html
 ---
 
