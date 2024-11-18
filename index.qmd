@@ -43,7 +43,7 @@ work to your needs.
 ![](images/HS_Willing_Carol_jupcon17_NoCube.webp "Carol Willing at JupyterCon 2017")
 :::
 
-::: {.g-col-lg-6 .g-col-12 style="height: 500px; width: 100%;"}
+::: {.g-col-lg-6 .g-col-12 style="height: 400px; width: 100%;"}
 ![](images/logo-vertical.png "Willing Consulting")
 :::
 :::
@@ -72,11 +72,11 @@ inaugural council; a Project Jupyter core contributor, and Project Jupyter core
 contributor, my dedication to the language can be felt far and wide.
 
 ::: {.grid}
-::: {.g-col-lg-6 .g-col-12}
+::: {.g-col-lg-6 .g-col-12 style="height: 400px"}
 ![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.webp "Carol Willing presenting PyCon 2023 Keynote")
 :::
 
-::: {.g-col-lg-6 .g-col-12}
+::: {.g-col-lg-6 .g-col-12 style="height: 400px"}
 ![*PyCon 2023 Keynote: Python -- The People's Programming Language*](images/pycon-title-slide.webp "PyCon 2023 Keynote: Python -- The People's Programming Language")
 :::
 
@@ -85,7 +85,7 @@ contributor, my dedication to the language can be felt far and wide.
 > “I was interested in doing it, there was an opportunity, so I just did it.”
 --- Barbara Liskov, Turing Award Winner
 
-::: {.hero-animation}
+::: {.hero-animation style="height: 600px"}
 
 <video autoplay muted playsinline loop>
 <source src="static/hero-fast.mp4" type="video/mp4"/>
