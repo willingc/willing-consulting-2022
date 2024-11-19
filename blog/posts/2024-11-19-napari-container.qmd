@@ -16,6 +16,7 @@ The napari container images are available from the
 ![napari container images](../../static/images/2024/2024-napari-container.png)
 
 There are two types of container images available:
+
 * napari
 * napari-xpra
 
