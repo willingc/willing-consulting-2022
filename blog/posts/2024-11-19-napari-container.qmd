@@ -1,5 +1,5 @@
 ---
-title: "Setting up a napari using containers - Part 1"
+title: "Setting up napari using containers - Part 1"
 description: "What I learned playing with napari and containers."
 categories: [tech, napari, python, visualization, containers]
 author: Carol Willing
