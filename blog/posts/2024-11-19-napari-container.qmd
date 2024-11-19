@@ -1,0 +1,75 @@
+---
+title: "Setting up a napari using containers - Part 1"
+description: "What I learned playing with napari and containers."
+categories: [tech, napari, python, visualization, containers]
+author: Carol Willing
+date: 2024-11-19
+draft: false
+image: ../../static/images/2024/2024-napari-container.png
+---
+
+## Getting container images
+
+The napari container images are available from the
+[GitHub Container Registry](https://github.com/napari/napari/pkgs/container/napari). 
+
+![napari container images](../../static/images/2024/2024-napari-container.png)
+
+There are two types of container images available:
+- napari
+- napari-xpra
+
+Since I'm running a Mac M2, I'm going to use the `napari-xpra` container image since it doesn't require an X server and hopefully will be less finicky.
+
+## Let's run napari
+
+I'm going to use the [napari documentation instructions](https://napari.org/dev/howtos/docker.html#napari-in-docker)
+as a guide and I ran these specific steps:
+
+1. Make sure docker is installed and running on your system.
+   ```shell
+   docker --version
+   ```
+2. From the root of your napari repo clone or fork, run (note: this could take
+   a while even 5 minutes):
+
+   ```shell
+   docker build --target napari -t ghcr.io/napari/napari-xpra:latest .
+   ```
+
+   ::: {.callout-tip}
+   ### Supply chain check
+   You can do a quick scan of the image after pulling it using `docker scout`.
+   If you are logged into your Docker account, it will make sure that you have
+    the latest version of Docker Scout.
+
+   ![](../../static/images/2024/2024-11-19-docker-scout.png)
+   :::
+
+3. Run the container:
+
+   ```shell
+   docker run -it --rm -p 9876:9876 ghcr.io/napari/napari-xpra
+   ```
+
+4. Open a browser and go to `http://localhost:9876` to see the napari GUI.
+   You should see the napari GUI in your browser.
+
+   ![Safari browser](../../static/images/2024/2024-11-19-safari-gui.png)
+
+   ::: {.callout-warning}
+   ### Check the interactivity of the GUI
+   Unfortunately, using this in Safari was popping up a paste dialog
+   instead of allowing me to interact with the GUI.
+   :::
+
+   I was able to connect to the container using Chrome. It brought
+   up an xpra screen. I didn't add any information to the form and
+   clicked "Connect". It then brought up the napari GUI.
+
+   ![Chrome browser](../../static/images/2024/2024-11-19-chrome-gui.png)
+
+## Part 2 - Interacting with napari in the browser
+
+In the next post, I'll explore how to interact with napari in the browser.
+Stay tuned!
