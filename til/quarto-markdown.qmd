@@ -1,0 +1,25 @@
+---
+title: "Lists in Quarto Markdown"
+date: 2024-11-19
+format: html
+---
+
+In Jupyter and GitHub Markdown, you can create lists with the following syntax
+and it will render as a list:
+
+```
+There are two types of container images available:
+- napari
+- napari-xpra
+```
+
+In Quarto Markdown, you can use the same syntax to create lists. However, you
+must include a blank line before the list items for the list to render correctly:
+
+```markdown
+There are two types of container images available:
+
+* napari
+* napari-xpra
+```
+
