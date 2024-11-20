@@ -6,6 +6,7 @@ author: Carol Willing
 date: 2024-11-11
 draft: false
 image: ../../static/images/2024/2024-11-napari.png
+image-alt: napari viewer with cells and nuclei
 ---
 
 ## Getting pyenv

@@ -6,6 +6,7 @@ author: Carol Willing
 date: 2024-11-19
 draft: false
 image: ../../static/images/2024/2024-napari-container.png
+image-alt: container registry with napari image
 ---
 
 ## Getting container images
