@@ -39,29 +39,25 @@ I advise early-stage companies on how to use open source effectively. I speak fr
 open source governance, and inclusive leadership. Whether a business or an audience, I tailor my
 work to your needs.
 
-::: {.grid}
-::: {.g-col-lg-6 .g-col-12 style="height: 500px; width: 100%"}
-
-![](images/HS_Willing_Carol_jupcon17_NoCube.webp){fig-alt="Carol Willing at JupyterCon 2017"}
-
-:::
-
-::: {.g-col-lg-6 .g-col-12 style="height: 400px; width: 100%;"}
-
-![](images/logo-vertical.png){fig-alt="Willing Consulting"}
-
-:::
-:::
-
 
 ### Connect Users. Solve Problems. Scale Your Impact.
 
+::: {.hero-buttons}
+[Contact me](contact.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Speaking](speaking.qmd){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+:::
+:::
+
+::: {.hero-animation}
+
+<video autoplay muted playsinline loop title="Candid photo gallery">
+<source src="static/hero-fast.mp4" type="video/mp4"/>
+</video>
 :::
 
 :::
 
 :::
-
 
 ::: {.hello-willing}
 ::: {.content-block}
@@ -87,17 +83,10 @@ contributor, my dedication to the language can be felt far and wide.
 
 :::
 
-> “I was interested in doing it, there was an opportunity, so I just did it.”
---- Barbara Liskov, Turing Award Winner
+*“I was interested in doing it, there was an opportunity, so I just did it.”*
+*--- Barbara Liskov, Turing Award Winner*
 
-::: {.hero-animation style="height: 600px"}
 
-<video autoplay muted playsinline loop title="Candid photo gallery">
-<source src="static/hero-fast.mp4" type="video/mp4"/>
-</video>
-:::
-
-:::
 :::
 :::
 
