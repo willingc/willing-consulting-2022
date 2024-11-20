@@ -92,3 +92,8 @@ format:
       gutter-width: 1.5em
     lightbox: true
     callout-appearance: simple
+
+esbuild:
+  bundle: true
+  minify: true
+  sourcemap: true
