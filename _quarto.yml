@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: _site
 
 execute:
   freeze: auto
@@ -12,8 +11,9 @@ website:
   favicon: static/images/wave-connecting-250.png
   page-navigation: true
   back-to-top-navigation: true
-  cookie-consent: true
-  google-analytics: "G-HMME8QVYFL"
+  google-analytics: 
+    tracking-id: "G-HMME8QVYFL"
+    storage: none
   open-graph: true
   twitter-card:
     creator: "@WillingCarol"
@@ -66,7 +66,6 @@ website:
       - icon: github
         href: https://github.com/willingc
         aria-label: Carol Willing on GitHub
-
   page-footer:
     left: 2013-2024, Carol Willing.
     right: Built with <a href="https://quarto.org/">Quarto</a>.
