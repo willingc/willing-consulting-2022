@@ -55,6 +55,13 @@
   height: 455px;
 }
 
+.hero-banner .content-block .hero-animation image {
+  margin-left: 40px;
+  margin-top: 45px;
+  width: 350px;
+  height: 455px;
+}
+
 .hero-banner .content-block .hero-animation video {
   width: 350px;
   height: 455px;
@@ -157,7 +164,7 @@
 }
 
 .alt-background {
-  background-color: #bde0fe;
+  background-color: pink;
   border-top: 1px solid #212529;
   border-bottom: 1px solid #212529;
 }

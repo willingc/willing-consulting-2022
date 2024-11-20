@@ -42,6 +42,7 @@ work to your needs.
 
 ### Connect Users. Solve Problems. Scale Your Impact.
 
+
 ::: {.hero-buttons}
 [Contact me](contact.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 [Speaking](speaking.qmd){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
@@ -50,9 +51,8 @@ work to your needs.
 
 ::: {.hero-animation}
 
-<video autoplay muted playsinline loop title="Candid photo gallery">
-<source src="static/hero-fast.mp4" type="video/mp4"/>
-</video>
+![](images/logo-vertical.png){fig-alt="Willing Consulting Logo"}
+
 :::
 
 :::
@@ -91,6 +91,7 @@ contributor, my dedication to the language can be felt far and wide.
 :::
 
 ::: {.content-block}
+
 ::: {.features}
 
 ::: {.feature}
