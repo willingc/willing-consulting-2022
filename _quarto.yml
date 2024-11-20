@@ -4,6 +4,9 @@ project:
 execute:
   freeze: auto
 
+language: 
+  search-text-placeholder: Search
+
 website:
   title: "Willing Consulting"
   site-url: "https://willingconsulting.com"
@@ -19,7 +22,7 @@ website:
     creator: "@WillingCarol"
   search:
     location: navbar
-    type: overlay
+    type: textbox
   navbar:
     logo: images/willing-horizontal-320-77.png
     logo-alt: Willing Consulting
