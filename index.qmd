@@ -87,7 +87,7 @@ contributor, my dedication to the language can be felt far and wide.
 
 ::: {.hero-animation style="height: 600px"}
 
-<video autoplay muted playsinline loop>
+<video autoplay muted playsinline loop title="Candid photo gallery">
 <source src="static/hero-fast.mp4" type="video/mp4"/>
 </video>
 :::
