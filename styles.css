@@ -1,0 +1,11 @@
+
+
+@media (min-width: 1020px) {
+.navbar-brand-container {
+  margin-right: 1em;
+}
+}
+
+.navbar-brand > img {
+  max-height: 36px;
+}

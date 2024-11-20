@@ -21,7 +21,7 @@ website:
     location: navbar
     type: overlay
   navbar:
-    logo: images/logo-horizontal-500-250.png
+    logo: images/willing-horizontal-320-77.png
     logo-alt: Willing Consulting
     title: false
     collapse-below: lg
@@ -83,6 +83,7 @@ website:
 format:
   html:
     theme: [simplex, wilcon.scss]
+    css: styles.css
     toc: true
     grid:
       sidebar-width: 250px
