@@ -82,7 +82,7 @@ website:
 
 format:
   html:
-    theme: [simplex, assets/wilcon.scss]
+    theme: [simplex, wilcon.scss]
     toc: true
     grid:
       sidebar-width: 250px
