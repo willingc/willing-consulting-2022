@@ -40,11 +40,11 @@ work to your needs.
 
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12 style="height: 500px; width: 100%"}
-![](images/HS_Willing_Carol_jupcon17_NoCube.webp "Carol Willing at JupyterCon 2017")
+![](images/HS_Willing_Carol_jupcon17_NoCube.webp){fig-alt="Carol Willing at JupyterCon 2017"}
 :::
 
 ::: {.g-col-lg-6 .g-col-12 style="height: 400px; width: 100%;"}
-![](images/logo-vertical.png "Willing Consulting")
+![](images/logo-vertical.png){fig-alt="Willing Consulting"}
 :::
 :::
 
