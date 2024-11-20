@@ -25,10 +25,10 @@ listing:
 
 ::: {.hero-banner}
 
+
 ::: {.content-block}
 
 ::: {.hero-text}
-
 # Deep Tech for the Real World 
 
 ### Simplifying open source for forward-thinking businesses
@@ -63,10 +63,10 @@ work to your needs.
 :::
 
 
-::: {.hello-wc}
+::: {.hello-willing}
 ::: {.content-block}
 
-::: {.hello-wc-text}
+::: {.hello-willing-text}
 
 # Carol Willing
 

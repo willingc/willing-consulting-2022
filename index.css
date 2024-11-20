@@ -1,3 +1,4 @@
+
 .content-block {
   padding-top: 20px;
   padding-bottom: 10px;
@@ -28,8 +29,8 @@
 }
 
 .hero-banner h1 {
-  color: #244A7B;
-  font-size: 3rem;
+  color: #244a7b;
+  font-size: 2.5rem;
 }
 
 .hero-banner .hero-image {
@@ -44,7 +45,7 @@
 }
 
 .hero-banner .content-block .hero-text {
-  width: 80%;
+  width: 65%;
 }
 
 .hero-banner .content-block .hero-animation {
@@ -79,7 +80,6 @@
 }
 
 .hero-banner .hero-image p {
-  color:#212529;
   margin-bottom: 0;
 }
 
@@ -162,48 +162,48 @@
   border-bottom: 1px solid #212529;
 }
 
-.hello-wc {
+.hello-willing {
   background-color: #f8f6ed;
   padding-bottom: 1rem;
 }
 
 @media (min-width: 600px) {
-  .hello-wc-banner {
+  .hello-willing-banner {
     display: inline-flex;
     align-content: center;
     justify-content: center;
   }
 
-  .hello-wc-banner h1 {
+  .hello-willing-banner h1 {
     color: #326494;
     margin-right: 40px;
   }
 }
 
-.hello-wc-banner .nav-pills .nav-link.active,
+.hello-willing-banner .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   border: none;
   border-bottom: 2px solid #fff !important;
   color: #fff;
-  background-color: #fff;
+  background-color: transparent;
 }
 
-.hello-wc-banner .nav-pills button {
-  width: 90px;
+.hello-willing-banner .nav-pills button {
+  width: 125px;
 }
 
-.hello-wc .tab-content {
+.hello-willing .tab-content {
   border: none;
   padding: 0;
   color: #fff;
 }
 
-.hello-wc .tab-content p {
+.hello-willing .tab-content p {
   font-size: 1.1em;
   margin-bottom: 1.5em;
 }
 
-.hello-wc div.sourceCode {
+.hello-willing div.sourceCode {
   background-color: #fff;
   border: 1px solid #fff;
 }
@@ -222,18 +222,18 @@
   margin-top: 20px;
 }
 
-@media (min-width: 800px) { 
-.features {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: 0 0 0 -30px;
-  width: calc(100% + 30px);
-}
-.feature {
-  width: calc(33% - 30px);
-  margin: 20px 0 0 30px;
-}
+@media (min-width: 800px) {
+  .features {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 0 0 -30px;
+    width: calc(100% + 30px);
+  }
+  .feature {
+    width: calc(33% - 30px);
+    margin: 20px 0 0 30px;
+  }
 }
 
 .feature h3 {
@@ -253,6 +253,19 @@
 .get-started h3 {
   margin-top: 1rem;
   margin-bottom: 2rem;
+}
+
+nav.page-navigation {
+  display: none;
+}
+
+.nav-footer {
+  border-top: none !important; 
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: #fff;
+  background-color: #ff7518;
 }
 
 .hello-blog {
