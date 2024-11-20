@@ -82,6 +82,12 @@ website:
       - icon: rss
         href: index.xml
         aria-label: Carol Willing Blog RSS
+  announcement: 
+    icon: globe
+    dismissable: false
+    content: "Willing Consulting is a proud **Partner Sponsor of [PyLadiesCon 2024](https://conference.pyladies.com)**. Join us online December 6-8, 2024. Registration is free."
+    type: danger
+    position: below-navbar
 
 format:
   html:
