@@ -69,7 +69,7 @@ work to your needs.
 I approach life with an
 insatiable appetite for learning and a passion for sharing my knowledge with others and learning
 alongside them. As a three-time Python Steering member—including serving on the
-inaugural council; a Python core contributor, and Project Jupyter core
+inaugural council; a Python core developer, and Project Jupyter core
 contributor, my dedication to the language can be felt far and wide.
 
 ::: {.grid}

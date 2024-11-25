@@ -79,6 +79,9 @@ website:
       - icon: mastodon
         href: https://hachyderm.io/web/@willingc
         aria-label: Carol Willing on Mastodon
+      - href: https://bsky.app/profile/willingc.bsky.social
+        text: "{{< iconify simple-icons bluesky >}}"
+        aria-label: Carol Willing on Bluesky
       - icon: rss
         href: index.xml
         aria-label: Carol Willing Blog RSS
