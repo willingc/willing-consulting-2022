@@ -126,6 +126,7 @@ startx
 On my MacBook Air, I installed the [TigerVNC](https://tigervnc.org/) viewer to connect to the VNC server running on the remote GPU droplet.
 
 Install the TigerVNC viewer by:
+
 - Visit https://tigervnc.org/
 - Visit https://github.com/TigerVNC/tigervnc/releases to find the binary for macOS
 - At the time of writing, visit the following SourceForge URL: https://sourceforge.net/projects/tigervnc/files/stable/1.15.0/
@@ -188,46 +189,11 @@ If everything is set up correctly, you should see the remote desktop. You can no
 
 ## Play with napari and examples
 
+> TODO
+
 ## Destroy the droplet
 
 After finishing my session, I destroyed the droplet to avoid incurring costs when it is not in use. You can do this from the DigitalOcean control panel by selecting the droplet and clicking on "Destroy".
-
-
-   
-  
-
-
-
-
-
-
-## Client
-
-- Set up tunnel: `ssh -L 59000:localhost:5901 -C -N -l willingc 143.110.148.216`
-
-## Server
-
-- startx
-- startx xfce
-- vncserver -localhost
-- chmod +x ~/.vnc/xstartup
-- Add into file:
-```
-
-#!/bin/bash
-xrdb $HOME/.Xresources
-startxfce4 &
-```
-
-- nano ~/.vnc/xstartup
-- mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
-- vncserver -kill :1
-- (vncpasswd)
-- vncserver
-- sudo apt install tightvncserver
-- sudo apt install xfce4 xfce4-goodies
-- rsync --archive --chown=willingc:willingc ~/.ssh /home/willingc
-- systemctl reboot
 
 ## Attribution
 
