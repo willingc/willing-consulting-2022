@@ -1,0 +1,248 @@
+---
+title: "Experimenting with napari and a remote GPU vm"
+description: "Searching for a cost-effective remote GPU vm to run napari for exploration and development."
+categories: [tech, napari, python, visualization, GPU, remote]
+author: Carol Willing
+date: 2025-05-29
+draft: false
+image: ../../static/images/2024/2024-napari-container.png
+image-alt: container registry with napari image
+---
+
+I've been looking for an inexpensive way to run and experiment with napari on a remote GPU vm.
+
+I'm still experimenting with different approaches to see what works best. I'll add more posts as I learn more.
+
+In this post, I'll document the steps that I took to set up a remote
+DigitalOcean GPU droplet running Ubuntu with xfce4 for a lightweight GUI and
+tightvncserver using an SSH tunnel to connect to it. This setup allows me to run napari, interact with it, and run the built-in napari examples with reasonable performance.
+
+⚠️ **Use at your own risk. This is not a production setup and is intended for experimentation purposes only.**
+
+💰 **Costs: I destroy the droplet after each session to avoid incurring costs when the droplet is not in use.**
+
+## Components
+
+- DigitalOcean GPU droplet: I chose the smallest GPU droplet available.
+- MacBook Air M2 2022 with 16GB RAM as the local client machine
+- TightVNC server: A lightweight VNC server for Linux
+- TigerVNC viewer: A lightweight VNC viewer for macOS
+- SSH tunnel: To securely connect to the VNC server over SSH
+
+## Set up the remote server
+
+There were several processes that I used to set up the GPU droplet as the remote server.
+
+### 1. Get GPU Access
+
+I needed to request access from Digital Ocean to create the GPU droplet. I did this by submitting a support ticket to DigitalOcean. They approved my request, and I was able to create a GPU droplet.
+
+### 2. Create the GPU Droplet
+
+After receiving access, I created a new GPU droplet using the DigitalOcean control panel. I selected the smallest GPU droplet available `ubuntu-gpu-4000adax1-20gb-tor1`:
+
+- Region: Toronto 1
+- GPU: NVIDIA RTX4000 ADA
+- Size: 1 GPU - 20 GB VRAM - 8 vCPU - 32 GB RAM - 500 GB Boot Disk
+
+*Insert image here*
+
+I also set up SSH access by using my SSH key during the droplet creation process. This allows me to connect to the droplet securely without needing a password.
+
+Take note of the IP address of the droplet, as you'll need it to connect later.
+
+### 3. Connect to the Droplet
+
+I connected to the droplet using SSH from my local machine:
+
+```bash
+ssh root@<droplet-ip-address>
+```
+
+### 4. Setup the server user and firewall
+
+```bash
+# set up a new user
+usermod -aG sudo sammy
+# configure the firewall
+ufw app list
+ufw allow OpenSSH
+ufw enable
+ufw status
+# copy SSH key to from root to the new user
+rsync --archive --chown=sammy:sammy ~/.ssh /home/sammy
+```
+
+Test the SSH connection with the new user:
+
+```bash
+ssh sammy@<droplet-ip-address>
+```
+
+### 5. Install xfce4 and TightVNC server
+
+From the **user account**, I installed and configured the lightweight desktop environment (xfce4) and the VNC server (tightvncserver):
+
+```bash
+# Install packages
+sudo apt update
+sudo apt install xfce4 xfce4-goodies
+sudo apt install tightvncserver
+
+# Start the VNC server to create the initial configuration files
+vncserver
+# Stop the vnc server before changing the configuration
+vncserver -kill :1
+
+# Back up the default xstartup file
+mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
+# Create a new xstartup file
+nano ~/.vnc/xstartup
+```
+
+Add the following content to the `xstartup` file:
+
+```bash
+#!/bin/bash
+xrdb $HOME/.Xresources
+startxfce4 &
+```
+
+Save and exit the file.
+
+```bash
+# Make the xstartup file executable
+chmod +x ~/.vnc/xstartup
+# Start the VNC server
+vncserver -localhost
+startx xfce
+startx
+```
+
+## Set up the client machine
+
+### 1. Install the TigerVNC Viewer
+
+On my MacBook Air, I installed the [TigerVNC](https://tigervnc.org/) viewer to connect to the VNC server running on the remote GPU droplet.
+
+Install the TigerVNC viewer by:
+- Visit https://tigervnc.org/
+- Visit https://github.com/TigerVNC/tigervnc/releases to find the binary for macOS
+- At the time of writing, visit the following SourceForge URL: https://sourceforge.net/projects/tigervnc/files/stable/1.15.0/
+- Download the `TigerVNC-1.15.0.dmg` file.
+- Open the downloaded file and drag the TigerVNC Viewer app to your Applications folder.
+
+### 2. Set up the SSH Tunnel
+
+To securely connect to the VNC server over SSH, I set up an SSH tunnel from my local machine to the remote GPU droplet. This allows me to forward the VNC traffic through the SSH connection.
+
+Open a terminal on your MacBook Air and run the following command:
+
+```bash
+ssh -L 59000:localhost:5901 -C -N -l sammy <droplet-ip-address>
+```
+
+### 3. Run the TigerVNC Viewer
+
+To run the TigerVNC viewer, double-click the TigerVNC Viewer app in your Applications folder. It opens a window where you will enter the connection location and press "Connect".
+
+> Insert image here
+
+### 4. Use the TigerVNC terminal
+
+If everything is set up correctly, you should see the remote desktop. You can now interact with the remote desktop by opening a terminal in the GUI.
+
+> Insert image here
+
+## Run napari
+
+1. Open a terminal in the remote desktop environment.
+1. Install uv:
+
+    ```bash
+    curl -LsSf https://astral.sh/uv/install.sh | sh
+    ```
+
+1. Create a uv virtual environment:
+
+    ```bash
+    mkdir napari-playground
+    cd napari-playground
+    uv venv
+    ```
+
+1. Activate the virtual environment and install napari:
+
+    ```bash
+    source .venv/bin/activate
+    uv install napari[all]
+    # Install pyqt5 from apt to avoid an error with a missing Qt platform plugin
+    sudo apt-get install python3-pyqt5
+    ```
+
+1. Run napari:
+
+    ```bash
+    uv run napari
+    ```
+
+## Play with napari and examples
+
+## Destroy the droplet
+
+After finishing my session, I destroyed the droplet to avoid incurring costs when it is not in use. You can do this from the DigitalOcean control panel by selecting the droplet and clicking on "Destroy".
+
+
+   
+  
+
+
+
+
+
+
+## Client
+
+- Set up tunnel: `ssh -L 59000:localhost:5901 -C -N -l willingc 143.110.148.216`
+
+## Server
+
+- startx
+- startx xfce
+- vncserver -localhost
+- chmod +x ~/.vnc/xstartup
+- Add into file:
+```
+
+#!/bin/bash
+xrdb $HOME/.Xresources
+startxfce4 &
+```
+
+- nano ~/.vnc/xstartup
+- mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
+- vncserver -kill :1
+- (vncpasswd)
+- vncserver
+- sudo apt install tightvncserver
+- sudo apt install xfce4 xfce4-goodies
+- rsync --archive --chown=willingc:willingc ~/.ssh /home/willingc
+- systemctl reboot
+
+## Attribution
+
+Much of the information in this post is adapted from the following resources:
+
+- https://bobcares.com/blog/digitalocean-vnc-ubuntu/
+- https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
+
+## Conclusions
+
+Automating this setup process would be a good next step.
+Using something like Ansible, Terraform, or shell scripts would make it easier to spin up the server with minimal typing.
+
+Overall, I'm happy with the performance of napari to use the examples and begin interacting with napari for its development and testing purposes.
+
+In the future, I'm hoping to use [NVidia DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/), which was announced earlier this year, to do GPU computing without a cloud instance. Looking forward to trying it out when it becomes available. 
+
+Until then, I've found the DigitalOcean GPU droplet to be a cost-effective option for experimenting with napari on a remote GPU vm.
