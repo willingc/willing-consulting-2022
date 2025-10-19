@@ -88,7 +88,7 @@ website:
   announcement:
     icon: globe
     dismissable: false
-    content: "Willing Consulting is a proud, three-year **Partner Sponsor of [PyLadiesCon 2025](https://2025.conference.pyladies.com/en/)**. Join us online December 5-7, 2025. Registration is free."
+    content: "Willing Consulting is a proud, three-year **Partner Sponsor of [PyLadiesCon](https://2025.conference.pyladies.com/en/)**. Join us online December 5-7, 2025. Registration is free."
     type: danger
     position: below-navbar
 
