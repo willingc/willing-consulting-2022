@@ -4,7 +4,7 @@ project:
 execute:
   freeze: auto
 
-language: 
+language:
   search-text-placeholder: Search
 
 website:
@@ -14,7 +14,7 @@ website:
   favicon: static/images/wave-connecting-250.png
   page-navigation: true
   back-to-top-navigation: true
-  google-analytics: 
+  google-analytics:
     tracking-id: "G-HMME8QVYFL"
     storage: none
   open-graph: true
@@ -85,10 +85,10 @@ website:
       - icon: rss
         href: index.xml
         aria-label: Carol Willing Blog RSS
-  announcement: 
+  announcement:
     icon: globe
     dismissable: false
-    content: "Willing Consulting is a proud **Partner Sponsor of [PyLadiesCon 2024](https://conference.pyladies.com)**. Join us online December 6-8, 2024. Registration is free."
+    content: "Willing Consulting is a proud **Partner Sponsor of [PyLadiesCon 2025](https://2025.conference.pyladies.com/en/)**. Join us online December 5-7, 2025. Registration is free."
     type: danger
     position: below-navbar
 
