@@ -17,6 +17,15 @@ Europython 2024 keynote
 
 ## Upcoming events
 
+- Supercomputing 25, St. Louis, MO
+- PyLadiesCon 2025, December 5-7, 2025, Online
+
+
+## 2025
+
+- Python Core Developer Sprint, Cambridge, UK
+- PyBeach 2025, Santa Monica, CA
+- SciPy 2025, Tacoma, CA
 - PyCon 2025, Pittsburgh, PA
 
 ## 2024
