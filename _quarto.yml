@@ -18,6 +18,7 @@ website:
     tracking-id: "G-HMME8QVYFL"
     storage: none
   open-graph: true
+  plausible-analytics: { path: _plausible_snippet.html }
   twitter-card:
     creator: "@WillingCarol"
   search:
