@@ -14,6 +14,7 @@ website:
   favicon: static/images/wave-connecting-250.png
   page-navigation: true
   back-to-top-navigation: true
+  plausible-analytics: { path: _plausible_snippet.html }
   google-analytics:
     tracking-id: "G-HMME8QVYFL"
     storage: none
@@ -104,10 +105,7 @@ format:
       gutter-width: 1.5em
     lightbox: true
     callout-appearance: simple
-    head-includes:
-      - <script async src="https://plausible.io/js/pa-yw35jJas2rB1dWxkuTktc.js"></script>
-      - <script>window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init()</script>
-
+    
 esbuild:
   bundle: true
   minify: true
