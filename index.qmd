@@ -31,7 +31,7 @@ listing:
 ::: {.hero-text}
 # Deep Tech for the Real World 
 
-### Simplifying open source for forward-thinking businesses
+## Simplifying open source for forward-thinking businesses
 
 Hi. I’m Carol Willing, an expert in **Python**, **Open Source Governance**, **Data Science**, and **AI**.
 
@@ -40,7 +40,7 @@ open source governance, and inclusive leadership. Whether a business or an audie
 work to your needs.
 
 
-### Connect Users. Solve Problems. Scale Your Impact.
+## Connect Users. Solve Problems. Scale Your Impact.
 
 
 ::: {.hero-buttons}
@@ -95,33 +95,33 @@ contributor, my dedication to the language can be felt far and wide.
 ::: {.features}
 
 ::: {.feature}
-### Python
+## Python
 
 
 :::
 
 ::: {.feature}
-### Open Source Governance
+## Open Source Governance
 
 :::
 
 ::: {.feature}
-### Engineering Leadership
+## Engineering Leadership
 
 :::
 
 ::: {.feature}
-### Jupyter and Data Science
+## Jupyter and Data Science
 
 :::
 
 ::: {.feature}
-### Open Source Process Improvement
+## Open Source Process Improvement
 
 :::
 
 ::: {.feature}
-### Keynote Speaker
+## Keynote Speaker
 
 :::
 
