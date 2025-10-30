@@ -8,7 +8,7 @@ jobs:
         id: generate_cache_key
         shell: bash
         run: |
-          CACHE_KEY: $(printf 'cached-results-demo-%s.json' "${{ github.ref_name }}" | tr -cs 'A-Za-z0-9._-' '_')
+          CACHE_KEY = $(printf 'cached-results-demo-%s.json' "${{ github.ref_name }}" | tr -cs 'A-Za-z0-9._-' '_')
           echo "cache_key=$CACHE_KEY" >> $GITHUB_OUTPUT
       - uses: github/accessibility-scanner@v2
         with:
