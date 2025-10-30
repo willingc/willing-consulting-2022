@@ -1,0 +1,25 @@
+name: Accessibility Scanner
+on: workflow_dispatch
+jobs:
+  accessibility_scanner:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate cache key
+        id: generate_cache_key
+        shell: bash
+        run: |
+          CACHE_KEY: $(printf 'cached-results-demo-%s.json' "${{ github.ref_name }}" | tr -cs 'A-Za-z0-9._-' '_')
+          echo "cache_key=$CACHE_KEY" >> $GITHUB_OUTPUT
+      - uses: github/accessibility-scanner@v2
+        with:
+          urls: | # Provide a newline-delimited list of URLs to scan; more information below.
+            https://willingconsulting.com
+            https://willingconsulting.com/speaking.html
+          repository: "willingc/willing-consulting-2022" 
+          token: ${{ secrets.GH_TOKEN }} # This token must have write access to the repo above (contents, issues, and PRs); more information below. Note: GitHub Actions' GITHUB_TOKEN cannot be used here.
+          cache_key: ${{ steps.generate_cache_key.outputs.cache_key }}
+          # login_url: # Optional: URL of the login page if authentication is required
+          # username: # Optional: Username for authentication
+          # password: ${{ secrets.PASSWORD }} # Optional: Password for authentication (use secrets!)
+          # auth_context: # Optional: Stringified JSON object for complex authentication
+          # skip_copilot_assignment: false # Optional: Set to true to skip assigning issues to GitHub Copilot (or if you don't have GitHub Copilot)
