@@ -14,7 +14,6 @@ website:
   favicon: static/images/wave-connecting-250.png
   page-navigation: true
   back-to-top-navigation: true
-  plausible-analytics: { path: _plausible_snippet.html }
   google-analytics:
     tracking-id: "G-HMME8QVYFL"
     storage: none
@@ -105,7 +104,7 @@ format:
       gutter-width: 1.5em
     lightbox: true
     callout-appearance: simple
-    
+
 esbuild:
   bundle: true
   minify: true
