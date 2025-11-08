@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@quarto/netlify-plugin-quarto": "^0.0.5"
+  },
+  "devDependencies": {
+    "@netlify/plugin-lighthouse": "^6.0.3"
   }
 }
