@@ -1,7 +1,16 @@
+## Netlify configuration for Quarto site
+## The Quarto build outputs the static site to the `_site/` directory.
+[build]
+command = "quarto render"
+publish = "_site"
+
+## Quarto plugin: handles installing Quarto and building the project
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
-package = "@netlify/plugin-lighthouse"
 
-# optional, deploy the lighthouse report to a path under your site
-[plugins.inputs.audits]
-output_path = "reports/lighthouse.html"
+## Lighthouse plugin: generates a Lighthouse report after build
+[[plugins]]
+package = "@netlify/plugin-lighthouse"
+	[plugins.inputs]
+	# Deploy the lighthouse report to this path under your published site
+	output_path = "reports/lighthouse.html"
