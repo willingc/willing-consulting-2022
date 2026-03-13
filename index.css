@@ -134,6 +134,13 @@
   text-decoration: none;
 }
 
+.hero-banner h2 {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+
 .hero-banner h3 {
   margin-top: 1.3rem;
   margin-bottom: 1.3rem;
