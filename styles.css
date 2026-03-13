@@ -1,4 +1,11 @@
-
+/* Accessibility: grid listing card titles use h2 for correct heading order (h1 → h2).
+   Override font size to maintain the original card visual appearance. */
+.quarto-grid-item h2.listing-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0.1em;
+}
 
 @media (min-width: 1020px) {
 .navbar-brand-container {
