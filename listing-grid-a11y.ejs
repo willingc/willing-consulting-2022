@@ -13,7 +13,7 @@ const imagePlaceholder = (typeof listing !== 'undefined' && listing['image-place
 const flexJustify = item.author && item.date ? 'justify' : item.author ? 'start' : 'end';
 %>
 <div class="g-col-1">
-<a href="<%= item.path %>" class="quarto-grid-link">
+<a href="<%= item.path %>" class="quarto-grid-link" aria-label="<%= item.title %>">
 <div class="quarto-grid-item card h-100 card-<%= align %><%= hideBorders ? ' borderless' : '' %>">
 
 <% if (item.image) { %>
