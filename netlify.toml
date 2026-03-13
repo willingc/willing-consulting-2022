@@ -1,7 +1,6 @@
 ## Netlify configuration for Quarto site
 ## The Quarto build outputs the static site to the `_site/` directory.
 [build]
-command = "quarto render"
 publish = "_site"
 
 ## Quarto plugin: handles installing Quarto and building the project
