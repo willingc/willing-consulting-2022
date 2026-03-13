@@ -18,8 +18,4 @@ jobs:
           repository: "willingc/willing-consulting-2022" 
           token: ${{ secrets.GH_TOKEN }} # This token must have write access to the repo above (contents, issues, and PRs); more information below. Note: GitHub Actions' GITHUB_TOKEN cannot be used here.
           cache_key: ${{ steps.generate_cache_key.outputs.cache_key }}
-          # login_url: # Optional: URL of the login page if authentication is required
-          # username: # Optional: Username for authentication
-          # password: ${{ secrets.PASSWORD }} # Optional: Password for authentication (use secrets!)
-          # auth_context: # Optional: Stringified JSON object for complex authentication
-          # skip_copilot_assignment: false # Optional: Set to true to skip assigning issues to GitHub Copilot (or if you don't have GitHub Copilot)
+  
