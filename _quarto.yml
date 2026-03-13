@@ -70,7 +70,7 @@ website:
         href: https://github.com/willingc
         aria-label: Carol Willing on GitHub
   page-footer:
-    left: 2013-2024, Carol Willing.
+    left: 2013-2026, Carol Willing.
     right: Built with <a href="https://quarto.org/">Quarto</a>.
     center:
       - icon: linkedin
@@ -88,7 +88,7 @@ website:
   announcement:
     icon: globe
     dismissable: false
-    content: "Willing Consulting is a proud, three-year **Partner Sponsor of [PyLadiesCon](https://2025.conference.pyladies.com/en/)**. Join us online December 5-7, 2025. Registration is free."
+    content: "Willing Consulting is a proud, three-year **Partner Sponsor of [PyLadiesCon](https://2025.conference.pyladies.com/en/)**."
     type: danger
     position: below-navbar
 
