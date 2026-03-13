@@ -23,8 +23,6 @@ listing:
   id: blog-listings
 ---
 
-<main>
-
 ::: {.hero-banner}
 
 
@@ -144,5 +142,3 @@ contributor, my dedication to the language can be felt far and wide.
 
 :::
 :::
-
-</main>
