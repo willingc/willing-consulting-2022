@@ -26,6 +26,7 @@
   background-color: #bde0fe;
   display: flex;
   justify-content: center;
+  margin-top: -1em;
 }
 
 .hero-banner h1 {
