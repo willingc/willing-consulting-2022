@@ -11,7 +11,7 @@ website:
   title: "Willing Consulting"
   site-url: "https://willingconsulting.com"
   description: "Carol Willing, Human Centered Open Source Leadership"
-  favicon: static/images/wave-connecting-250.png
+  favicon: static/images/images/favicon_symbol.png
   page-navigation: true
   back-to-top-navigation: true
   google-analytics:
