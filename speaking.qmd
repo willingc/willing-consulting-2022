@@ -59,7 +59,9 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 - [**Anaconda 10-Year Anniversary**, Panelist for _Open Source Communities_](https://youtu.be/gzgiUx8mRNU)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gzgiUx8mRNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/gzgiUx8mRNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 - **Coiled Webinar**
 - **PyCon Latam Keynote**, Keynote
@@ -146,9 +148,9 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
   - Invited Speaker on _Writing Docs in Sphinx_
   - [video](https://www.crowdcast.io/e/sphinx/register?utm_source=Trey%27s%20Weekly%20Python%20Chat&utm_campaign=4294888c14-EMAIL_CAMPAIGN_2017_10_28&utm_medium=email&utm_term=0_d717efe425-4294888c14-29747353&mc_cid=4294888c14&mc_eid=f8efeeec0c)
 - **PyCon UK**, Cardiff, UK
-  - Moderator, Panel Discussion on [The Ethics and Politics of Programming](http://2017.pyconuk.org/sessions/panels/the-ethics-and-politics-of-programming/)
+  - Moderator, Panel Discussion on [The Ethics and Politics of Programming](https://2017.pyconuk.org/sessions/panels/the-ethics-and-politics-of-programming/)
   - [video](https://www.youtube.com/watch?v=RERVMxLFpqA)
-- [**San Diego Women's Hackathon**](http://sandiegohackathon.org/), Cal State San Marcos
+- [**San Diego Women's Hackathon**](https://sandiegohackathon.org/), Cal State San Marcos
   - Mentor - Cal State San Marcos
 - **Binder Workshop**, UC Davis
 - **San Diego Python**, San Diego, CA
@@ -175,7 +177,7 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 - Hackaday.io Superconference
 - Grace Hopper Celebration - Open Source Day workshop organizer
-- [San Diego Women's Hackathon](http://sandiegohackathon.org/)
+- [San Diego Women's Hackathon](https://sandiegohackathon.org/)
 - PyData Carolinas - Keynote
 - SciPy 2016 - Invited speaker for Diversity Lunch
 - Write Speak Code - Speaker panelist, Speaker mentor, Code Day speaker and
@@ -189,22 +191,22 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 ## 2015
 
 - Google Summer of Code celebration
-- [San Diego Women's Hackathon](http://sandiegohackathon.org/)
+- [San Diego Women's Hackathon](https://sandiegohackathon.org/)
 - Grace Hopper Celebration
-  - [Open Source Day Outreach](http://gracehopper.org/conference-overview/open-source-day-2015/)
+  - [Open Source Day Outreach](https://gracehopper.org/conference-overview/open-source-day-2015/)
   - OpenHatch workshop organizer
   - Speaker and panelist
 - [DjangoCon 2015](https://2015.djangocon.us/) - DjangoGirls coach
-- [Open San Diego](http://opensandiego.org/) - Meetup speaker
+- [Open San Diego](https://opensandiego.org/) - Meetup speaker
 - [Qualcomm EmpowHERment Summit](https://empowherment.qualcomm.com/) - Technical-Workshop Presenter
 - SciPy 2015
 - O'Reilly Solid 2015
-- [GeekGirl TechCon](http://sandiego.geekgirltechcon.com/) (San Diego, CA) - Workshop Presenter
-- [Cisco DevNet Hackathon](http://hackathon.cisco.com/event/ciscolive-sandiego-2015) at Cisco Live - Judge
+- [GeekGirl TechCon](https://sandiego.geekgirltechcon.com/) (San Diego, CA) - Workshop Presenter
+- [Cisco DevNet Hackathon](https://hackathon.cisco.com/event/ciscolive-sandiego-2015) at Cisco Live - Judge
 - National Day of Civic Hacking (San Diego, CA) - Mentor
 - Women's Hackathon at CSUSM - Mentor
 - PyCon 2015 (Montreal, Canada) - Speaker
-- [Write/Speak/Code (NYC) - Conference Panelist](http://www.writespeakcode.com/conference/speakers/)
+- [Write/Speak/Code (NYC) - Conference Panelist](https://www.writespeakcode.com/conference/speakers/)
 - ElasticCon
 - San Diego Data Science FunConference - Poster presenter
 - Southern California Linux Expo SCALE 13x - PyLadies Booth Co-organizer;
@@ -250,8 +252,10 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 - CLS - Community Leadership Summit (Portland, OR)
 - Fembot Collective Conference (Portland, OR)
 - AdaCamp SF (San Francisco, CA)
-- SCALE11x (Los Angeles, CA
+- SCALE11x (Los Angeles, CA)
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbmHuawY0ITI8crhYoMMi2xiZiKQuxMEj" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?list=PLbmHuawY0ITI8crhYoMMi2xiZiKQuxMEj" title="Carol Willing talk playlist" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

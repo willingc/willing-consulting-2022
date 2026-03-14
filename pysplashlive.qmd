@@ -16,7 +16,7 @@ After the PySplashLive loads, double click on the notebook icon named `meet_swir
 
 ::: {#fig-py}
 
-<iframe width="900" height="1000" src="https://willingc.github.io/pysplashlive"></iframe>
+<iframe style="width: 100%; height: 80vh; min-height: 600px;" src="https://willingc.github.io/pysplashlive" title="PySplashLive Jupyter environment"></iframe>
 
 PySplashLive
 :::
