@@ -5,6 +5,9 @@ on:
 
 name: Quarto Publish
 
+permissions:
+  contents: read
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
