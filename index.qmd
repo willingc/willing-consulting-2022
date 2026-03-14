@@ -54,7 +54,7 @@ work to your needs.
 
 ::: {.hero-animation}
 
-![Willing Consulting Logo](images/logo-vertical.png){width=350 height=350 loading="lazy"}
+![](images/logo-vertical.png){fig-alt="Willing Consulting Logo" width=350 height=350 loading="lazy"}
 
 :::
 
