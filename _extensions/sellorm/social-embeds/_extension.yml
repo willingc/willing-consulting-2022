@@ -5,7 +5,7 @@ contributes:
   shortcodes:
     - gists.lua
     - loom.lua
-    - twitter.lua
+
     - vimeo.lua
     - youtube.lua
     - mastodon.lua
