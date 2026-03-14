@@ -7,6 +7,15 @@ publish = "_site"
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
 
+## Security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+
 ## Lighthouse plugin: generates a Lighthouse report after build
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
