@@ -85,12 +85,6 @@ website:
       - icon: rss
         href: index.xml
         aria-label: Carol Willing Blog RSS
-  announcement:
-    icon: globe
-    dismissable: false
-    content: "Willing Consulting is a proud, three-year **Partner Sponsor of [PyLadiesCon](https://2025.conference.pyladies.com/en/)**."
-    type: danger
-    position: below-navbar
 
 format:
   html:
