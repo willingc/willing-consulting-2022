@@ -1,11 +1,18 @@
 ---
 title: 404 - Page Not Found
+toc: false
 ---
 
 ## Whoops, that page is gone {{< fa search >}}
 
-It may have been removed, renamed, or unexpectedly disappeared.
+It may have been removed, renamed, or unexpectedly disappeared. Here are some places to start:
 
-Try going back to the [homepage](/) and using search 🔎 in the top right to find the desired page.
+- [Home](/) -- Back to the homepage
+- [About](/about.html) -- Learn about Carol Willing
+- [Blog](/blog/) -- Read the latest posts
+- [Speaking](/speaking.html) -- Talks and events
+- [Contact](/contact.html) -- Get in touch
 
-![Error code - 404](static/images/swirl-mascot-1000.png)
+You can also use the search bar in the top right to find what you're looking for.
+
+![](static/images/swirl-mascot-1000.png){fig-alt="Swirl mascot - 404 error" width=300 loading="lazy"}
