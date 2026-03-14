@@ -32,6 +32,9 @@
   background-color: #bde0fe;
   display: flex;
   justify-content: center;
+  /* Extend background up under the navbar to cover the body padding gap */
+  margin-top: -14px;
+  padding-top: 14px;
 }
 
 .hero-banner h1 {

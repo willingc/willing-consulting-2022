@@ -1,5 +1,6 @@
 ---
 title: "Carol Willing"
+description: "Expert in Python, open source governance, data science, and AI. Core Python developer, three-time Steering Council member, and Project Jupyter contributor."
 toc: false
 about:
   id: "carol-willing"
@@ -9,10 +10,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/carolwilling/
     - icon: github
-      text: Github
-      href: https://github.com
+      text: GitHub
+      href: https://github.com/willingc
 listing:
   contents:
     - about/about-award.qmd

@@ -1,5 +1,6 @@
 ---
 title: "Blog listing"
+description: "News, tips, and commentary on Python, open source, data science, and AI from Carol Willing."
 subtitle: News, tips, and commentary from Willing Consulting
 listing:
   contents: posts
