@@ -15,4 +15,4 @@ It may have been removed, renamed, or unexpectedly disappeared. Here are some pl
 
 You can also use the search bar in the top right to find what you're looking for.
 
-![](static/images/swirl-mascot-1000.png){fig-alt="Swirl mascot - 404 error" width=300 loading="lazy"}
+![](static/images/swirl-mascot-1000.webp){fig-alt="Swirl mascot - 404 error" width=300 height=300}

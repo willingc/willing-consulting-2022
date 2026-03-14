@@ -5,7 +5,7 @@ categories: [tech, napari, python, visualization, containers]
 author: Carol Willing
 date: 2024-11-19
 draft: false
-image: ../../static/images/2024/2024-napari-container.png
+image: ../../static/images/2024/2024-napari-container.webp
 image-alt: container registry with napari image
 ---
 
@@ -14,7 +14,7 @@ image-alt: container registry with napari image
 The napari container images are available from the
 [GitHub Container Registry](https://github.com/napari/napari/pkgs/container/napari). 
 
-![napari container images](../../static/images/2024/2024-napari-container.png)
+![napari container images](../../static/images/2024/2024-napari-container.webp)
 
 There are two types of container images available:
 
@@ -45,7 +45,7 @@ as a guide and I ran these specific steps:
    If you are logged into your Docker account, it will make sure that you have
     the latest version of Docker Scout.
 
-   ![](../../static/images/2024/2024-11-19-docker-scout.png)
+   ![](../../static/images/2024/2024-11-19-docker-scout.webp)
    :::
 
 3. Run the container:
@@ -57,7 +57,7 @@ as a guide and I ran these specific steps:
 4. Open a browser and go to `http://localhost:9876` to see the napari GUI.
    You should see the napari GUI in your browser.
 
-   ![Safari browser](../../static/images/2024/2024-11-19-safari-gui.png)
+   ![Safari browser](../../static/images/2024/2024-11-19-safari-gui.webp)
 
    ::: {.callout-warning}
    ### Check the interactivity of the GUI
@@ -69,7 +69,7 @@ as a guide and I ran these specific steps:
    up an xpra screen. I didn't add any information to the form and
    clicked "Connect". It then brought up the napari GUI.
 
-   ![Chrome browser](../../static/images/2024/2024-11-19-chrome-gui.png)
+   ![Chrome browser](../../static/images/2024/2024-11-19-chrome-gui.webp)
 
 ## Part 2 - Interacting with napari in the browser
 
