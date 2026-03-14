@@ -10,9 +10,3 @@
 ## Quarto
 
 `quarto preview`
-
-## Tips
-
-css, scss
-
-cyborg, superhero
