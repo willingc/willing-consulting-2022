@@ -21,12 +21,17 @@
   }
 }
 
+/* Override Quarto's #quarto-content > * { padding-top: 14px } to remove
+   the gap between the navbar and the hero banner */
+#quarto-content > [role="main"] {
+  padding-top: 0;
+}
+
 .hero-banner {
   position: relative;
   background-color: #bde0fe;
   display: flex;
   justify-content: center;
-  margin-top: -1em;
 }
 
 .hero-banner h1 {
