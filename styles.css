@@ -16,3 +16,17 @@
 .navbar-brand > img {
   max-height: 36px;
 }
+
+/* Accessibility: ensure footer touch targets meet WCAG 44x44px minimum */
+.nav-footer a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 8px;
+}
+
+.nav-footer-center a {
+  margin: 0 4px;
+}
