@@ -5,7 +5,7 @@ categories: [tech, napari, python, visualization, GPU, remote]
 author: Carol Willing
 date: 2025-05-29
 draft: false
-image: ../../static/images/2024/2024-napari-container.png
+image: ../../static/images/2024/2024-napari-container.webp
 image-alt: container registry with napari image
 ---
 
