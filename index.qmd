@@ -76,11 +76,11 @@ inaugural council; a Python core developer, and Project Jupyter core
 contributor, my dedication to the language can be felt far and wide.
 
 ::: {.grid}
-::: {.g-col-lg-6 .g-col-12 style="height: 400px"}
+::: {.g-col-lg-6 .g-col-12}
 ![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.webp "Carol Willing presenting PyCon 2023 Keynote"){loading="lazy"}
 :::
 
-::: {.g-col-lg-6 .g-col-12 style="height: 400px"}
+::: {.g-col-lg-6 .g-col-12}
 ![*PyCon 2023 Keynote: Python -- The People's Programming Language*](images/pycon-title-slide.webp "PyCon 2023 Keynote: Python -- The People's Programming Language"){loading="lazy"}
 :::
 
