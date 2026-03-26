@@ -6,6 +6,10 @@ image: ../static/images/swirl-mascot-1000.png
 format: html
 ---
 
+## 2024
+
+- ["Why do we code?" and other musings with Carol Willing](https://www.opensourcestories.org/stories/2024/carol-willing-why-we-code/), Open Source Stories.
+
 ## 2023
 
 - [Elevating Open Source Contributors to Open Source Maintainers](https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/), GitHub Blog
@@ -20,13 +24,25 @@ format: html
 
 - [How Python is building a welcoming community for women](https://github.com/readme/featured/women-in-tech-python), The ReadMe Project, GitHub.
 
+- [Reactive, reproducible, collaborative: computational notebooks evolve](https://www.nature.com/articles/d41586-021-01174-w), Nature (Jeff Perkel).
+
 ## 2020
 
 - [Governance Q & A Blog with Carol Willing](https://engineering.salesforce.com/governance-q-a-blog-with-carol-willing-294f5135a767/), Salesforce Engineering blog Oct 07.
 
+- [A Lifelong Learner](https://us-rse.org/rse-stories/2020/carol-willing/), RSE Stories.
+
 - [Where Programming Languages are Headed in 2020](https://www.oreilly.com/radar/where-programming-languages-are-headed-in-2020/), O'Reilly Radar.
 
+## 2019
+
+- [Learning git: Locations, Remotes, and GitHub](https://www.willingconsulting.com/blog/posts/2019-07-01-locations-and-git.html), Willing Consulting.
+
 ## 2018
+
+- [Why Jupyter is data scientists' computational notebook of choice](https://www.nature.com/articles/d41586-018-07196-1), Nature (Jeff Perkel).
+
+- [Jupyter Insights: Carol Willing](https://www.oreilly.com/content/jupyter-insights-carol-willing/), O'Reilly.
 
 - Featured Chapter in [Python Interview by Mike Driscoll](https://subscription.packtpub.com/book/web-development/9781788399081/3/ch03/carol-willing), Packet Publishing.
 
@@ -35,5 +51,12 @@ format: html
 ## 2015
 
 - [Django Girls Blog - Your Django Story: Meet Carol Willing](https://blog.djangogirls.org/post/107597215478/your-django-story-meet-carol-willing)
+
 - [PyDev of the Week: Carol Willing](
 https://www.blog.pythonlibrary.org/2015/10/12/pydev-of-the-week-carol-willing/)
+
+## Interviews and Profiles
+
+- ["It all goes back to what's best for the community": An interview with Python's Carol Willing](https://relational-tech.com/blog/carol-willing-interview.html), Relational Tech.
+
+- [Python Interviews: Carol Willing](https://www.oreilly.com/library/view/python-interviews/9781788399081/ch03.html), O'Reilly.
