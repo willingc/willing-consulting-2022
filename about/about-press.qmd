@@ -30,7 +30,7 @@ format: html
 
 - [Governance Q & A Blog with Carol Willing](https://engineering.salesforce.com/governance-q-a-blog-with-carol-willing-294f5135a767/), Salesforce Engineering blog Oct 07.
 
-- [A Lifelong Learner](http://us-rse.org/rse-stories/2020/carol-willing/), RSE Stories.
+- [A Lifelong Learner](https://us-rse.org/rse-stories/2020/carol-willing/), RSE Stories.
 
 - [Where Programming Languages are Headed in 2020](https://www.oreilly.com/radar/where-programming-languages-are-headed-in-2020/), O'Reilly Radar.
 
