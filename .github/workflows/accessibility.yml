@@ -8,7 +8,7 @@ jobs:
   accessibility_scanner:
     runs-on: ubuntu-latest
     steps:
-      - uses: github/accessibility-scanner@7866232dda98e447fed8ec0d7798b322d888fd27 # v2.12.0
+      - uses: github/accessibility-scanner@145c9ca97a05c920ed722da42c9e003eb7e92bd9 # v3.0.1
         with:
           urls: | # Provide a newline-delimited list of URLs to scan; more information below.
             https://willingconsulting.com
