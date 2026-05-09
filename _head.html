@@ -2,3 +2,19 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap">
 <link rel="preconnect" href="https://www.googletagmanager.com">
+<script>
+  (() => {
+    const removeMetaRefresh = () => {
+      document
+        .querySelectorAll('meta[http-equiv]')
+        .forEach((meta) => meta.httpEquiv?.toLowerCase() === 'refresh' && meta.remove());
+    };
+
+    removeMetaRefresh();
+    new MutationObserver(removeMetaRefresh).observe(document.documentElement, {
+      childList: true,
+      subtree: true
+    });
+    document.addEventListener('DOMContentLoaded', removeMetaRefresh, { once: true });
+  })();
+</script>
