@@ -15,14 +15,14 @@
     };
 
     removeMetaRefresh();
-    const observer = new MutationObserver(removeMetaRefresh);
     if (document.head) {
+      const observer = new MutationObserver(removeMetaRefresh);
       observer.observe(document.head, {
         childList: true,
         subtree: true
       });
+      window.addEventListener('load', () => observer.disconnect(), { once: true });
     }
     document.addEventListener('DOMContentLoaded', removeMetaRefresh, { once: true });
-    window.addEventListener('load', () => observer.disconnect(), { once: true });
   })();
 </script>
