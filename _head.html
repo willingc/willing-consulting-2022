@@ -21,5 +21,6 @@
       subtree: true
     });
     window.addEventListener('load', () => observer.disconnect(), { once: true });
+    setTimeout(() => observer.disconnect(), 5000);
   })();
 </script>
