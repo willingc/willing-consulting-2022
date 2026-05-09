@@ -4,25 +4,22 @@
 <link rel="preconnect" href="https://www.googletagmanager.com">
 <script>
   (() => {
+    const head = document.head;
+    if (!head) {
+      return;
+    }
+
     const selector = 'meta[http-equiv="refresh"], meta[http-equiv="Refresh"], meta[http-equiv="REFRESH"]';
     const removeMetaRefresh = () => {
-      const head = document.head;
-      if (!head) {
-        return;
-      }
-
       head.querySelectorAll(selector).forEach((meta) => meta.remove());
     };
 
     removeMetaRefresh();
-    if (document.head) {
-      const observer = new MutationObserver(removeMetaRefresh);
-      observer.observe(document.head, {
-        childList: true,
-        subtree: true
-      });
-      window.addEventListener('load', () => observer.disconnect(), { once: true });
-    }
-    document.addEventListener('DOMContentLoaded', removeMetaRefresh, { once: true });
+    const observer = new MutationObserver(removeMetaRefresh);
+    observer.observe(head, {
+      childList: true,
+      subtree: true
+    });
+    window.addEventListener('load', () => observer.disconnect(), { once: true });
   })();
 </script>
