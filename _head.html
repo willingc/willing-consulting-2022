@@ -2,3 +2,28 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap">
 <link rel="preconnect" href="https://www.googletagmanager.com">
+<script>
+  (() => {
+    const head = document.head;
+    if (!head) {
+      return;
+    }
+
+    const selector = 'meta[http-equiv="refresh" i]';
+    const removeMetaRefresh = () => {
+      head.querySelectorAll(selector).forEach((meta) => meta.remove());
+    };
+
+    removeMetaRefresh();
+    const observer = new MutationObserver(removeMetaRefresh);
+    observer.observe(head, {
+      childList: true
+    });
+    const disconnectObserver = () => observer.disconnect();
+    const disconnectTimeout = setTimeout(disconnectObserver, 5000);
+    window.addEventListener('load', () => {
+      clearTimeout(disconnectTimeout);
+      disconnectObserver();
+    }, { once: true });
+  })();
+</script>
