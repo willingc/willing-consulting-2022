@@ -6,12 +6,12 @@
   (() => {
     const removeMetaRefresh = () => {
       document
-        .querySelectorAll('meta[http-equiv]')
-        .forEach((meta) => meta.httpEquiv?.toLowerCase() === 'refresh' && meta.remove());
+        .querySelectorAll('meta[http-equiv="refresh" i]')
+        .forEach((meta) => meta.remove());
     };
 
     removeMetaRefresh();
-    new MutationObserver(removeMetaRefresh).observe(document.documentElement, {
+    new MutationObserver(removeMetaRefresh).observe(document.head, {
       childList: true,
       subtree: true
     });
