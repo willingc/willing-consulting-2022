@@ -19,7 +19,11 @@
     observer.observe(head, {
       childList: true
     });
-    window.addEventListener('load', () => observer.disconnect(), { once: true });
-    setTimeout(() => observer.disconnect(), 5000);
+    const disconnectObserver = () => observer.disconnect();
+    const disconnectTimeout = setTimeout(disconnectObserver, 5000);
+    window.addEventListener('load', () => {
+      clearTimeout(disconnectTimeout);
+      disconnectObserver();
+    }, { once: true });
   })();
 </script>
