@@ -6,15 +6,21 @@
   (() => {
     const removeMetaRefresh = () => {
       document
-        .querySelectorAll('meta[http-equiv="refresh" i]')
-        .forEach((meta) => meta.remove());
+        .querySelectorAll('meta[http-equiv]')
+        .forEach((meta) => {
+          if (meta.httpEquiv?.toLowerCase() === 'refresh') {
+            meta.remove();
+          }
+        });
     };
 
     removeMetaRefresh();
-    new MutationObserver(removeMetaRefresh).observe(document.head, {
+    const observer = new MutationObserver(removeMetaRefresh);
+    observer.observe(document.head, {
       childList: true,
       subtree: true
     });
     document.addEventListener('DOMContentLoaded', removeMetaRefresh, { once: true });
+    window.addEventListener('load', () => observer.disconnect(), { once: true });
   })();
 </script>
