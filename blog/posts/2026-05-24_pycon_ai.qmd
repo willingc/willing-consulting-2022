@@ -5,7 +5,7 @@ categories: [tech, napari, python, visualization, GPU, remote]
 author: Carol Willing
 date: 2026-05-24
 draft: false
-image: ../../static/images/2026/ai_framing_three_panel.png
+image: ../../static/images/2026/ai_framing_three_panel.webp
 image-alt: three panel image showing ai as a wizard, a bucket of AI slop, and ai tools to help humans
 ---
 
@@ -23,4 +23,4 @@ P.S. If you have design expertise, please refine these ideas.
 
 ## From vague "AI" to tools you can use
 
-![](../../static/images/2026/ai_framing_three_panel.png)
+![](../../static/images/2026/ai_framing_three_panel.webp)
