@@ -1,0 +1,26 @@
+---
+title: "Reflections on PyCon US 2026 and AI Tools"
+description: "PyCon AI track and discussions on pragmatic workflows using AI tools, keynotes, and the importance of community in Python."
+categories: [tech, napari, python, visualization, GPU, remote]
+author: Carol Willing
+date: 2026-05-24
+draft: false
+image: ../../static/images/2026/ai_framing_three_panel.png
+image-alt: three panel image showing ai as a wizard, a bucket of AI slop, and ai tools to help humans
+---
+
+I've been reflecting about my PyCon experience.
+
+I enjoyed moderating a panel in the PyCon AI track with Catherine Nelson, Jodie Burchell, PhD, Jelle Zijlstra, Maike Scherer, and Laís Carvalho about pragmatic workflows using AI tools.
+
+I thought deeply about the messages in the keynotes. I valued the discussions at the Maintainer Summit organized by Mariatta Wijaya, Leah Wasser, Ph.D., and Inessa Pawson. I enjoyed working through Felipe Moreno's zine mystery.
+
+People are the heart of Python. They have created community and code to empower people around the world. Hope, as eloquently shared by Amanda Casari in her keynote, comes from working together for a greater good - the human condition and future generations.
+
+We can change the current narrative.
+
+P.S. If you have design expertise, please refine these ideas.
+
+## From vague "AI" to tools you can use
+
+![](../../static/images/2026/ai_framing_three_panel.png)
