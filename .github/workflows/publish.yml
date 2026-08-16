@@ -18,9 +18,9 @@ jobs:
           persist-credentials: false
 
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@8a96df13519ee81fd526f2dfca5962811136661b # v2
+        uses: quarto-dev/quarto-actions/setup@10ecffe43941bc1d1ea080631818c4aa70ee0435 # v2
         with:
-          version: 1.8.27
+          version: 1.10.18
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@8a96df13519ee81fd526f2dfca5962811136661b # v2
