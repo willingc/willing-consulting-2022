@@ -14,9 +14,8 @@ website:
   favicon: static/images/images/favicon_symbol.png
   page-navigation: true
   back-to-top-navigation: true
-  google-analytics:
-    tracking-id: "G-HMME8QVYFL"
-    storage: none
+  plausible-analytics:
+    path: _plausible_snippet.html
   open-graph: true
   twitter-card:
     creator: "@WillingCarol"
