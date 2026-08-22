@@ -23,7 +23,7 @@ jobs:
           version: 1.10.18
 
       - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@0ffb259df7c391caef1e145215f4d2214e72bc5a # v2
+        uses: quarto-dev/quarto-actions/publish@91dabb203fce7f899d10ef8e482d94b00f397cbc # v2
         with:
           target: netlify
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
