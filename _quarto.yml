@@ -51,7 +51,7 @@ website:
           aria-label: "Press"
       - text: "Speaking"
         menu:
-        - href: speaking/speaking.qmd
+        - href: speaking.qmd
           text: Speaking
           aria-label: "Speaking and Invited Talks"
         - href: speaking/talks-title.md
