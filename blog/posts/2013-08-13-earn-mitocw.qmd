@@ -12,8 +12,8 @@ tags:
   - workforce-return
   - learn
   - open-source
-image: ../../static/images/images/ocw_mast.png
-image-alt: MIT OpenCourseWare OCW
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 ![](../../static/images/images/ocw_mast.png)
