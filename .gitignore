@@ -25,3 +25,5 @@ package-lock.json
 
 # Environment files
 .env*
+
+**/*.quarto_ipynb
