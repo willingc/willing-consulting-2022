@@ -4,7 +4,7 @@ categories: [tech]
 author: Carol Willing
 date: 2015-06-09
 draft: false
-image: ../../static/images/2019/notebook-38.png
+image: ../../static/images/2015/06/bouquet-300x225.jpg
 tags:
   - Brian Curtin
   - Distinguished Service Award

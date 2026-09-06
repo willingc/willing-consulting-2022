@@ -3,3 +3,4 @@ title-block-banner-color: body
 toc-location: left
 format: html
 search: false
+freeze: true

@@ -1,15 +1,16 @@
 ---
 title: "Blog listing"
-description: "News, tips, and commentary on Python, open source, data science, and AI from Carol Willing."
-subtitle: News, tips, and commentary from Willing Consulting
+subtitle: Notes on Python and AI for curious people at every level.
+description: Writing from Carol Willing of Willing Consulting on Python, open source, data science, and AI.
 listing:
+  type: grid
   contents: posts
-  image-height: 200px
-  image-placeholder: "../static/images/wave-connecting-250.png"
-  date-format: iso
-  feed: true
-  filter-ui: true
-  sort-ui: true
   sort: "date desc"
-  categories: false
+  sort-ui: true
+  fields: [image, title, subtitle, categories, author, date, description]
+  date-format: iso
+  feed:
+    categories: [posts, python]
+  filter-ui: false
+  categories: cloud
 ---

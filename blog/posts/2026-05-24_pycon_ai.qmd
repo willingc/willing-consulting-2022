@@ -1,7 +1,7 @@
 ---
 title: "Reflections on PyCon US 2026 and AI Tools"
 description: "PyCon AI track and discussions on pragmatic workflows using AI tools, keynotes, and the importance of community in Python."
-categories: [tech, napari, python, visualization, GPU, remote]
+categories: [tech, python, AI, PyCon]
 author: Carol Willing
 date: 2026-05-24
 draft: false
