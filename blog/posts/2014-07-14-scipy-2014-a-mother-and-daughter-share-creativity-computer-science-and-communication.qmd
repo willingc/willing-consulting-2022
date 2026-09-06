@@ -7,10 +7,10 @@ draft: false
 image: ../../static/images/2014/07/dv13.jpg
 tags:
   - communication
-  - computer science
+  - computer-science
   - creativity
   - daughters
-  - IPython notebook
+  - IPython-notebook
   - mothers
   - pandas
   - python
@@ -18,10 +18,10 @@ tags:
   - women
   - community
   - education
-  - open source
+  - open-source
   - simplicity
   - teamwork
---- 
+---
 
 ![](../../static/images/2014/07/dv13.jpg)
 

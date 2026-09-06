@@ -7,7 +7,7 @@ categories:
     community,
     education,
     fablab,
-    open source,
+    open-source,
     outreach,
     python,
     raspberrypi,

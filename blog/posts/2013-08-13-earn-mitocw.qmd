@@ -9,9 +9,9 @@ tags:
   - free
   - MIT
   - OCW
-  - workforce return
+  - workforce-return
   - learn
-  - open source
+  - open-source
 image: ../../static/images/images/ocw_mast.png
 image-alt: MIT OpenCourseWare OCW
 ---

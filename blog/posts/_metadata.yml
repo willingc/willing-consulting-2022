@@ -4,3 +4,4 @@ toc-location: left
 format: html
 search: false
 freeze: true
+include-after-body: _category-links.html

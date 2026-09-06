@@ -6,13 +6,13 @@ date: 2015-06-09
 draft: false
 tags:
   [
-    "Ada Initiative",
+    "Ada-Initiative",
     "adacamp",
     "change",
     "community",
     "compassion",
     "education",
-    "open source",
+    "open-source",
     "teamwork",
     "wisdom",
     "women",

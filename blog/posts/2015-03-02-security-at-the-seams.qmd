@@ -9,7 +9,7 @@ tags:
   - economics
   - education
   - edX
-  - open source
+  - open-source
   - security
   - community
   - learn

@@ -1,0 +1,25 @@
+<script>
+  // Work around a Quarto bug (quarto.js findNearestParentListing) that links
+  // post category chips to the first listing in listings.json (the homepage)
+  // instead of the nearest parent listing (/blog/index.html).
+  (function () {
+    var listing = "/blog/index.html";
+    function fixCategoryLinks() {
+      var links = document.querySelectorAll(
+        "header.quarto-title-block .quarto-category a[href*='#category=']"
+      );
+      links.forEach(function (a) {
+        var hash = a.getAttribute("href").split("#")[1];
+        a.setAttribute("href", listing + "#" + hash);
+      });
+    }
+    var header = document.querySelector("header.quarto-title-block");
+    if (header) {
+      new MutationObserver(fixCategoryLinks).observe(header, {
+        subtree: true,
+        childList: true,
+      });
+    }
+    fixCategoryLinks();
+  })();
+</script>

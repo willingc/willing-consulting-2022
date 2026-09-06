@@ -7,7 +7,7 @@ draft: false
 tags: [
 "edX",
 "GitHub",
-"open source",
+"open-source",
 "Xblock",
 "software"
 ]

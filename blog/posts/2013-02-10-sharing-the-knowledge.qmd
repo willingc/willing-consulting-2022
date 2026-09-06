@@ -5,7 +5,7 @@ author: Carol Willing
 date: 2013-02-10
 draft: false
 tags:
-  ["3D printing", "FIRST", "knowledge", "lulzbot", "open source", "teamwork"]
+  ["3D-printing", "FIRST", "knowledge", "lulzbot", "open-source", "teamwork"]
 ---
 
 I have the pleasure of mentoring a talented group of high school students. They

@@ -5,7 +5,7 @@ author: Carol Willing
 date: 2013-08-12
 draft: false
 tags:
-  - Ada Initiative
+  - Ada-Initiative
   - mom
   - teamwork
   - Alzheimer's

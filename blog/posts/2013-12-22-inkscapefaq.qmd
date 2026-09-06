@@ -6,14 +6,14 @@ date: 2013-12-22
 draft: false
 image: ../../static/images/2019/notebook-38.png
 tags:
-  - 3D printing
+  - 3d-printing
   - community
   - education
   - fablab
   - GitHub
   - inkscape
   - lasercutting
-  - open source
+  - open-source
   - learn
   - software
 ---

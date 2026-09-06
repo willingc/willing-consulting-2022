@@ -5,12 +5,12 @@ author: Carol Willing
 date: 2013-08-24
 draft: false
 tags:
-  - Alasdair Allan
+  - Alasdair-Allan
   - Arduino
-  - Distributed Network Data
-  - Kipp Bradford
+  - Distributed-Network-Data
+  - Kipp-Bradford
   - XBee
-  - book review
+  - book-review
   - build
   - learn
   - wisdom

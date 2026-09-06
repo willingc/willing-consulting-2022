@@ -5,9 +5,9 @@ author: Carol Willing
 date: 2013-03-18
 draft: false
 tags:
-  - Ada Initiative
+  - Ada-Initiative
   - future
-  - open source
+  - open-source
   - teamwork
   - women
 ---

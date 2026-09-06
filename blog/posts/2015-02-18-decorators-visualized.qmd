@@ -6,12 +6,12 @@ date: 2015-02-18
 draft: false
 tags:
   - decorators
-  - online python tutor
-  - phillip guo
+  - online-python-tutor
+  - phillip-guo
   - python
   - simplicity
   - learn
-  - open source
+  - open-source
 ---
 
 Decorators make code more readable. When learning how decorators work, it's

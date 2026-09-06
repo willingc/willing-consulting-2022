@@ -7,7 +7,7 @@ draft: false
 tags:
   - communication
   - community
-  - JoAnne Yates
+  - JoAnne-Yates
   - mentoring
   - music
   - writespeakcode

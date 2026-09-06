@@ -5,15 +5,15 @@ author: Carol Willing
 date: 2013-09-29
 draft: false
 tags:
-  - a capella science
-  - bohemian gravity
-  - candy chang
+  - a-capella-science
+  - bohemian-gravity
+  - candy-chang
   - change
   - community
-  - linuxcon 2013
+  - linuxcon-2013
   - music
   - tedx
-  - the hics
+  - the-hics
   - learn
   - teamwork
   - wisdom

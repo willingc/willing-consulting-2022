@@ -5,11 +5,11 @@ author: Carol Willing
 date: 2014-02-18
 draft: false
 tags:
-  - Audrey Roy
+  - Audrey-Roy
   - book
-  - Daniel Greenfeld
+  - Daniel-Greenfeld
   - python
-  - book review
+  - book-review
   - community
   - education
   - learn

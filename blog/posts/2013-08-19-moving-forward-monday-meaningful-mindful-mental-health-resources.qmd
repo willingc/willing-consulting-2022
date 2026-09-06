@@ -5,11 +5,11 @@ author: Carol Willing
 date: 2013-08-19
 draft: false
 tags:
-  - It's Up to Us
-  - mental health
+  - It's-Up-to-Us
+  - mental-health
   - mindfulness
-  - suicide prevention
-  - UCSD Center for Mindfulness
+  - suicide-prevention
+  - UCSD-Center-for-Mindfulness
   - education
   - learn
 image: ../../static/images/2013/08/itsuptous_logo_web-169x300.jpg

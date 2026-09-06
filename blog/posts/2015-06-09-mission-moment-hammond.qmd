@@ -6,9 +6,9 @@ date: 2015-06-09
 draft: false
 image: ../../static/images/2015/06/bouquet-300x225.jpg
 tags:
-  - Brian Curtin
-  - Distinguished Service Award
-  - Mark Hammond
+  - Brian-Curtin
+  - Distinguished-Service-Award
+  - Mark-Hammond
   - mission
   - psf
   - python

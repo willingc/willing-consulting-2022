@@ -8,10 +8,10 @@ tags:
   - advocacy
   - allies
   - glsen
-  - laila al-shamma
+  - laila-al-shamma
   - linux
-  - linux foundation
-  - open source
+  - linux-foundation
+  - open-source
   - python
   - community
   - wisdom

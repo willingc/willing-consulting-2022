@@ -5,17 +5,17 @@ author: Carol Willing
 date: 2014-06-27
 draft: false
 tags:
-  - Ada Initiative
-  - adacamp
+  - Ada-Initiative
+  - AdaCamp
   - Alex Gaynor
   - cryptography
-  - Laurens Van Houten
-  - open source
-  - osbridge
+  - Laurens-Van-Houten
+  - open-source
+  - OSBridge
   - python
   - security
   - simplicity
-  - Terri Oda
+  - Terri-Oda
 ---
 
 I find cryptography and security fascinating. My current knowledge is limited to some math reading on cryptography years ago and some journal articles in IEEE, ACM, and USENIX publications. As a side project for the next year, I want to build my understanding of practical security out in the real world, especially mobile security.

@@ -5,9 +5,9 @@ author: Carol Willing
 date: 2014-03-03
 draft: false
 tags:
-  - open source
+  - open-source
   - openhatch
-  - shauna gordon-mckeon
+  - shauna-gordon-mckeon
   - learn
 ---
 
