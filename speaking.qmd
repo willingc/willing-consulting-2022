@@ -11,12 +11,13 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 ## Upcoming events
 
-- PyCon US 2026
-- SciPy 2026
-- PyOhio 2026
 
 ## 2026
 
+- PyCon Japan 2026, Hiroshima, Japan
+- PyOhio 2026, Cleveland, OH
+- SciPy 2026, Minneapolis, MN
+- PyCon US 2026, Long Beach, CA
 - PyTV, Amsterdam
 
 ## 2025
