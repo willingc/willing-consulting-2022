@@ -3,7 +3,7 @@ title: "Talks by title"
 subtitle: "Slides from my talks, keynotes, and workshops on Speaker Deck"
 ---
 
-All decks are on [Speaker Deck](https://speakerdeck.com/willingc). Dates are the date the talk was given (or the closest date noted on the deck).
+All decks are on [Speaker Deck](https://speakerdeck.com/willingc). [Playlist on YouTube](https://youtube.com/playlist?list=PLbmHuawY0ITI8crhYoMMi2xiZiKQuxMEj&si=SREd0Zk1rrBetjI-)
 
 | Title | Subtitle | Event | Date |
 |-------|----------|-------|------|
