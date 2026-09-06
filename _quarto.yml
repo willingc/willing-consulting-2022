@@ -49,9 +49,14 @@ website:
         - href: about/about-press.qmd
           text: Press
           aria-label: "Press"
-      - href: speaking.qmd
-        text: Speaking
-        aria-label: "Speaking and Invited Talks"
+      - text: "Speaking"
+        menu:
+        - href: speaking/speaking.qmd
+          text: Speaking
+          aria-label: "Speaking and Invited Talks"
+        - href: speaking/talks-title.md
+          text: Talks by Title
+          aria-label: "Talks by Title"
       - href: blog/index.qmd
         text: Blog
         aria-label: "My Blog"
