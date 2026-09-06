@@ -17,6 +17,8 @@ tags:
   - learn
   - teamwork
   - wisdom
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 I'm keeping it short this morning while I write a little software. I'm enjoying some good music, art, and community. Enjoy!

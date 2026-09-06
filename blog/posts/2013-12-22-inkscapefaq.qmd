@@ -16,6 +16,8 @@ tags:
   - open-source
   - learn
   - software
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 At a recent FabLab San Diego meetup, I was helping others to install

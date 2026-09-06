@@ -11,6 +11,8 @@ tags: [
 "Xblock",
 "software"
 ]
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 Kudos for edX opening the technical insides of its very successful platform

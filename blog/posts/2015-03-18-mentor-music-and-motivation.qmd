@@ -13,6 +13,8 @@ tags:
   - writespeakcode
   - education
   - learn
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 As I get ready to attend the [Write/Speak/Code](http://www.writespeakcode.com/) conference, I'm

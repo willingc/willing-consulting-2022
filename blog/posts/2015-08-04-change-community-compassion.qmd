@@ -17,6 +17,8 @@ tags:
     "wisdom",
     "women",
   ]
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 Today, I reflect on a life changing event. For a few days, we came together

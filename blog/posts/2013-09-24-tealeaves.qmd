@@ -16,6 +16,8 @@ tags:
   - senses
   - simplicity
   - wisdom
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 

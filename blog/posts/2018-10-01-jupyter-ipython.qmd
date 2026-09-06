@@ -5,6 +5,8 @@ categories: [tech, jupyter, learning, ipython]
 author: Carol Willing
 date: 2018-10-01
 draft: false
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 I love how Jupyter and IPython can empower learners. Here's a GitHub gist that shares some of my favorite resources.

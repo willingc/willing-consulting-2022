@@ -6,6 +6,8 @@ date: 2013-03-08
 draft: false
 tags:
   - women
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 

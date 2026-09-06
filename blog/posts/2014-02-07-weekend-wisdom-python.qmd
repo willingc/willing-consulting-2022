@@ -11,6 +11,8 @@ tags:
   - book-review
   - software
   - wisdom
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 ![Python Pocket Reference](../../static/images/2014/02/cat1.gif)

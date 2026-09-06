@@ -9,6 +9,8 @@ tags:
   - openhatch
   - shauna-gordon-mckeon
   - learn
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 ![Learning on Campus](../../static/images/2014/03/2013-04-24-11.46.18.jpg)

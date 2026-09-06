@@ -10,6 +10,8 @@ tags:
   - open-source
   - teamwork
   - women
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 ![Lady Ada Lovelace](../../static/images/images/adalovelace.jpg){fig-alt="Lady Ada Lovelace" fig-align="left"}

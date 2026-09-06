@@ -11,6 +11,8 @@ tags:
   - image
   - python
   - community
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 I had the pleasure of sharing my love of music and programming last spring at PyCon 2014. I enjoyed presenting a poster about music21, a computer aided musicology framework. Michael Cuthbert, an MIT professor of Music, has done great work making music theory accessible to learners and researchers.

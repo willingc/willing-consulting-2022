@@ -14,6 +14,8 @@ tags:
   - community
   - learn
   - teamwork
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 I recently had the pleasure of taking a new course through edX. The course, [DelftX: EconSec101x Economics of Cybersecurity](https://www.edx.org/course/economics-cybersecurity-delftx-econsec101x), adeptly illustrates the many economic issues and behaviors that impact security in practice. I highly recommend the course to those interested in economics and security. Here's my final reflection essay from the course.

@@ -13,6 +13,8 @@ tags:
   - community
   - education
   - learn
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 Audrey Roy and Daniel Greenfeld have recently released **Two Scoops of Django:

@@ -13,6 +13,8 @@ tags:
   - sharing
   - learn
   - software
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 ![Cat enjoying git goodness](../../static/images/2014/03/2013-08-17-14.12.49.jpg)

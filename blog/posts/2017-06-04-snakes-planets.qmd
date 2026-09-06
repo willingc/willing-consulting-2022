@@ -4,6 +4,8 @@ categories: [tech, psf, board, governance]
 author: Carol Willing
 date: 2017-06-04
 draft: false
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 As I get ready to step back from being a Director of the Python Software

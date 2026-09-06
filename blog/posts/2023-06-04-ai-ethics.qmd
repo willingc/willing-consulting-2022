@@ -5,6 +5,8 @@ author: Carol Willing
 categories: [AI, ethics, madlib, research]
 draft: false
 format: html
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 ## Madlib: AI Ethics Edition

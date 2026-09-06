@@ -12,6 +12,8 @@ tags:
   - simplicity
   - learn
   - open-source
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 Decorators make code more readable. When learning how decorators work, it's

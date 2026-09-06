@@ -16,6 +16,8 @@ tags:
   - security
   - simplicity
   - Terri-Oda
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 I find cryptography and security fascinating. My current knowledge is limited to some math reading on cryptography years ago and some journal articles in IEEE, ACM, and USENIX publications. As a side project for the next year, I want to build my understanding of practical security out in the real world, especially mobile security.

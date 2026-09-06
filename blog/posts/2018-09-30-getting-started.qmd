@@ -5,6 +5,8 @@ categories: [tech, learning, python, returning]
 author: Carol Willing
 date: 2018-09-30
 draft: false
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 If you share something more than three times, it's a good idea to write it

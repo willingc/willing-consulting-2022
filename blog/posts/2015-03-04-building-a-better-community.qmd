@@ -8,6 +8,8 @@ tags:
   - fablabsd
   - fablab
   - outreach
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 ---
 
 ## Why I gave a $2048 donation to Fab Lab San Diego
