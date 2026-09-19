@@ -18,7 +18,7 @@ jobs:
           persist-credentials: false
 
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@10ecffe43941bc1d1ea080631818c4aa70ee0435 # v2
+        uses: quarto-dev/quarto-actions/setup@91dabb203fce7f899d10ef8e482d94b00f397cbc # v2
         with:
           version: 1.10.18
 
