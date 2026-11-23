@@ -8,8 +8,6 @@ editor: source
 description: |
   Human Centered Open Source Leadership
 hide-description: true
-resources: 
-  - static/hero-fast.mp4
 listing:
   contents: blog/posts
   type: custom
