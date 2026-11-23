@@ -1,0 +1,43 @@
+# Netlify response headers.
+#
+# This file is copied into _site/ by Quarto (see `project: resources` in
+# _quarto.yml), and Netlify applies it to the published site. Keep all
+# header rules here rather than in netlify.toml.
+#
+# CSP sources, by what needs them:
+#   plausible.io                    - analytics script and event reporting (_plausible_snippet.html)
+#   cdn.jsdelivr.net, cdnjs         - MathJax and its polyfill on pages with math
+#   gist.github.com, githubassets   - gist shortcode embeds (script + stylesheet)
+#   assets.calendly.com, calendly   - scheduling widget on contact page
+#   api.iconify.design (+fallbacks) - Bluesky icon in the footer, fetched at runtime
+#   formspree.io                    - contact form submission
+#   youtube, willingc.github.io     - embedded videos and slides
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://gist.github.com https://assets.calendly.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://github.githubassets.com; img-src 'self' https: data:; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net; frame-src 'self' https://www.youtube.com https://willingc.github.io https://calendly.com https://app.netlify.com; connect-src 'self' https://plausible.io https://cdn.jsdelivr.net https://api.iconify.design https://api.simplesvg.com https://api.unisvg.com; form-action 'self' https://formspree.io
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Cache headers for static assets
+# CSS and JS keep the same filenames across deploys (e.g. styles.css), so use a
+# short max-age without `immutable` to avoid serving stale files after a deploy.
+/*.css
+  Cache-Control: public, max-age=3600
+
+/*.js
+  Cache-Control: public, max-age=3600
+
+/*.png
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.jpg
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
