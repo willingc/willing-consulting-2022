@@ -15,7 +15,7 @@ Trying out a pre-release will help you become familiar with new features to dete
 
 Navigate to the [Python 3.8.0b4 release page](https://www.python.org/downloads/release/python-380b4/). Scroll down to the **Files** section:
 
-![](../../static/images/2019/python38files.webp)
+![Files table on the Python 3.8.0b4 release page listing source tarballs, the macOS 64-bit installer, and Windows installers, with MD5 sums and file sizes](../../static/images/2019/python38files.webp)
 
 To install on macOS, select the link `macOS 64-bit installer` and download the linked `.dmg`
 installer. Although this is a pre-release version of 3.8.0, the installer will prompt you
@@ -89,4 +89,4 @@ The Jupyter notebook interface should launch. Select a new Python3 notebook.
 You can now begin exploring the new features in Python 3.8. This example shows
 [f-strings support for self-documenting expressions and debugging](https://docs.python.org/3.8/whatsnew/3.8.html#f-strings-support-for-self-documenting-expressions-and-debugging).
 
-![](../../static/images/2019/notebook-38.webp)
+![Jupyter notebook running Python 3.8.0b4, printing cosine values for a list of angles with f-strings like f'{theta=}'](../../static/images/2019/notebook-38.webp)

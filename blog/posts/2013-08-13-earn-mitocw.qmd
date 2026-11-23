@@ -16,7 +16,7 @@ image: ../../static/images/placeholder.png
 image-alt: placeholder logo image
 ---
 
-![](../../static/images/images/ocw_mast.png)
+![placeholder logo image](../../static/images/placeholder.png)
 
 **Donate to MIT OCW.**
 
