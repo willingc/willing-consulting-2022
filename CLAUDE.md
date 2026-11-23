@@ -37,14 +37,13 @@ There are no tests or linters configured for this project.
 
 - **Theme:** Simplex base theme with custom overrides in `wilcon.scss`
 - **Brand colors:** Deep Cove (`#040A2B`), Bay of Many (`#244A7B`), Calypso (`#326494`), Malibu (`#5BB2F9`), Lightest Blue (`#bde0fe`)
-- **Fonts:** Roboto family (Flex, Slab, Mono, Serif) loaded via Google Fonts in `_head.html`
+- **Fonts:** System font stacks set in `wilcon.scss` (SF Pro on Apple, Segoe UI on Windows, Roboto on Android). No web fonts are loaded; the Simplex theme's Open Sans import is disabled with `$web-font-path: false`.
 - `index.css` — Homepage-specific layout (hero banner, features grid, blog section)
 - `styles.css` — Global overrides (accessibility fixes for listing card headings, navbar)
 
 ### Key Customizations
 
 - `listing-grid-a11y.ejs` — Custom EJS listing template that uses `<h2>` for card titles (accessibility fix for heading hierarchy)
-- `_head.html` — Preconnect hints and Google Fonts loading
 - `execute: freeze: auto` in `_quarto.yml` — Computational outputs are frozen (stored in `_freeze/`)
 
 ### Quarto Extensions
