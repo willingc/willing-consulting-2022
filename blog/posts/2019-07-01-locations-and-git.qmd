@@ -6,6 +6,7 @@ author: Carol Willing
 date: 2019-07-01
 draft: false
 image: ../../static/images/2019/git-title.webp
+image-alt: "Title slide: Yes, You Can Git! Introduction to Git and GitHub"
 ---
 
 When you are new to git and GitHub, one of the first things that is helpful to

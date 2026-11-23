@@ -5,6 +5,7 @@ author: Carol Willing
 date: 2015-06-09
 draft: false
 image: ../../static/images/2015/06/bouquet-300x225.jpg
+image-alt: "A bouquet of succulents"
 tags:
   - Brian-Curtin
   - Distinguished-Service-Award

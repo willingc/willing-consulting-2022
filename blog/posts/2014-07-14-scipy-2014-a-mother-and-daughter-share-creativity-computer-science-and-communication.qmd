@@ -5,6 +5,7 @@ author: Carol Willing
 date: 2014-07-14
 draft: false
 image: ../../static/images/2014/07/dv13.jpg
+image-alt: "Carol kneeling beside her young daughter in a park in the Philippines, with a playground behind them"
 tags:
   - communication
   - computer-science

@@ -2,6 +2,8 @@ project:
   type: website
   resources:
     - _headers   # Netlify response headers; must be in _site/ to be deployed
+  post-render:
+    - _post-render-card-headings.ts   # blog listing card titles: <h5> -> <h2>
 
 execute:
   freeze: auto

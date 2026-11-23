@@ -6,6 +6,7 @@ author: Carol Willing
 date: 2023-06-03
 draft: false
 image: ../../static/images/2023/2023-06-03-quarto.webp
+image-alt: "Editor showing Quarto Markdown source beside a live Quarto Preview of the blog post and quarto preview terminal output"
 ---
 
 Over the years, I've used different frameworks for my personal website: wordpress, hugo, mkdocs. This weekend, I migrated to [Quarto](https://quarto.org), a fairly new open source project sponsored by [Posit](https://posit.co/).
