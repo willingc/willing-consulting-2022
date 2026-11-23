@@ -45,7 +45,7 @@ as a guide and I ran these specific steps:
    If you are logged into your Docker account, it will make sure that you have
     the latest version of Docker Scout.
 
-   ![](../../static/images/2024/2024-11-19-docker-scout.webp)
+   ![Terminal output of docker scout quickview for the napari container image, showing vulnerability counts and a recommended base image update from Ubuntu 22.04 to 24.04](../../static/images/2024/2024-11-19-docker-scout.webp)
    :::
 
 3. Run the container:

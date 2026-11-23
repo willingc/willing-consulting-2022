@@ -19,7 +19,7 @@ Two concepts will help you get started:
 
 _Inspired by a [talk given at Write Speak Code 2016](https://www.slideshare.net/willingc/yes-you-can-git)._
 
-![](../../static/images/2019/git-title.webp)
+![Title slide: "Yes, You Can Git! Introduction to Git and GitHub," Carol Willing, Write Speak Code, June 17, 2016](../../static/images/2019/git-title.webp)
 
 ---
 
@@ -29,7 +29,7 @@ _Inspired by a [talk given at Write Speak Code 2016](https://www.slideshare.net/
 
 **[GitHub](https://github.com)** is a cloud service that stores source code repositories.
 
-![](../../static/images/2019/git-01.webp)
+![Slide "Chatting with friends": git is a tool that puts you in charge of source files; GitHub is a service for sharing and collaboration. Beside it, a poster reading "Some of my best friends are abstract."](../../static/images/2019/git-01.webp)
 
 ## Understanding Repository Locations
 
@@ -37,11 +37,11 @@ By understanding this concept, your mastery of git and GitHub for development wi
 
 The old saying, _"Naming is hard."_, definitely applies to git. While a handy tool, the jargon around using git makes it difficult for a new user to grasp concepts.
 
-![](../../static/images/2019/git-02.webp)
+![Slide "Naming places: local (you are here), origin, upstream" over a photo of orange cosmos flowers and a butterfly beside a lake](../../static/images/2019/git-02.webp)
 
 First, let's look at three locations: `local`, `origin`, and `upstream`. Code can be stored in all of these locations.
 
-![](../../static/images/2019/git-04.webp)
+![Three labeled photos: LOCAL (git) over a laptop and a handmade robot owl; ORIGIN (you on GitHub) over a river seen from the air; UPSTREAM (open source project on GitHub) over snowy mountains in clouds](../../static/images/2019/git-04.webp)
 
 Let's start with `local`. The `local` location is the `git` tool running on your computer system.
 
@@ -49,19 +49,19 @@ For consistency, we will name the repository location of your account on GitHub,
 
 Finally, we will refer to the open source project's repository with the location, `upstream`.
 
-![](../../static/images/2019/git-05.webp)
+![Diagram: LOCAL (git) on the left of a dotted line; ORIGIN (you on GitHub) and UPSTREAM (open source project on GitHub) on the right, grouped as remote](../../static/images/2019/git-05.webp)
 
 ## What is a fork?
 
 The process of creating a copy of an open source project and locating it in your GitHub account is called `forking`. In the GitHub user interface, you would do this by navigating to the open source project page and clicking the fork button.
 
-![](../../static/images/2019/git-06.webp)
+![Slide "Fork an open source project": clicking Fork on the upstream repository gentlecodegarden/wsc-music creates the origin copy willingc/wsc-music on GitHub](../../static/images/2019/git-06.webp)
 
 ## Getting a project's code onto a local system
 
 The process of cloning makes a replica of the repository located at the specified URL: `git clone <URL>` where `<URL>` is the repository's project page that you wish to clone.
 
-![](../../static/images/2019/git-07.webp)
+![Slide "Clone your fork of an open source project to your local computer": terminal running git clone, git status, and git remote -v, which shows origin pointing to github.com/willingc/wsc-music](../../static/images/2019/git-07.webp)
 
 ## Listing and adding remotes
 
@@ -69,7 +69,7 @@ A **remote** is the term that git uses to refer to any repository located in ver
 
 `git remote -v` will print all of the remotes that a local repository has access to. In this example, you can see that there is only one remote, `origin`, which corresponds to the repository on my GitHub account.
 
-![](../../static/images/2019/git-08.webp)
+![Slide "Add a remote": terminal running git remote add upstream with the gentlecodegarden/wsc-music URL; git remote -v then lists both origin and upstream](../../static/images/2019/git-08.webp)
 
 To add a path from local to the `upstream` open source project, we need to tell git where the location of the open source project is. We can do this with the command: `git remote add upstream <URL>` where `<URL>` is the open source project's repository that you to have a path accessible from `local`.
 
@@ -83,6 +83,6 @@ Remember:
 - local usually refers to your local computer
 - remotes, often `origin` and `upstream`, are other repositories which are located somewhere different from local
 
-![](../../static/images/2019/git-09.webp)
+![Review slide: fork an open source project, then clone your fork. LOCAL is ~/myprojects/wsc-music; the remotes are ORIGIN at github.com/your-username/wsc-music and UPSTREAM at github.com/gentlecodegarden/wsc-music](../../static/images/2019/git-09.webp)
 
 There is still lots to learn about git and GitHub workflows. I hope this gives you a foundation to build upon.

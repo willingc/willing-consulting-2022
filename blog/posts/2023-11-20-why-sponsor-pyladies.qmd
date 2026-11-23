@@ -58,7 +58,7 @@ leader, mentor, learner, and friend.
 
 **I'm thankful for the opportunity to give back to PyLadies.**
 
-![](../../static/images/2023/2023-11-20-pyladies-sponsor.webp "PyLadiesCon Sponsor")
+![PyLadiesCon sponsors page: Auth0 by Okta as Booster, and Six Feet Up, dataroots, and Willing Consulting as Partners](../../static/images/2023/2023-11-20-pyladies-sponsor.webp "PyLadiesCon Sponsor")
 
 ## Thank You
 

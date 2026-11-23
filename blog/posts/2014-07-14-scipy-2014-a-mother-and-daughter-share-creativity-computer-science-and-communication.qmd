@@ -23,7 +23,7 @@ tags:
   - teamwork
 ---
 
-![](../../static/images/2014/07/dv13.jpg)
+![Carol kneeling beside her young daughter in a park in the Philippines, with a playground behind them](../../static/images/2014/07/dv13.jpg)
 
 I had the pleasure of sharing SciPy 2014 with my daughter. Well, the chance to share SciPy 2014 with a more grown up version of my daughter than the three year old girl exploring the Philippines.
 

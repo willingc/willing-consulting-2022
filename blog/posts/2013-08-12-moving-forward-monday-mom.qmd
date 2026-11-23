@@ -16,7 +16,7 @@ image: ../../static/images/2013/08/2013-08-05-13.10.27-225x300.jpg
 image-alt: "Carol's mom"
 ---
 
-![](../../static/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
+![Carol's mom in a red cardigan, holding a small stuffed dog, with orange flowers in front of her](../../static/images/2013/08/2013-08-05-13.10.27-225x300.jpg)
 
 I recently moved my mom into a nursing home. My dad, who has been her steady
 caregiver for many years, had made the decision that they needed more care and
