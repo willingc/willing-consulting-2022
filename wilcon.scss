@@ -1,7 +1,8 @@
 /*-- scss:defaults --*/
 
-// Google Fonts are loaded via <link> in _head.html for improved performance
-// (avoids render-blocking CSS @import)
+// No web fonts: the site uses each device's system UI font.
+// Disable the Simplex theme's Open Sans @import.
+$web-font-path: false;
 
 // Colors
 $wc-deep-cove: #040A2B;
@@ -28,26 +29,23 @@ $navbar-hl: $wc-calypso;
 $footer-bg: $wc-deep-cove;
 $footer-fg: $white;
 
-// Fonts
-
-$roboto-flex: 'Roboto Flex';
-$roboto-mono: 'Roboto Mono';
-
+// Fonts: system font stacks (no downloads, no layout shift from font swaps).
+// SF Pro on Apple devices, Segoe UI on Windows, Roboto on Android/ChromeOS.
 // stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif: $roboto-flex;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 
-$font-family-monospace: $roboto-mono;
+$font-family-monospace: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
 
 
 /*-- scss:rules --*/
 
 h1, h2 {
-  font-family: $roboto-flex;
+  font-family: $font-family-sans-serif;
   color: $wc-calypso;
 }
 
 h3, h4 {
-  font-family: $roboto-flex;
+  font-family: $font-family-sans-serif;
   color: $wc-deep-cove;
 }
 

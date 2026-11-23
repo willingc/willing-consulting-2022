@@ -150,6 +150,17 @@
   margin-bottom: 1.3rem;
 }
 
+/* In the two-column hero (text beside the logo), keep the subtitle
+   "Simplifying open source for forward-thinking businesses" on one line
+   with system fonts: at the theme default (1.65rem = 28px, root is 17px)
+   it is ~8px too wide for its 710px column. 1.55rem = 26.35px leaves a
+   margin for wider fonts such as Segoe UI. */
+@media (min-width: 1201px) {
+  .hero-banner h2 {
+    font-size: 1.55rem;
+  }
+}
+
 .hero-banner h3 {
   margin-top: 1.3rem;
   margin-bottom: 1.3rem;
