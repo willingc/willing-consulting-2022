@@ -11,6 +11,7 @@ Personal/consulting website for Carol Willing (willingconsulting.com), built wit
 - **Preview locally:** `quarto preview`
 - **Render site:** `quarto render` (outputs to `_site/`)
 - **Compile SCSS manually:** `sass wilcon.scss wilcon.css`
+- **Regenerate listing thumbnails:** `python3 _scripts/make_thumbnails.py` (macOS; needs `cwebp` from `brew install webp`). Run after adding or changing a post's front-matter `image`, and commit the files under `thumbs/`.
 
 There are no tests or linters configured for this project.
 
@@ -45,6 +46,9 @@ There are no tests or linters configured for this project.
 
 - `listing-grid-a11y.ejs` — Custom EJS listing template that uses `<h2>` for card titles (accessibility fix for heading hierarchy)
 - `execute: freeze: auto` in `_quarto.yml` — Computational outputs are frozen (stored in `_freeze/`)
+- Post-render scripts (`project: post-render` in `_quarto.yml`, run on Quarto's bundled Deno):
+  - `_post-render-card-headings.ts` — changes the blog listing's card titles from Quarto's default `<h5>` to `<h2>` (heading order); `styles.css` sizes them to match
+  - `_post-render-thumbnails.ts` — points listing card images (home, blog, about) at the small WebP thumbnails in `thumbs/` (see `thumbs/manifest.json`) and adds width/height. Front-matter images, post header images, and social previews still use the originals. Cards without a thumbnail keep the original image.
 
 ### Quarto Extensions
 

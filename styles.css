@@ -11,6 +11,13 @@
   border-bottom: none;
 }
 
+/* Listing card thumbnails get width/height attributes (_post-render-thumbnails.ts)
+   so the browser can reserve space. Let the height follow the width; listings
+   with a fixed image height (blog, about) set it inline, which still wins. */
+.quarto-grid-item .card-img-top > img.thumbnail-image {
+  height: auto;
+}
+
 @media (min-width: 1020px) {
 .navbar-brand-container {
   margin-right: 1em;
