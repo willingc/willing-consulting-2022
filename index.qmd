@@ -1,4 +1,6 @@
 ---
+# Listing pages contain no math; skip loading MathJax (~220 KB) here.
+html-math-method: plain
 pagetitle: "Willing Consulting"
 page-layout: custom
 section-divs: false

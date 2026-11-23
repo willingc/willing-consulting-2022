@@ -1,4 +1,6 @@
 ---
+# Listing pages contain no math; skip loading MathJax (~220 KB) here.
+html-math-method: plain
 title: "TIL - Today I Learned"
 listing:
   contents: .

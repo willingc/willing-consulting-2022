@@ -1,5 +1,7 @@
 ---
 title: "Contact"
+description: "Contact Carol Willing of Willing Consulting about open source strategy, Python, AI, and speaking engagements."
+hide-description: true
 sidebar: false
 ---
 
