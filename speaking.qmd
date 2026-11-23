@@ -145,7 +145,7 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 
 - **PyLadies Los Angeles**, Santa Monica
   - Panel speaker, Talk Data to Me
-- [**WeeklyPythonChat**](https://www.weeklypython.chat) podcast with Trey Hunner
+- **WeeklyPythonChat** podcast with Trey Hunner
   - Invited Speaker on _Writing Docs in Sphinx_
   - [video](https://www.crowdcast.io/e/sphinx/register?utm_source=Trey%27s%20Weekly%20Python%20Chat&utm_campaign=4294888c14-EMAIL_CAMPAIGN_2017_10_28&utm_medium=email&utm_term=0_d717efe425-4294888c14-29747353&mc_cid=4294888c14&mc_eid=f8efeeec0c)
 - **PyCon UK**, Cardiff, UK
@@ -194,15 +194,15 @@ Visit my [talk playlist](https://www.youtube.com/playlist?list=PLbmHuawY0ITI8crh
 - Google Summer of Code celebration
 - [San Diego Women's Hackathon](https://sandiegohackathon.org/)
 - Grace Hopper Celebration
-  - [Open Source Day Outreach](https://gracehopper.org/conference-overview/open-source-day-2015/)
+  - Open Source Day Outreach
   - OpenHatch workshop organizer
   - Speaker and panelist
 - [DjangoCon 2015](https://2015.djangocon.us/) - DjangoGirls coach
 - [Open San Diego](https://opensandiego.org/) - Meetup speaker
-- [Qualcomm EmpowHERment Summit](https://empowherment.qualcomm.com/) - Technical-Workshop Presenter
+- Qualcomm EmpowHERment Summit - Technical-Workshop Presenter
 - SciPy 2015
 - O'Reilly Solid 2015
-- [GeekGirl TechCon](https://sandiego.geekgirltechcon.com/) (San Diego, CA) - Workshop Presenter
+- GeekGirl TechCon (San Diego, CA) - Workshop Presenter
 - [Cisco DevNet Hackathon](https://hackathon.cisco.com/event/ciscolive-sandiego-2015) at Cisco Live - Judge
 - National Day of Civic Hacking (San Diego, CA) - Mentor
 - Women's Hackathon at CSUSM - Mentor

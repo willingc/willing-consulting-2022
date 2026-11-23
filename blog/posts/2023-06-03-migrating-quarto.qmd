@@ -167,7 +167,7 @@ format:
 
 15. I published my site with Netlify and followed the excellent instructions in [Quarto's docs](https://quarto.org/docs/publishing/netlify.html).
 
-16. The current site is deployed at [https://willingconsulting.com](https://willingconsulting.com).
+16. The current site is deployed at [https://www.willingconsulting.com](https://www.willingconsulting.com).
 
 ## Next steps
 

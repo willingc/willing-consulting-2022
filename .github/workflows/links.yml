@@ -1,10 +1,13 @@
 name: Links
 
+# Renders the site and checks every link in the built HTML (see lychee.toml).
+# Broken links are reported in a single "Link Checker Report" issue, which is
+# updated on later runs instead of opening a new issue each time.
+
 on:
-  repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: "00 18 * * *"
+    - cron: "0 18 * * 1" # Mondays 18:00 UTC
 
 permissions:
   contents: read
@@ -15,16 +18,41 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v6
+        with:
+          persist-credentials: false
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@10ecffe43941bc1d1ea080631818c4aa70ee0435 # v2
+        with:
+          version: 1.11.9
+
+      - name: Render site
+        run: quarto render
 
       - name: Link Checker
+        id: lychee
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
         with:
-          args: --verbose --exclude-path benches --exclude-path fixtures .
+          args: --no-progress --root-dir ${{ github.workspace }}/_site '_site/**/*.html'
+          # Don't fail here, so the report step below can run
+          fail: false
 
-      - name: Create Issue From File
-        if: github.repository_owner == 'willingc' && env.lychee_exit != 0
+      - name: Find open link report issue
+        id: find-issue
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search 'in:title "Link Checker Report"' \
+            --json number --jq '.[0].number // empty')
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update issue
+        if: github.repository_owner == 'willingc' && steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: report, automated issue
+          issue-number: ${{ steps.find-issue.outputs.number }}

@@ -30,9 +30,9 @@ I entered this course with an expectation that my econometrics background would 
 
 #### Incentives
 
-“Information systems are prone to fail when the person responsible for protecting a system is not the one who suffers when it fails”[1] Tyler Moore and Ross Anderson point out that companies’ incentives often do not align with the best interests of the greater community. Similar incentives to address security issues should be in place for individual members of a development team. Plenty of developers under pressure to get product out the door introduce security vulnerabilities or vectors for attack. Whether it is a result of a lack of time or training, developers create software that passes data unencrypted, check security keys into public GitHub repos, do not protect against XSS, fail to keep old systems current with security patches, and more. As Moore and Anderson point out, it’s important for managers and developers as “…parties in a position to fix problems have an incentive to do so.” [1]
+“Information systems are prone to fail when the person responsible for protecting a system is not the one who suffers when it fails”\[1\] Tyler Moore and Ross Anderson point out that companies’ incentives often do not align with the best interests of the greater community. Similar incentives to address security issues should be in place for individual members of a development team. Plenty of developers under pressure to get product out the door introduce security vulnerabilities or vectors for attack. Whether it is a result of a lack of time or training, developers create software that passes data unencrypted, check security keys into public GitHub repos, do not protect against XSS, fail to keep old systems current with security patches, and more. As Moore and Anderson point out, it’s important for managers and developers as “…parties in a position to fix problems have an incentive to do so.” \[1\]
 
-One difficulty in providing incentives for developers is the ability to easily create meaningful metrics for measuring security and its impact. Incenting developers to use tools that reinforce best practices such as in Resources [2] and [3] would be one excellent way to align individual developer interests with the greater industry interests. Automating repetitive tasks for configuration and testing also frees the developer to do more meaningful work and helps motivate better practices and personal growth.
+One difficulty in providing incentives for developers is the ability to easily create meaningful metrics for measuring security and its impact. Incenting developers to use tools that reinforce best practices such as in Resources \[2\] and \[3\] would be one excellent way to align individual developer interests with the greater industry interests. Automating repetitive tasks for configuration and testing also frees the developer to do more meaningful work and helps motivate better practices and personal growth.
 
 #### Information asymmetries
 
@@ -48,9 +48,9 @@ People are the cornerstone of improved security. Technology helps but only to th
 
 ##### Resources:
 
-[1]: Tyler Moore and Ross Anderson. Economics and Internet Security: a Survey of Recent Analytical, Empirical
-andBehavioral Research, 2011
+\[1\] Tyler Moore and Ross Anderson. Economics and Internet Security: a Survey of Recent Analytical, Empirical
+and Behavioral Research, 2011
 
-[2]: Cybersecurity Initiative http://cybersecurity.ieee.org
+\[2\] Cybersecurity Initiative <http://cybersecurity.ieee.org>
 
-[3]: OWASP https://www.owasp.org/index.php/OWASP_Proactive_Controls
+\[3\] OWASP <https://www.owasp.org/index.php/OWASP_Proactive_Controls>
