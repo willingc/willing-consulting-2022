@@ -6,6 +6,7 @@ author: Carol Willing
 date: 2018-08-08
 draft: false
 image: ../../static/images/ada-blinka.jpg
+image-alt: "Carol Willing in a workshop, holding a large purple plush snake, Blinka the CircuitPython mascot"
 ---
 
 For as long as I can remember, I have been passionate about using

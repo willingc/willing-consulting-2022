@@ -18,6 +18,7 @@ author: Carol Willing
 date: 2015-08-09
 draft: false
 image: ../../static/images/2015/08/2014-08-02-01.47.45.jpg
+image-alt: "A MicroPython pyboard v1.0 circuit board in its case"
 ---
 
 A Fab Lab is a community space for people to gather and fabricate their dreams

@@ -6,6 +6,7 @@ author: Carol Willing
 date: 2019-11-02
 draft: false
 image: ../../static/images/2019/pycon-psc.jpg
+image-alt: "Five members of the inaugural Python Steering Council seated on stage during a panel at PyCon"
 ---
 
 **The successful release of Python 3.8 (thanks Łukasz and everyone who contributed) begins a new chapter for the Python Steering Council.** Under the new governance of core development, described in
