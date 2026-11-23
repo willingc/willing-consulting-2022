@@ -20,7 +20,7 @@ There are no tests or linters configured for this project.
 - `@quarto/netlify-plugin-quarto` (configured in `netlify.toml`) installs Quarto and runs `quarto render` during Netlify builds. The Quarto version is pinned there via `version = "v1.11.9"` (a quarto-cli release tag, leading `v` required); a `QUARTO_VERSION` env var in Netlify overrides it.
 - Response headers (CSP, security, caching) live in `_headers`, which Quarto copies into `_site/` via `project: resources` in `_quarto.yml`. Do not put headers in `netlify.toml`.
 - When adding a new third-party embed, script, font, or API, update the Content-Security-Policy in `_headers` or it will be blocked.
-- Lighthouse plugin runs post-build; report at `reports/lighthouse.html`
+- Lighthouse plugin runs during the build (`onPostBuild`, via `fail_deploy_on_score_thresholds = "true"` with no thresholds, so it never fails the build) and publishes HTML reports: `/reports/lighthouse.html` (home), `/reports/blog.html`, `/reports/blog-post.html`, `/reports/contact.html`. Audits run against `_site/` served locally, so `_headers` and CDN caching are not reflected in the scores.
 
 ## Architecture
 

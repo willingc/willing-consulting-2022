@@ -15,9 +15,34 @@ package = "@quarto/netlify-plugin-quarto"
 ## Response headers live in `_headers`, which Quarto copies into _site/
 ## (see `project: resources` in _quarto.yml).
 
-## Lighthouse plugin: generates a Lighthouse report after build
+## Lighthouse plugin: audits pages during the build and publishes HTML reports
+## under /reports/ on every deploy (production and Deploy Previews).
+##
+## By default this plugin runs *after* the deploy is live (onSuccess) and
+## discards output_path, so no report is ever published. Setting
+## fail_deploy_on_score_thresholds = "true" makes it run in onPostBuild
+## instead, which serves _site/ locally and can write reports into it.
+## No thresholds are set, so low scores never fail the build.
+##
+## Note: these audits serve _site/ from a local static server, so Netlify's
+## response headers (_headers) and CDN caching are not part of the scores.
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
-	[plugins.inputs]
-	# Deploy the lighthouse report to this path under your published site
-	output_path = "reports/lighthouse.html"
+  [plugins.inputs]
+  fail_deploy_on_score_thresholds = "true"
+
+  [[plugins.inputs.audits]]
+  path = "index.html"
+  output_path = "reports/lighthouse.html"
+
+  [[plugins.inputs.audits]]
+  path = "blog/index.html"
+  output_path = "reports/blog.html"
+
+  [[plugins.inputs.audits]]
+  path = "blog/posts/2026-05-24_pycon_ai.html"
+  output_path = "reports/blog-post.html"
+
+  [[plugins.inputs.audits]]
+  path = "contact.html"
+  output_path = "reports/contact.html"
