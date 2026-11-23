@@ -9,8 +9,8 @@ format: html
 ## 2023
 ### Python Software Foundation Community Service Award
 
-[**Python Software Foundation Community Service Award**](https://www.python.org/community/awards/community-service-award/)
-by the [Python Software Foundation](https://psf.org).
+[**Python Software Foundation Community Service Award**](https://www.python.org/community/awards/psf-awards/)
+by the [Python Software Foundation](https://www.python.org/psf-landing/).
 
 The PSF Community Service Awards are a formal way for the PSF Board of Directors to offer recognition of work which, in its opinion, significantly improves the Foundation's fulfillment of its mission and benefits the broader Python community.
 
@@ -22,7 +22,7 @@ The PSF Community Service Awards are a formal way for the PSF Board of Directors
 ### Frank Willison Memorial Award
 
 [**Frank Willison Memorial Award**](https://www.python.org/community/awards/frank-willison/)
-by the [Python Software Foundation](https://psf.org) and [O'Reilly Media](https://www.oreilly.com/).
+by the [Python Software Foundation](https://www.python.org/psf-landing/) and [O'Reilly Media](https://www.oreilly.com/).
 
 The **Frank Willison Memorial Award** for Contributions to the Python Community is given annually to a person judged to have made an outstanding contribution to the Python community. 
 

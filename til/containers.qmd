@@ -6,7 +6,7 @@ date: 2023-06-14
   
 ## Updating Cuda
 
-From [jarvislab.ai docs](https://jarvislabs.ai/docs/troubleshooting/):
+From [Jarvislabs docs](https://docs.jarvislabs.ai/troubleshooting):
 
 If you want to use a different version of cuda, then you can follow the below steps.
 

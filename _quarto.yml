@@ -9,7 +9,7 @@ language:
 
 website:
   title: "Willing Consulting"
-  site-url: "https://willingconsulting.com"
+  site-url: "https://www.willingconsulting.com"
   description: "Carol Willing, Human Centered Open Source Leadership"
   favicon: static/images/images/favicon_symbol.png
   page-navigation: true
