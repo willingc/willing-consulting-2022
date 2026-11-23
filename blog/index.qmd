@@ -1,4 +1,6 @@
 ---
+# Listing pages contain no math; skip loading MathJax (~220 KB) here.
+html-math-method: plain
 title: "Blog listing"
 subtitle: Notes on Python and AI for curious people at every level.
 description: Writing from Carol Willing of Willing Consulting on Python, open source, data science, and AI.

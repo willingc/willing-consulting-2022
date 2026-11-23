@@ -1,4 +1,6 @@
 ---
+# Listing pages contain no math; skip loading MathJax (~220 KB) here.
+html-math-method: plain
 title: "Carol Willing"
 description: "Expert in Python, open source governance, data science, and AI. Core Python developer, three-time Steering Council member, and Project Jupyter contributor."
 toc: false
