@@ -33,21 +33,24 @@ $footer-fg: $white;
 $roboto-flex: 'Roboto Flex';
 $roboto-mono: 'Roboto Mono';
 
+// Fallback stacks: until the web fonts load, text is drawn in a similar
+// system font. Without them the browser falls back to its default serif
+// font, and the swap to Roboto Flex reflows text (layout shift).
 // stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif: $roboto-flex;
+$font-family-sans-serif: $roboto-flex, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 
-$font-family-monospace: $roboto-mono;
+$font-family-monospace: $roboto-mono, ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
 
 
 /*-- scss:rules --*/
 
 h1, h2 {
-  font-family: $roboto-flex;
+  font-family: $font-family-sans-serif;
   color: $wc-calypso;
 }
 
 h3, h4 {
-  font-family: $roboto-flex;
+  font-family: $font-family-sans-serif;
   color: $wc-deep-cove;
 }
 
