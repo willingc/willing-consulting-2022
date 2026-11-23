@@ -4,7 +4,8 @@ categories: [tech]
 author: Carol Willing
 date: 2013-12-22
 draft: false
-image: ../../static/images/2019/notebook-38.png
+image: ../../static/images/placeholder.png
+image-alt: placeholder logo image
 tags:
   - 3d-printing
   - community
