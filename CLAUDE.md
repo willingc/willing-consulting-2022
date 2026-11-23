@@ -16,10 +16,11 @@ There are no tests or linters configured for this project.
 
 ## Deployment
 
-- Deployed to **Netlify** via GitHub Actions (`.github/workflows/publish.yml`) on push to `main`
-- Uses `@quarto/netlify-plugin-quarto` to install Quarto and build during Netlify deploys
+- Deployed by **Netlify's Git integration**: pushes to `main` build production; pull requests get Deploy Previews. There is no GitHub Actions deploy workflow.
+- `@quarto/netlify-plugin-quarto` (configured in `netlify.toml`) installs Quarto and runs `quarto render` during Netlify builds. The Quarto version is pinned there via `version = "v1.11.9"` (a quarto-cli release tag, leading `v` required); a `QUARTO_VERSION` env var in Netlify overrides it.
+- Response headers (CSP, security, caching) live in `_headers`, which Quarto copies into `_site/` via `project: resources` in `_quarto.yml`. Do not put headers in `netlify.toml`.
+- When adding a new third-party embed, script, font, or API, update the Content-Security-Policy in `_headers` or it will be blocked.
 - Lighthouse plugin runs post-build; report at `reports/lighthouse.html`
-- Quarto pre-release version is used in CI
 
 ## Architecture
 
