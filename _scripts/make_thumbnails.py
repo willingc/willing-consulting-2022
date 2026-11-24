@@ -115,7 +115,11 @@ def make(src: Path, v: Variant) -> dict | None:
         print(f"skip  {v.name:<7} {rel}: not much smaller ({after // 1024} KB vs {before // 1024} KB)")
         return None
     print(f"made  {v.name:<7} {rel}: {before // 1024} KB -> {after // 1024} KB ({out_w}x{out_h})")
-    return {"thumb": dest.relative_to(ROOT).as_posix(), "width": out_w, "height": out_h}
+    return {
+        "thumb": dest.relative_to(ROOT).as_posix(), "width": out_w, "height": out_h,
+        # Original size, so pages that keep the original can still set width/height.
+        "original_width": w, "original_height": h,
+    }
 
 
 def main() -> int:

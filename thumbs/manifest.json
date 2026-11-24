@@ -2,101 +2,141 @@
   "cards": {
     "images/HS_Willing_Carol_jupcon17_NoCube.webp": {
       "height": 550,
+      "original_height": 1636,
+      "original_width": 1657,
       "thumb": "thumbs/cards/images/HS_Willing_Carol_jupcon17_NoCube.webp",
       "width": 880
     },
     "static/images/2013/08/2013-08-05-13.10.27-225x300.jpg": {
       "height": 141,
+      "original_height": 300,
+      "original_width": 225,
       "thumb": "thumbs/cards/static/images/2013/08/2013-08-05-13.10.27-225x300.webp",
       "width": 225
     },
     "static/images/2013/08/itsuptous_logo_web-169x300.jpg": {
       "height": 106,
+      "original_height": 300,
+      "original_width": 169,
       "thumb": "thumbs/cards/static/images/2013/08/itsuptous_logo_web-169x300.webp",
       "width": 169
     },
     "static/images/2013/12/20131215_165734.jpg": {
       "height": 550,
+      "original_height": 2322,
+      "original_width": 4128,
       "thumb": "thumbs/cards/static/images/2013/12/20131215_165734.webp",
       "width": 880
     },
     "static/images/2014/07/dv13.jpg": {
       "height": 400,
+      "original_height": 480,
+      "original_width": 640,
       "thumb": "thumbs/cards/static/images/2014/07/dv13.webp",
       "width": 640
     },
     "static/images/2015/06/bouquet-300x225.jpg": {
       "height": 188,
+      "original_height": 225,
+      "original_width": 300,
       "thumb": "thumbs/cards/static/images/2015/06/bouquet-300x225.webp",
       "width": 300
     },
     "static/images/2015/08/2014-08-02-01.47.45.jpg": {
       "height": 550,
+      "original_height": 3456,
+      "original_width": 4608,
       "thumb": "thumbs/cards/static/images/2015/08/2014-08-02-01.47.45.webp",
       "width": 880
     },
     "static/images/2019/git-title.webp": {
       "height": 550,
+      "original_height": 1358,
+      "original_width": 1818,
       "thumb": "thumbs/cards/static/images/2019/git-title.webp",
       "width": 880
     },
     "static/images/2019/notebook-38.webp": {
       "height": 550,
+      "original_height": 1282,
+      "original_width": 1912,
       "thumb": "thumbs/cards/static/images/2019/notebook-38.webp",
       "width": 880
     },
     "static/images/2019/pycon-psc.jpg": {
       "height": 550,
+      "original_height": 800,
+      "original_width": 1944,
       "thumb": "thumbs/cards/static/images/2019/pycon-psc.webp",
       "width": 880
     },
     "static/images/2023/2023-06-03-quarto.webp": {
       "height": 550,
+      "original_height": 2030,
+      "original_width": 2298,
       "thumb": "thumbs/cards/static/images/2023/2023-06-03-quarto.webp",
       "width": 880
     },
     "static/images/2023/2023-06-04-polar-image.png": {
       "height": 550,
+      "original_height": 912,
+      "original_width": 946,
       "thumb": "thumbs/cards/static/images/2023/2023-06-04-polar-image.webp",
       "width": 880
     },
     "static/images/2023/2023-11-20-pyladies-office.webp": {
       "height": 550,
+      "original_height": 858,
+      "original_width": 3531,
       "thumb": "thumbs/cards/static/images/2023/2023-11-20-pyladies-office.webp",
       "width": 880
     },
     "static/images/2024/2024-11-napari.png": {
       "height": 550,
+      "original_height": 635,
+      "original_width": 1086,
       "thumb": "thumbs/cards/static/images/2024/2024-11-napari.webp",
       "width": 880
     },
     "static/images/2024/2024-napari-container.webp": {
       "height": 550,
+      "original_height": 1430,
+      "original_width": 2052,
       "thumb": "thumbs/cards/static/images/2024/2024-napari-container.webp",
       "width": 880
     },
     "static/images/2026/ai_framing_three_panel.webp": {
       "height": 550,
+      "original_height": 3100,
+      "original_width": 1700,
       "thumb": "thumbs/cards/static/images/2026/ai_framing_three_panel.webp",
       "width": 880
     },
     "static/images/ada-blinka.jpg": {
       "height": 550,
+      "original_height": 2048,
+      "original_width": 1536,
       "thumb": "thumbs/cards/static/images/ada-blinka.webp",
       "width": 880
     },
     "static/images/images/carolopolis-avatar.jpg": {
       "height": 550,
+      "original_height": 2191,
+      "original_width": 2208,
       "thumb": "thumbs/cards/static/images/images/carolopolis-avatar.webp",
       "width": 880
     },
     "static/images/placeholder.png": {
       "height": 156,
+      "original_height": 250,
+      "original_width": 250,
       "thumb": "thumbs/cards/static/images/placeholder.webp",
       "width": 250
     },
     "static/images/swirl-mascot-1000.webp": {
       "height": 550,
+      "original_height": 1000,
+      "original_width": 1000,
       "thumb": "thumbs/cards/static/images/swirl-mascot-1000.webp",
       "width": 880
     }
@@ -104,81 +144,113 @@
   "headers": {
     "static/images/2013/08/2013-08-05-13.10.27-225x300.jpg": {
       "height": 180,
+      "original_height": 300,
+      "original_width": 225,
       "thumb": "thumbs/headers/static/images/2013/08/2013-08-05-13.10.27-225x300.webp",
       "width": 225
     },
     "static/images/2013/08/itsuptous_logo_web-169x300.jpg": {
       "height": 135,
+      "original_height": 300,
+      "original_width": 169,
       "thumb": "thumbs/headers/static/images/2013/08/itsuptous_logo_web-169x300.webp",
       "width": 169
     },
     "static/images/2014/07/dv13.jpg": {
       "height": 480,
+      "original_height": 480,
+      "original_width": 640,
       "thumb": "thumbs/headers/static/images/2014/07/dv13.webp",
       "width": 640
     },
     "static/images/2015/06/bouquet-300x225.jpg": {
       "height": 225,
+      "original_height": 225,
+      "original_width": 300,
       "thumb": "thumbs/headers/static/images/2015/06/bouquet-300x225.webp",
       "width": 300
     },
     "static/images/2015/08/2014-08-02-01.47.45.jpg": {
       "height": 900,
+      "original_height": 3456,
+      "original_width": 4608,
       "thumb": "thumbs/headers/static/images/2015/08/2014-08-02-01.47.45.webp",
       "width": 1200
     },
     "static/images/2019/git-title.webp": {
       "height": 896,
+      "original_height": 1358,
+      "original_width": 1818,
       "thumb": "thumbs/headers/static/images/2019/git-title.webp",
       "width": 1200
     },
     "static/images/2019/notebook-38.webp": {
       "height": 805,
+      "original_height": 1282,
+      "original_width": 1912,
       "thumb": "thumbs/headers/static/images/2019/notebook-38.webp",
       "width": 1200
     },
     "static/images/2019/pycon-psc.jpg": {
       "height": 494,
+      "original_height": 800,
+      "original_width": 1944,
       "thumb": "thumbs/headers/static/images/2019/pycon-psc.webp",
       "width": 1200
     },
     "static/images/2023/2023-06-03-quarto.webp": {
       "height": 960,
+      "original_height": 2030,
+      "original_width": 2298,
       "thumb": "thumbs/headers/static/images/2023/2023-06-03-quarto.webp",
       "width": 1200
     },
     "static/images/2023/2023-06-04-polar-image.png": {
       "height": 757,
+      "original_height": 912,
+      "original_width": 946,
       "thumb": "thumbs/headers/static/images/2023/2023-06-04-polar-image.webp",
       "width": 946
     },
     "static/images/2023/2023-11-20-pyladies-office.webp": {
       "height": 292,
+      "original_height": 858,
+      "original_width": 3531,
       "thumb": "thumbs/headers/static/images/2023/2023-11-20-pyladies-office.webp",
       "width": 1200
     },
     "static/images/2024/2024-11-napari.png": {
       "height": 635,
+      "original_height": 635,
+      "original_width": 1086,
       "thumb": "thumbs/headers/static/images/2024/2024-11-napari.webp",
       "width": 1086
     },
     "static/images/2024/2024-napari-container.webp": {
       "height": 836,
+      "original_height": 1430,
+      "original_width": 2052,
       "thumb": "thumbs/headers/static/images/2024/2024-napari-container.webp",
       "width": 1200
     },
     "static/images/2026/ai_framing_three_panel.webp": {
       "height": 960,
+      "original_height": 3100,
+      "original_width": 1700,
       "thumb": "thumbs/headers/static/images/2026/ai_framing_three_panel.webp",
       "width": 1200
     },
     "static/images/ada-blinka.jpg": {
       "height": 960,
+      "original_height": 2048,
+      "original_width": 1536,
       "thumb": "thumbs/headers/static/images/ada-blinka.webp",
       "width": 1200
     },
     "static/images/placeholder.png": {
       "height": 200,
+      "original_height": 250,
+      "original_width": 250,
       "thumb": "thumbs/headers/static/images/placeholder.webp",
       "width": 250
     }

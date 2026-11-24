@@ -6,7 +6,9 @@
 // * Listing cards (home, blog, about; class "thumbnail-image") use the small
 //   card versions in thumbs/cards/.
 // * Blog post header images (in .quarto-title-thumbnail, from
-//   blog/posts/title-block.html) use the header versions in thumbs/headers/.
+//   blog/posts/title-block.html) use the header versions in thumbs/headers/,
+//   unless the post also shows the same image in its body (then the header
+//   keeps the original so it's downloaded only once).
 // * The navbar logo gets its intrinsic width/height.
 //
 // The card and header versions are made by `_scripts/make_thumbnails.py` and
@@ -16,7 +18,13 @@
 //
 // Runs on Quarto's bundled Deno, so no extra runtime is needed in CI.
 
-type Entry = { thumb: string; width: number; height: number };
+type Entry = {
+  thumb: string;
+  width: number;
+  height: number;
+  original_width: number;
+  original_height: number;
+};
 type Manifest = Record<"cards" | "headers", Record<string, Entry>>;
 
 const OUT_DIR = "_site";
@@ -71,7 +79,7 @@ const outputs = (Deno.env.get("QUARTO_PROJECT_OUTPUT_FILES") ?? "")
   .map((f) => f.trim().replaceAll("\\", "/"))
   .filter((f) => f.endsWith(".html"));
 
-const totals = { cards: 0, cardsMissing: 0, headers: 0, headersMissing: 0, logos: 0 };
+const totals = { cards: 0, cardsMissing: 0, headers: 0, headersShared: 0, headersMissing: 0, logos: 0 };
 
 for (const file of outputs) {
   const html = await Deno.readTextFile(file);
@@ -84,7 +92,22 @@ for (const file of outputs) {
     return out ?? tag;
   });
 
+  // Images the page already loads outside the header. If a post repeats its
+  // header image in the body, keep the original in the header too, so the
+  // browser downloads one file instead of two.
+  const bodyImages = new Set<string>();
+  for (const tag of updated.replace(HEADER_IMG, "$1").match(/<img\b[^>]*>/g) ?? []) {
+    const m = tag.match(SRC_ATTR);
+    if (m && !/^(https?:|data:)/.test(m[2])) bodyImages.add(resolve(dir, m[2]));
+  }
+
   updated = updated.replace(HEADER_IMG, (_all, open: string, tag: string) => {
+    const m = tag.match(SRC_ATTR);
+    if (m && bodyImages.has(resolve(dir, m[2]))) {
+      totals.headersShared++;
+      const entry = manifest.headers[resolve(dir, m[2])];
+      return open + (entry ? addSize(tag, entry.original_width, entry.original_height) : tag);
+    }
     const out = swap(tag, dir, manifest.headers);
     out ? totals.headers++ : totals.headersMissing++;
     return open + (out ?? tag);
@@ -101,7 +124,8 @@ for (const file of outputs) {
 }
 
 console.log(
-  `post-render images: ${totals.cards} card images, ${totals.headers} post header images, ` +
+  `post-render images: ${totals.cards} card images, ${totals.headers} post header images ` +
+    `(${totals.headersShared} kept the original because the post repeats it), ` +
     `${totals.logos} navbar logos sized`,
 );
 if (totals.cardsMissing || totals.headersMissing) {
