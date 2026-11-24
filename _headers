@@ -6,20 +6,23 @@
 #
 # CSP sources, by what needs them:
 #   plausible.io                    - analytics script and event reporting (_plausible_snippet.html)
-#   cdn.jsdelivr.net, cdnjs         - MathJax and its polyfill on pages with math
 #   gist.github.com, githubassets   - gist shortcode embeds (script + stylesheet)
 #   assets.calendly.com, calendly   - scheduling widget on contact page
 #   formspree.io                    - contact form submission
 #   youtube, willingc.github.io     - embedded videos and slides
-#   worker-src blob:                - MathJax 4 starts a web worker from a blob: URL
 #   font-src data:                  - AnchorJS (heading link icons) embeds its font as a data: URL
+#
+# No page currently contains math, so MathJax is never loaded. If a page adds
+# math, Quarto loads MathJax from a CDN; add https://cdn.jsdelivr.net and
+# https://cdnjs.cloudflare.com to script-src, https://cdn.jsdelivr.net to
+# font-src and connect-src, and `worker-src 'self' blob:`.
 
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://gist.github.com https://assets.calendly.com; style-src 'self' 'unsafe-inline' https://github.githubassets.com; img-src 'self' https: data:; font-src 'self' data: https://cdn.jsdelivr.net; frame-src 'self' https://www.youtube.com https://willingc.github.io https://calendly.com https://app.netlify.com; connect-src 'self' https://plausible.io https://cdn.jsdelivr.net; worker-src 'self' blob:; form-action 'self' https://formspree.io
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://plausible.io https://gist.github.com https://assets.calendly.com; style-src 'self' 'unsafe-inline' https://github.githubassets.com; img-src 'self' https: data:; font-src 'self' data:; frame-src 'self' https://www.youtube.com https://willingc.github.io https://calendly.com https://app.netlify.com; connect-src 'self' https://plausible.io; form-action 'self' https://formspree.io
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
 # Cache headers for static assets
