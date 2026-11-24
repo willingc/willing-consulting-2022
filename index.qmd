@@ -77,11 +77,11 @@ contributor, my dedication to the language can be felt far and wide.
 
 ::: {.grid}
 ::: {.g-col-lg-6 .g-col-12}
-![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.webp "Carol Willing presenting PyCon 2023 Keynote"){.img-fluid loading="lazy" width="2434" height="1468"}
+![*Carol Willing presenting PyCon 2023 Keynote*](images/pycon-keynote.webp "Carol Willing presenting PyCon 2023 Keynote"){.img-fluid loading="lazy" width="1200" height="724"}
 :::
 
 ::: {.g-col-lg-6 .g-col-12}
-![*PyCon 2023 Keynote: Python -- The People's Programming Language*](images/pycon-title-slide.webp "PyCon 2023 Keynote: Python -- The People's Programming Language"){.img-fluid loading="lazy" width="2524" height="1638"}
+![*PyCon 2023 Keynote: Python -- The People's Programming Language*](images/pycon-title-slide.webp "PyCon 2023 Keynote: Python -- The People's Programming Language"){.img-fluid loading="lazy" width="1200" height="779"}
 :::
 
 :::
