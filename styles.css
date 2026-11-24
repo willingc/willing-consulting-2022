@@ -48,6 +48,9 @@
 .quarto-title-thumbnail img {
   display: block;
   width: 100%;
+  /* width/height attributes (added by _post-render-images.ts) only set the
+     proportions; the height still follows the width, capped by max-height. */
+  height: auto;
   max-height: 280px;
   object-fit: cover;
   object-position: center top;

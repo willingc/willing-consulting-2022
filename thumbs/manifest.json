@@ -1,102 +1,186 @@
 {
-  "images/HS_Willing_Carol_jupcon17_NoCube.webp": {
-    "height": 550,
-    "thumb": "thumbs/images/HS_Willing_Carol_jupcon17_NoCube.webp",
-    "width": 880
+  "cards": {
+    "images/HS_Willing_Carol_jupcon17_NoCube.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/images/HS_Willing_Carol_jupcon17_NoCube.webp",
+      "width": 880
+    },
+    "static/images/2013/08/2013-08-05-13.10.27-225x300.jpg": {
+      "height": 141,
+      "thumb": "thumbs/cards/static/images/2013/08/2013-08-05-13.10.27-225x300.webp",
+      "width": 225
+    },
+    "static/images/2013/08/itsuptous_logo_web-169x300.jpg": {
+      "height": 106,
+      "thumb": "thumbs/cards/static/images/2013/08/itsuptous_logo_web-169x300.webp",
+      "width": 169
+    },
+    "static/images/2013/12/20131215_165734.jpg": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2013/12/20131215_165734.webp",
+      "width": 880
+    },
+    "static/images/2014/07/dv13.jpg": {
+      "height": 400,
+      "thumb": "thumbs/cards/static/images/2014/07/dv13.webp",
+      "width": 640
+    },
+    "static/images/2015/06/bouquet-300x225.jpg": {
+      "height": 188,
+      "thumb": "thumbs/cards/static/images/2015/06/bouquet-300x225.webp",
+      "width": 300
+    },
+    "static/images/2015/08/2014-08-02-01.47.45.jpg": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2015/08/2014-08-02-01.47.45.webp",
+      "width": 880
+    },
+    "static/images/2019/git-title.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2019/git-title.webp",
+      "width": 880
+    },
+    "static/images/2019/notebook-38.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2019/notebook-38.webp",
+      "width": 880
+    },
+    "static/images/2019/pycon-psc.jpg": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2019/pycon-psc.webp",
+      "width": 880
+    },
+    "static/images/2023/2023-06-03-quarto.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2023/2023-06-03-quarto.webp",
+      "width": 880
+    },
+    "static/images/2023/2023-06-04-polar-image.png": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2023/2023-06-04-polar-image.webp",
+      "width": 880
+    },
+    "static/images/2023/2023-11-20-pyladies-office.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2023/2023-11-20-pyladies-office.webp",
+      "width": 880
+    },
+    "static/images/2024/2024-11-napari.png": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2024/2024-11-napari.webp",
+      "width": 880
+    },
+    "static/images/2024/2024-napari-container.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2024/2024-napari-container.webp",
+      "width": 880
+    },
+    "static/images/2026/ai_framing_three_panel.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/2026/ai_framing_three_panel.webp",
+      "width": 880
+    },
+    "static/images/ada-blinka.jpg": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/ada-blinka.webp",
+      "width": 880
+    },
+    "static/images/images/carolopolis-avatar.jpg": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/images/carolopolis-avatar.webp",
+      "width": 880
+    },
+    "static/images/placeholder.png": {
+      "height": 156,
+      "thumb": "thumbs/cards/static/images/placeholder.webp",
+      "width": 250
+    },
+    "static/images/swirl-mascot-1000.webp": {
+      "height": 550,
+      "thumb": "thumbs/cards/static/images/swirl-mascot-1000.webp",
+      "width": 880
+    }
   },
-  "static/images/2013/08/2013-08-05-13.10.27-225x300.jpg": {
-    "height": 141,
-    "thumb": "thumbs/static/images/2013/08/2013-08-05-13.10.27-225x300.webp",
-    "width": 225
-  },
-  "static/images/2013/08/itsuptous_logo_web-169x300.jpg": {
-    "height": 106,
-    "thumb": "thumbs/static/images/2013/08/itsuptous_logo_web-169x300.webp",
-    "width": 169
-  },
-  "static/images/2013/12/20131215_165734.jpg": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2013/12/20131215_165734.webp",
-    "width": 880
-  },
-  "static/images/2014/07/dv13.jpg": {
-    "height": 400,
-    "thumb": "thumbs/static/images/2014/07/dv13.webp",
-    "width": 640
-  },
-  "static/images/2015/06/bouquet-300x225.jpg": {
-    "height": 188,
-    "thumb": "thumbs/static/images/2015/06/bouquet-300x225.webp",
-    "width": 300
-  },
-  "static/images/2015/08/2014-08-02-01.47.45.jpg": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2015/08/2014-08-02-01.47.45.webp",
-    "width": 880
-  },
-  "static/images/2019/git-title.webp": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2019/git-title.webp",
-    "width": 880
-  },
-  "static/images/2019/notebook-38.webp": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2019/notebook-38.webp",
-    "width": 880
-  },
-  "static/images/2019/pycon-psc.jpg": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2019/pycon-psc.webp",
-    "width": 880
-  },
-  "static/images/2023/2023-06-03-quarto.webp": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2023/2023-06-03-quarto.webp",
-    "width": 880
-  },
-  "static/images/2023/2023-06-04-polar-image.png": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2023/2023-06-04-polar-image.webp",
-    "width": 880
-  },
-  "static/images/2023/2023-11-20-pyladies-office.webp": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2023/2023-11-20-pyladies-office.webp",
-    "width": 880
-  },
-  "static/images/2024/2024-11-napari.png": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2024/2024-11-napari.webp",
-    "width": 880
-  },
-  "static/images/2024/2024-napari-container.webp": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2024/2024-napari-container.webp",
-    "width": 880
-  },
-  "static/images/2026/ai_framing_three_panel.webp": {
-    "height": 550,
-    "thumb": "thumbs/static/images/2026/ai_framing_three_panel.webp",
-    "width": 880
-  },
-  "static/images/ada-blinka.jpg": {
-    "height": 550,
-    "thumb": "thumbs/static/images/ada-blinka.webp",
-    "width": 880
-  },
-  "static/images/images/carolopolis-avatar.jpg": {
-    "height": 550,
-    "thumb": "thumbs/static/images/images/carolopolis-avatar.webp",
-    "width": 880
-  },
-  "static/images/placeholder.png": {
-    "height": 156,
-    "thumb": "thumbs/static/images/placeholder.webp",
-    "width": 250
-  },
-  "static/images/swirl-mascot-1000.webp": {
-    "height": 550,
-    "thumb": "thumbs/static/images/swirl-mascot-1000.webp",
-    "width": 880
+  "headers": {
+    "static/images/2013/08/2013-08-05-13.10.27-225x300.jpg": {
+      "height": 180,
+      "thumb": "thumbs/headers/static/images/2013/08/2013-08-05-13.10.27-225x300.webp",
+      "width": 225
+    },
+    "static/images/2013/08/itsuptous_logo_web-169x300.jpg": {
+      "height": 135,
+      "thumb": "thumbs/headers/static/images/2013/08/itsuptous_logo_web-169x300.webp",
+      "width": 169
+    },
+    "static/images/2014/07/dv13.jpg": {
+      "height": 480,
+      "thumb": "thumbs/headers/static/images/2014/07/dv13.webp",
+      "width": 640
+    },
+    "static/images/2015/06/bouquet-300x225.jpg": {
+      "height": 225,
+      "thumb": "thumbs/headers/static/images/2015/06/bouquet-300x225.webp",
+      "width": 300
+    },
+    "static/images/2015/08/2014-08-02-01.47.45.jpg": {
+      "height": 900,
+      "thumb": "thumbs/headers/static/images/2015/08/2014-08-02-01.47.45.webp",
+      "width": 1200
+    },
+    "static/images/2019/git-title.webp": {
+      "height": 896,
+      "thumb": "thumbs/headers/static/images/2019/git-title.webp",
+      "width": 1200
+    },
+    "static/images/2019/notebook-38.webp": {
+      "height": 805,
+      "thumb": "thumbs/headers/static/images/2019/notebook-38.webp",
+      "width": 1200
+    },
+    "static/images/2019/pycon-psc.jpg": {
+      "height": 494,
+      "thumb": "thumbs/headers/static/images/2019/pycon-psc.webp",
+      "width": 1200
+    },
+    "static/images/2023/2023-06-03-quarto.webp": {
+      "height": 960,
+      "thumb": "thumbs/headers/static/images/2023/2023-06-03-quarto.webp",
+      "width": 1200
+    },
+    "static/images/2023/2023-06-04-polar-image.png": {
+      "height": 757,
+      "thumb": "thumbs/headers/static/images/2023/2023-06-04-polar-image.webp",
+      "width": 946
+    },
+    "static/images/2023/2023-11-20-pyladies-office.webp": {
+      "height": 292,
+      "thumb": "thumbs/headers/static/images/2023/2023-11-20-pyladies-office.webp",
+      "width": 1200
+    },
+    "static/images/2024/2024-11-napari.png": {
+      "height": 635,
+      "thumb": "thumbs/headers/static/images/2024/2024-11-napari.webp",
+      "width": 1086
+    },
+    "static/images/2024/2024-napari-container.webp": {
+      "height": 836,
+      "thumb": "thumbs/headers/static/images/2024/2024-napari-container.webp",
+      "width": 1200
+    },
+    "static/images/2026/ai_framing_three_panel.webp": {
+      "height": 960,
+      "thumb": "thumbs/headers/static/images/2026/ai_framing_three_panel.webp",
+      "width": 1200
+    },
+    "static/images/ada-blinka.jpg": {
+      "height": 960,
+      "thumb": "thumbs/headers/static/images/ada-blinka.webp",
+      "width": 1200
+    },
+    "static/images/placeholder.png": {
+      "height": 200,
+      "thumb": "thumbs/headers/static/images/placeholder.webp",
+      "width": 250
+    }
   }
 }
