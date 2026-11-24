@@ -19,6 +19,9 @@ $gray-900: #212529;
 $body-bg: $wc-cream;
 $body-color: $gray-900;
 $link-color: $wc-calypso;
+// Bootstrap's accent color (dropdown/pagination highlights, primary buttons,
+// focus rings). The Simplex theme sets it to red (#d9230f); use the brand blue.
+$primary: $wc-calypso;
 $enable-shadows: false;
 
 
