@@ -48,10 +48,10 @@ There are no tests or linters configured for this project.
 - `execute: freeze: auto` in `_quarto.yml` — Computational outputs are frozen (stored in `_freeze/`)
 - Post-render scripts (`project: post-render` in `_quarto.yml`, run on Quarto's bundled Deno):
   - `_post-render-card-headings.ts` — changes the blog listing's card titles from Quarto's default `<h5>` to `<h2>` (heading order); `styles.css` sizes them to match
+  - `_post-render-defer-scripts.ts` — adds `defer` to Quarto's `site_libs` scripts in `<head>` so pages render without waiting for them (except `glightbox.min.js`, whose inline setup runs immediately). If a Quarto upgrade adds an inline script that calls a library before `DOMContentLoaded`, add that library to `KEEP_BLOCKING`.
   - `_post-render-images.ts` — points listing card images (home, blog, about) at `thumbs/cards/` and blog post header images at `thumbs/headers/` (see `thumbs/manifest.json`), and adds width/height to those and to the navbar logo. Social previews (`og:image`) still use the originals; images without a small version keep the original.
 
 ### Quarto Extensions
 
 - `quarto-ext/fontawesome` — Font Awesome icons
-- `mcanouil/iconify` — Iconify icons (used for Bluesky icon in footer)
 - `sellorm/social-embeds` — Social media embeds

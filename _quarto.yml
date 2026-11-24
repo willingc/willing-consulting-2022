@@ -6,6 +6,7 @@ project:
   post-render:
     - _post-render-card-headings.ts   # blog listing card titles: <h5> -> <h2>
     - _post-render-images.ts          # right-sized card/header images, image dimensions
+    - _post-render-defer-scripts.ts   # defer Quarto's site_libs scripts (faster first paint)
 
 execute:
   freeze: auto
@@ -89,8 +90,8 @@ website:
       - icon: mastodon
         href: https://hachyderm.io/web/@willingc
         aria-label: Carol Willing on Mastodon
-      - href: https://bsky.app/profile/willingc.bsky.social
-        text: "{{< iconify simple-icons bluesky >}}"
+      - icon: bluesky
+        href: https://bsky.app/profile/willingc.bsky.social
         aria-label: Carol Willing on Bluesky
       - icon: rss
         href: index.xml
